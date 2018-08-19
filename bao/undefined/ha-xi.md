@@ -1,10 +1,21 @@
 # 交易哈希
 
-交易哈希（Transaction Hash）又稱 Tx Hash，其中 Tx 就是交易的英文 Transaction 的縮寫。交易哈希，有時候也會稱作交易哈希地址，原因是，交易哈希本質上就是組交易編號，透過這個編號，就能在區塊鏈帳本上查找出該次交易的內容，包括發起人、接收者、交易金額或傳遞內容等。
+交易哈希（Transaction Hash）又稱 TxHash（唸作：踢叉-嘿許），其中的 Tx ，就是交易 Transaction 的縮寫。
+
+每筆交易送上區塊鏈時，都會獲得一組獨一無二的交易編碼，也就是轉帳記錄編號。交易哈希，有時候也會稱作**交易哈希地址**，原因就是持有這串英數組合的編碼，就可以能在**區塊鏈帳本**上，查找出該編號交易的內容，包括發起人、接收者、交易金額或傳遞內容等。
+
+就像銀行的交易水單編號、交易記錄編號等。只不過，通常不同銀行內部的編碼有不同的規則，而同一個區塊鏈網路上的編碼則是共用同一個規則，沒有國界之分。但不同區塊鏈，則就有不同的 TxHash 編碼格式。例如：
+
+比特幣區塊鏈上的交易哈希地址：  
+[**657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece**](https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/)\*\*\*\*
+
+{% embed data="{\"url\":\"https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/ \",\"type\":\"link\",\"title\":\"BTC Transaction 657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece\\n  \\n\\n      \| BlockCypher\",\"description\":\"0.03355096 BTC   transacted in TX 657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece           \(fees were 0.00000476 BTC\).            This transaction was mined in BTC block 0000000000000000001d7841a1941a0762c895691c6e9c1e270caf53de9b1d24.       1 input   consumed,   2 outputs   created.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://live.blockcypher.com/static/img/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1}}" %}
+
+以太坊區塊鏈上的交易哈希地址：[0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926](https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926)
+
+{% embed data="{\"url\":\"https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926 \",\"type\":\"link\",\"title\":\"Ethereum Transaction 0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926\",\"description\":\"Ethereum \(ETH\) detailed transaction info for 0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926\",\"icon\":{\"type\":\"icon\",\"url\":\"https://etherscan.io/images/favicon2.ico\",\"aspectRatio\":0}}" %}
 
 哈希這個詞，在後面的「[哈希](../../wa/ha-xi-zhi.md)」條目中會詳細說明，在這裡只需要知道，交易哈希就是一組通常比錢包地址更長的英數組合字串，是區塊鏈帳上每次任一筆交易發生時會觸發產生的**獨一無二的交易編號**。
-
-例如以太坊區塊鏈上的交易哈希地址：0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926
 
 {% tabs %}
 {% tab title="寶博士小挑戰" %}
