@@ -8,11 +8,11 @@
 
 ![MyCrypto.com](../../../.gitbook/assets/ying-mu-kuai-zhao-20180827-shang-wu-12.32.43%20%281%29.png)
 
-MyCrypto 近來發展用心，在右上角增添了多國語言，也增加了簡體中文和繁體中文的選項。此外，對於 MEW 雖然警告但還是保留的貼上私鑰和匯入 Keystore 等瀏覽錢包的方法，已不再支援（上圖上方英文字），改為推出一樣開放源碼的 MyCrypto Desktop App（桌面應用程式）讓使用者可以完全在自己的電腦裡操作，免除瀏覽器被駭或被剪貼簿病毒程式奪走私鑰的風險。
+[MyCrypto](http://MyCrypto.com) 近來發展用心，在右上角增添了多國語言，也增加了簡體中文和繁體中文的選項。此外，對於 MEW 警告但保留的「貼上私鑰」和「匯入 Keystore」等錢包瀏覽方法，[MyCrypto](http://MyCrypto.com) 已不再支援（見上圖上方英文字），而是改推出一樣開放源碼的 [MyCrypto Desktop App（桌面應用程式）](https://download.mycrypto.com/)讓使用者可以完全在自己的電腦裡離線操作錢包，無需經過瀏覽器甚至無需連線上網，免除瀏覽器被駭或被剪貼簿病毒程式奪走私鑰的風險。
 
 {% embed data="{\"url\":\"http://bit.ly/2MyTyBn \",\"type\":\"link\",\"title\":\"木馬程式Evrial透過修改剪貼簿內容竊取比特幣 - 區塊客\",\"description\":\"最近外國網路安全團隊發現一隻新型木馬程式，它可以修改剪貼簿中的加密貨幣地址，當用戶使用「複製/貼上」地址來進行交易時，可能會將資金送入駭客的口袋之中。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://i0.wp.com/cdn.blockcast.it/wp-content/uploads/2017/04/21203715/b\_logo.png?fit=180%2C180&ssl=1\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i0.wp.com/cdn.blockcast.it/wp-content/uploads/2018/01/24124559/trojan-horse.jpg?fit=780%2C494&ssl=1\",\"width\":780,\"height\":494,\"aspectRatio\":0.6333333333333333}}" %}
 
-MyCrypto 桌面應用程式（支援 Mac, Windows, Linux 跨平台）而且可以完全離線使用！相對安全許多。
+[MyCrypto 桌面應用程式](https://download.mycrypto.com/)（支援 Mac, Windows, Linux 跨平台）而且可以完全離線使用！相對安全許多。
 
 ![](../../../.gitbook/assets/ying-mu-kuai-zhao-20180827-shang-wu-12.32.21.png)
 
