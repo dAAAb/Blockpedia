@@ -70,5 +70,5 @@ description: 一些為什麼寫，與為什麼不寫？
 
 
 
-
+{% embed data="{\"url\":\"https://goo.gl/forms/No3mvokWJ3XnBzCW2 \",\"type\":\"rich\",\"title\":\"《牛也會的區塊鏈大百科（2018終極版）》  優先試閱者登錄問卷\",\"description\":\"《牛也會的區塊鏈百科（2018終極版）》是寶博士正在撰寫中的產業推廣與技術著作，該書預計將包含 300 個以上從基礎到重要的區塊鏈相關名詞定義及條目，若有意願優先試閱，請填此表。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/forms/device\_home/android\_192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh4.googleusercontent.com/bwrTpnWPsD9rjRtfR42y81hHBHiY9XIRwj4O710VeDQFeY60ub4NlyPXg9Jbf7ff-ac=w1200-h630-p\",\"width\":200,\"height\":200,\"aspectRatio\":1},\"embed\":{\"type\":\"app\",\"url\":\"https://docs.google.com/forms/d/e/1FAIpQLSe4IiZu6Y3XMj4oR86Aptipyf-KQY1yDjjvtMzYMR8vLQ1LVg/viewform?usp=send\_form&embedded=true&usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://docs.google.com/forms/d/e/1FAIpQLSe4IiZu6Y3XMj4oR86Aptipyf-KQY1yDjjvtMzYMR8vLQ1LVg/viewform?usp=send\_form&amp;embedded=true&amp;usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
 
