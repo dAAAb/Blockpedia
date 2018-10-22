@@ -14,7 +14,7 @@
 
 ![https://token.im/wallet?locale=zh-CN](../.gitbook/assets/ying-mu-kuai-zhao-20180902-xia-wu-5.13.59.png)
 
-{% embed url="https://itunes.apple.com/us/app/imtoken-2-0-bitcoin-ethereum/id1384798940?mt=8 " %}
+{% embed url="https://itunes.apple.com/us/app/imtoken-2-0-bitcoin-ethereum/id1384798940?mt=8" %}
 
 注意：如果你的比特幣錢包是使用明文私鑰導入的, 那麼才有導出比特幣私鑰功能, 如果你是使用助記詞導入或者從 imToken 中生成的 BTC 錢包, 那麼只有導出助記詞功能。
 
@@ -37,12 +37,12 @@
 
 7. 千萬不要在不知名的網站上生成錢包地址和私鑰
 
-{% embed url="https://blockcast.it/2018/01/22/nearly-4m-iota-stolen-from-wallets-since-users-used-seed-generation-websites/ " %}
+{% embed url="https://blockcast.it/2018/01/22/nearly-4m-iota-stolen-from-wallets-since-users-used-seed-generation-websites/" %}
 
   
 目前寶博士最推薦的應該是 Coinbase 剛推出的 Wallet App。Coinbase 作為全球最早也最大的區塊鏈虛擬貨幣公司，若是程式有問題，大概整個市場就會瞬間失去信心。所以它的錢包應該是相對最安全的。（缺點是沒有中文）
 
-{% embed url="https://wallet.coinbase.com/ " %}
+{% embed url="https://wallet.coinbase.com/" %}
 
   
 目前最多人用的中文多鏈錢包大概屬於前面提到的 imToken 2.0 了，大家也可以試試看。
