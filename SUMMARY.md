@@ -1,6 +1,6 @@
 # Table of contents
 
-* [0x1 Academy](README.md)
+* [關於 0x1 學院](README.md)
 * [牛也會的區塊鏈辭海圖解大百科（2018 終極版）](untitled-1.md)
 * [幣](undefined.md)
 * [帳本](ben-1.md)
