@@ -32,7 +32,7 @@
 
 參考：
 
-{% embed data="{\"url\":\"https://bit.ly/2KKTj12 \",\"type\":\"link\",\"title\":\"【300秒區塊鏈麻瓜大變身】\",\"description\":\"區塊鏈夯什麼? 如何透過網路完成有價資產轉移?歡迎區塊鏈麻瓜、比特幣觀察家、資訊焦慮的你，透過簡易圖解遊戲，輕鬆搞懂創新未來產業、翻轉生活的新經濟－－區塊鏈！\",\"icon\":{\"type\":\"icon\",\"url\":\"https://edm.bnext.com.tw/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://edm.bnext.com.tw/2018-block-chain/images/fb2.gif\",\"width\":1200,\"height\":628,\"aspectRatio\":0.5233333333333333}}" %}
+{% embed url="https://bit.ly/2KKTj12 " %}
 
 {% hint style="info" %}
 [補充資料](diao-de-pian-duan.md#undefined)

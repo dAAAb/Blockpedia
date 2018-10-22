@@ -11,5 +11,5 @@ Keystore 文件是錢包儲存私鑰的一種文件格式 \(JSON\)，利用用�
 
 本則文字部分來自：
 
-{% embed data="{\"url\":\"https://tidewallet.io/ \",\"type\":\"link\",\"title\":\"TideWallet – 實現未來應用的虛擬貨幣錢包\",\"icon\":{\"type\":\"icon\",\"url\":\"https://tidewallet.io/wp-content/uploads/2018/04/cropped-favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1}}" %}
+{% embed url="https://tidewallet.io/ " %}
 

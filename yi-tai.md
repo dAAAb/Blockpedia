@@ -55,5 +55,5 @@
 
 關於以太幣/以太坊的誤用，以及一些背後的小故事，推薦這篇文章：
 
-{% embed data="{\"url\":\"https://zhuanlan.zhihu.com/p/28994731 \",\"type\":\"link\",\"title\":\"以太币\(Ether\)的单位\",\"description\":\"在以太坊\(Ethereum ETH\)的奖励机制一文中，提到了汽油价格\(Gas Price\)，截图中一个陌生的符号GWei引起了小伙伴们的注意，看完这篇文章你就会明白GWei是什么。以太币\(Ether\)“以太币\(Ether\)“和”以太坊\(Ethereum\)…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.zhihu.com/static/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pic2.zhimg.com/v2-56181d42d7109c45fbd94cd4c6b6bed2\_r.jpg\",\"width\":800,\"height\":364,\"aspectRatio\":0.455}}" %}
+{% embed url="https://zhuanlan.zhihu.com/p/28994731 " %}
 

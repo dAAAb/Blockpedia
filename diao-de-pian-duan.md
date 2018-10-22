@@ -45,7 +45,7 @@
 
 2015 年 11 月 18 日，一名代號 ethers 的開發者在以太坊開發者社群內提議參考 1969 年以來的網路開發社群一直沿襲下來的「協議提出討論」系統（例如如今的網際網路 TCP/IP 協定就是編號第 793 和 791 號 RFC - Request for Comment）。
 
-{% embed data="{\"url\":\"https://github.com/ethereum/EIPs/issues/16 \",\"type\":\"link\",\"title\":\"Ethereum Request for Comments \(ERCs\) and Ethereum Standards \(ESDs\) · Issue \#16 · ethereum/EIPs\",\"description\":\"Should we have something like ERC \(Ethereum Request for Comments, like the IETF&\#39;s RFC https://www.ietf.org/rfc.html\) ? Or do we want to somehow expand the notion of EIPs to include them? The it...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/6937903?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/ethereum/EIPs/issues/16" caption=undefined %}
 
 
 

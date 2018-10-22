@@ -33,5 +33,5 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks。
 
 
 
-{% embed data="{\"url\":\"https://www.8btc.com/article/26652 \",\"type\":\"link\",\"title\":\"创世区块\_巴比特\_服务于区块链创新者\",\"description\":\"北京时间2009年1月4日02:15:05，中本聪（Satoshi Nakamoto）制作了比特币世界的第一个区块——“创世区块”（ Genesis block），新版本的比特币系统将它设定为0号区块，而旧版本的比特币系统设定它的序号为1。 ...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.8btc.com/public/common/favicon.ico\",\"width\":48,\"height\":48,\"aspectRatio\":1}}" %}
+{% embed url="https://www.8btc.com/article/26652 " %}
 

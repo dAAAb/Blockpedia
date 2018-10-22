@@ -13,5 +13,5 @@
 
 ### 可以線上創建並匯出私鑰的 Coin Space
 
-{% embed data="{\"url\":\"https://coin.space/?network=bitcoin \",\"type\":\"link\",\"title\":\"Coin\",\"description\":\"Coin Wallet is a free online bitcoin &amp; litecoin wallet which you can use to make worldwide payments for free. We make paying with bitcoins easy and secure\",\"icon\":{\"type\":\"icon\",\"url\":\"https://coin.space/assets/icons/apple-touch-icon-180x180.ba734853.png\",\"width\":180,\"height\":180,\"aspectRatio\":1}}" %}
+{% embed url="https://coin.space/?network=bitcoin " %}
 

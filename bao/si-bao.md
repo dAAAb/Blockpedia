@@ -18,15 +18,15 @@
 
 以太坊基金會開發的開源錢包 Mist（ [https://github.com/ethereum/mist/releases](https://github.com/ethereum/mist/releases) ）
 
-{% embed data="{\"url\":\"https://github.com/ethereum/mist/releases \",\"type\":\"link\",\"title\":\"ethereum/mist\",\"description\":\"mist - Mist. Browse and use Ðapps on the Ethereum network.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/6250754?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/ethereum/mist/releases " %}
 
 Cardano 基金會開發的開源 ADA 錢包 Daedalus（ [https://github.com/input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) ）
 
-{% embed data="{\"url\":\"https://github.com/input-output-hk/daedalus \",\"type\":\"link\",\"title\":\"input-output-hk/daedalus\",\"description\":\"daedalus - Daedalus - cryptocurrency wallet\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/12909177?s=400&v=4\",\"width\":250,\"height\":250,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/input-output-hk/daedalus " %}
 
 比特幣的開源錢包 Copay（ [https://github.com/bitpay/copay](https://github.com/bitpay/copay) ）
 
-{% embed data="{\"url\":\"https://github.com/bitpay/copay \",\"type\":\"link\",\"title\":\"bitpay/copay\",\"description\":\"copay - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/2554930?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/bitpay/copay " %}
 
 
 

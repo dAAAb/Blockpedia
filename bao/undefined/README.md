@@ -23,7 +23,7 @@
 
 ![&#x6B65;&#x9A5F;5. &#x8CC7;&#x7522;&#x5B8C;&#x6210;&#x771F;&#x6B63;&#x7684;&#x8F49;&#x79FB;&#xFF08;&#x8A18;&#x9304;&#xFF09;](../../.gitbook/assets/skitched-20180805-191142.jpg)
 
-{% embed data="{\"url\":\"https://edm.bnext.com.tw/2018-block-chain/ \",\"type\":\"link\",\"title\":\"【300秒區塊鏈麻瓜大變身】\",\"description\":\"區塊鏈夯什麼? 如何透過網路完成有價資產轉移?歡迎區塊鏈麻瓜、比特幣觀察家、資訊焦慮的你，透過簡易圖解遊戲，輕鬆搞懂創新未來產業、翻轉生活的新經濟－－區塊鏈！\",\"icon\":{\"type\":\"icon\",\"url\":\"https://edm.bnext.com.tw/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://edm.bnext.com.tw/2018-block-chain/images/fb2.gif\",\"width\":1200,\"height\":628,\"aspectRatio\":0.5233333333333333}}" %}
+{% embed url="https://edm.bnext.com.tw/2018-block-chain/ " %}
 
 ### 一筆交易 = 帳務記錄更新
 

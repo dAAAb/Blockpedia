@@ -44,5 +44,5 @@
 
 點下方連結安裝比特幣區塊鏈程式
 
-{% embed data="{\"url\":\"https://bitcoin.org/zh\_TW/download \",\"type\":\"link\",\"title\":\"下載 - Bitcoin\",\"icon\":{\"type\":\"icon\",\"url\":\"https://bitcoin.org/img/icons/logo\_ios.png?1532189157\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://bitcoin.org/img/icons/opengraph.png?1532189157\",\"width\":500,\"height\":500,\"aspectRatio\":1}}" %}
+{% embed url="https://bitcoin.org/zh\_TW/download " %}
 

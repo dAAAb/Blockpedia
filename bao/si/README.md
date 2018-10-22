@@ -27,5 +27,5 @@
 
 #### 參考資料
 
-{% embed data="{\"url\":\"https://www.jianshu.com/p/af6328cc693e \",\"type\":\"link\",\"title\":\"比特币的私钥，公钥和地址是什么？\",\"description\":\"在比特币中，经常出现三个词：私钥，公钥和地址。他们是什么意思呢？他们之间又有什么样的关系呢？搞清楚他们之间的关系和区别，是了解比特币的基础。 私钥 先说说私钥，一般我们看到的私钥是下面这样的一段...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn2.jianshu.io/assets/apple-touch-icons/152-bf209460fc1c17bfd3e2b84c8e758bc11ca3e570fd411c3bbd84149b97453b99.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
+{% embed url="https://www.jianshu.com/p/af6328cc693e " %}
 

@@ -25,7 +25,7 @@
 
 關於比特幣跟黃金的比較，這裡有一個很棒的影片。原出處是[在這裡](https://www.youtube.com/watch?v=YHjYt6Jm5j8)。下方是台灣的中文翻譯版：
 
-{% embed data="{\"url\":\"https://vlog.xuite.net/play/WTIyb1JxLTMyOTE5NDAxLmZsdg==/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E6%98%AF%E5%95%A5%E5%8F%AF%E4%BB%A5%E5%90%83%E5%97%8E%EF%BC%9F%E9%80%99%E9%83%A8%E7%88%86%E7%AC%91%E7%9F%AD%E7%89%87%E5%91%8A%E8%A8%B4%E4%BD%A0%E4%BB%80%E9%BA%BC%E6%98%AF%E6%AF%94%E7%89%B9%E5%B9%A3 \",\"type\":\"video\",\"title\":\"虛擬貨幣是啥可以吃嗎？這部爆笑短片告訴你什麼是比特幣\",\"description\":\"虛擬貨幣是啥可以吃嗎？這部爆笑短片告訴你什麼是比特幣 \(Xuite 影音\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://img.xuite.net/\_v\_1.0.52/favicon/xuite/apple-touch-icon-152x152-precomposed.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//vlog.xuite.net/media/home7/c7/66/232279340/50026/0620d0-32919401.jpg\",\"width\":640,\"height\":360,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"//vlog.xuite.net/embed/WTIyb1JxLTMyOTE5NDAxLmZsdg==\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"//vlog.xuite.net/embed/WTIyb1JxLTMyOTE5NDAxLmZsdg==\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://vlog.xuite.net/play/WTIyb1JxLTMyOTE5NDAxLmZsdg==/%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E6%98%AF%E5%95%A5%E5%8F%AF%E4%BB%A5%E5%90%83%E5%97%8E%EF%BC%9F%E9%80%99%E9%83%A8%E7%88%86%E7%AC%91%E7%9F%AD%E7%89%87%E5%91%8A%E8%A8%B4%E4%BD%A0%E4%BB%80%E9%BA%BC%E6%98%AF%E6%AF%94%E7%89%B9%E5%B9%A3 " %}
 
 仔細看會發現，所有過去懷疑黃金有價值的人所提出的問題，和當時擁護黃金的人所提出的各種反駁；和現今懷疑比特幣有價值的人所提出的問題，以及現在擁護比特幣的人所提出的各種理由，竟然幾乎一樣！
 

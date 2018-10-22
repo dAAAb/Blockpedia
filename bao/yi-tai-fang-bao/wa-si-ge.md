@@ -30,7 +30,7 @@
 
 在這個頁面裡， Etherscan 公司就提供了平均燃料價格檢視工具 [https://ethgasstation.info/](https://ethgasstation.info/) 來視覺化地告訴使用者現在的平均燃料價格（Gas Price Standard），如同加油站在加油時會告訴你這個地區目前的油價如何：
 
-{% embed data="{\"url\":\"https://ethgasstation.info/ \",\"type\":\"link\",\"title\":\"ETH Gas Station\",\"description\":\"ETH gasprice recommendations\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ethgasstation.info/images/android-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://ethgasstation.info/images/ETHGasStation.png\",\"width\":1024,\"height\":1024,\"aspectRatio\":1}}" %}
+{% embed url="https://ethgasstation.info/ " %}
 
 例如下面這張圖是筆者寫作時的以太坊網路現狀及燃料費狀態，**平均每筆燃料費用是 2.6 Gwei，而且只要付出足夠的燃料量 x 平均燃料價格（2.6 Gwei），就可以在大約在 1.63 分鐘內完成交易驗證**。
 
@@ -58,7 +58,7 @@
 小秘技：針對可能不小心卡住交易，導致某個錢包在以太坊網路塞車解除前變成完全不能用。有技術大神寫了一篇這樣的文章和相關工具：
 {% endhint %}
 
-{% embed data="{\"url\":\"https://ethfans.org/posts/releasing-stuck-ethereum-transactions \",\"type\":\"link\",\"title\":\"科普 \| 释放阻塞的以太坊交易 » 论坛 » EthFans \| 以太坊爱好者\",\"icon\":{\"type\":\"icon\",\"url\":\"https://upyun-assets.ethfans.org/assets/ios-icon-acd63e1b249b5fcaaa2c280914cf946d4348c6eb0f884d804415f11bb01d10cc.png\",\"aspectRatio\":0}}" %}
+{% embed url="https://ethfans.org/posts/releasing-stuck-ethereum-transactions " %}
 
 
 

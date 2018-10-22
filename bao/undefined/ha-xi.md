@@ -9,11 +9,11 @@
 比特幣區塊鏈上的交易哈希地址：  
 [**657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece**](https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/)\*\*\*\*
 
-{% embed data="{\"url\":\"https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/ \",\"type\":\"link\",\"title\":\"BTC Transaction 657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece\\n  \\n\\n      \| BlockCypher\",\"description\":\"0.03355096 BTC   transacted in TX 657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece           \(fees were 0.00000476 BTC\).            This transaction was mined in BTC block 0000000000000000001d7841a1941a0762c895691c6e9c1e270caf53de9b1d24.       1 input   consumed,   2 outputs   created.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://live.blockcypher.com/static/img/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1}}" %}
+{% embed url="https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/ " %}
 
 以太坊區塊鏈上的交易哈希地址：[0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926](https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926)
 
-{% embed data="{\"url\":\"https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926 \",\"type\":\"link\",\"title\":\"Ethereum Transaction 0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926\",\"description\":\"Ethereum \(ETH\) detailed transaction info for 0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926\",\"icon\":{\"type\":\"icon\",\"url\":\"https://etherscan.io/images/favicon2.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926 " %}
 
 哈希這個詞，在後面的「[哈希](../../wa/ha-xi-zhi.md)」條目中會詳細說明，在這裡只需要知道，交易哈希就是一組通常比錢包地址更長的英數組合字串，是區塊鏈帳上每次任一筆交易發生時會觸發產生的**獨一無二的交易編號**。
 

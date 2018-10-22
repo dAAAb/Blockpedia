@@ -32,7 +32,7 @@
 
 由於整個以太坊開發和以太幣的預售，在法律和金融層面擁有一定程度的複雜性，導致一些法律實體需要被創建，其中包括以太坊基金會（英文：Ethereum Foundation）於 2014 年 6 月創建於瑞士的 Zug（即「[加密谷](qi-ta/jia-mi-gu.md)」）。
 
-{% embed data="{\"url\":\"http://ethdoc.cn/index.html \",\"type\":\"link\",\"title\":\"以太坊 Homestead 文档 — Ethereum Homestead 0.1 documentation\"}" %}
+{% embed url="http://ethdoc.cn/index.html " %}
 
 
 

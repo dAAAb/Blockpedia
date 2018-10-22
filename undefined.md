@@ -26,5 +26,5 @@
 
 TED Talk 上廣為流傳 由全世界最多天才的地方之一：[麻省理工學院媒體實驗室](https://www.media.mit.edu/)所設之「[數位貨幣倡議所（MIT Digital Currency Initiative）](https://dci.mit.edu/)」總監內哈娜魯拉 \(Neha Narula\) 主講的「貨幣的未來」：
 
-{% embed data="{\"url\":\"https://www.ted.com/talks/neha\_narula\_the\_future\_of\_money?language=zh-TW&utm\_campaign=tedspread&utm\_medium=referral&utm\_source=tedcomshare \",\"type\":\"link\",\"title\":\"貨幣的未來\",\"description\":\"如果我們購買、銷售、和支付的方式改變了，會如何？也許甚至不再需要銀行或是貨幣兌換局了？這是一個由加密貨幣（如比特幣和以太坊）所驅動之世界的根本承諾。我們還沒走到那一步，但在這場很有火花的演說中，數位貨幣研究者內哈娜魯拉描述了貨幣的集體想像－並描繪出一個非常不同的未來。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://pa.tedcdn.com/mask-icon.svg\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1eea6d0b-513a-4d54-9b3c-871e612b8be5/NehaNarula\_2016S-embed.jpg?w=1200\",\"width\":1200,\"height\":675,\"aspectRatio\":0.5625},\"caption\":\"其中有提到 Yap 石幣的故事，值得一看\"}" %}
+{% embed url="https://www.ted.com/talks/neha\_narula\_the\_future\_of\_money?language=zh-TW&utm\_campaign=tedspread&utm\_medium=referral&utm\_source=tedcomshare" caption="其中有提到 Yap 石幣的故事，值得一看" %}
 
