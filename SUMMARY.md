@@ -1,14 +1,14 @@
 # Table of contents
 
 * [關於 0x1 學院](README.md)
-* [牛也會的區塊鏈辭海圖解大百科（2018 終極版）](untitled-1.md)
-* [幣](undefined.md)
-* [帳本](ben-1.md)
+* [牛也會的區塊鏈辭海圖解大百科（2018 終極版）](blockpedia.md)
+* [幣](currency.md)
+* [帳本](ledger.md)
 * [中心化帳本](zhong-xin-hua-ben.md)
 * [叛客](pan-ke.md)
 * [區塊鏈](chain.md)
 * [比特幣](bi-te.md)
-* [數位資產](wei-2.md)
+* [數位資產](digital-assets.md)
 * [分散式帳本](fen-san-shi-ben.md)
 * [去中心化](qu-zhong-xin-hua.md)
 * [鏈](undefined-1.md)
