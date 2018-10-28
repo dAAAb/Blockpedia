@@ -29,13 +29,21 @@ description: About 0x1 Academy
 
 ### 協助區塊鏈影片翻譯
 
-#### -[《未來狀態（國家狀況外）](https://youtu.be/3iAzLqtlefg)[Ulterior States](https://youtu.be/3iAzLqtlefg)[》 \[IamSatoshi Documentary\] \[繁中字幕\]](https://youtu.be/3iAzLqtlefg)
+#### -[《未來狀態（國家狀況外）Ulterior States》 \[IamSatoshi Documentary\] \[繁中字幕\]](https://youtu.be/3iAzLqtlefg)
+
+{% embed url="https://youtu.be/3iAzLqtlefg" %}
 
 #### -[《區塊鏈和我們（The Bitcoin and Us）》](https://www.youtube.com/watch?v=2iF73cybTBs)
 
-#### -[《加密經濟學：概論 - 區塊課預告（Cryptoeconomics: An Introduction - Blockchain Course Trailer）》](https://www.youtube.com/watch?v=m-0escxJ-j8)
+{% embed url="https://www.youtube.com/watch?v=2iF73cybTBs" %}
+
+#### -[《加密經濟學：概論 - 預告（Cryptoeconomics: An Introduction - Blockchain Course Trailer）》](https://www.youtube.com/watch?v=m-0escxJ-j8)
+
+{% embed url="https://www.youtube.com/watch?v=m-0escxJ-j8" %}
 
 #### -[《加密經濟學 1.0 - 第一章 ：總覽 》Cryptoeconomics - 1.0 - Chapter 1 Overview》](https://www.youtube.com/watch?v=VaUTTE5xb54)
+
+{% embed url="https://www.youtube.com/watch?v=VaUTTE5xb54" %}
 
 ## 搶先訂閱
 
