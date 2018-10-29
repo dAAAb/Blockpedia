@@ -4,7 +4,7 @@
 
 {% embed url="http://bit.ly/2wtZd0s " %}
 
-截至目前，MyCrypto 的發展狀況堪稱良好，許多優質的區塊鏈專案如 [Livepeer](../../../yong-bang/livepeer.md) 等，在官方教學裡使用的創建錢包或使用錢包功能的部分都是選用 MyCrypto，而非較為人知的 [MEW](myetherwallet.md)。
+截至目前，MyCrypto 的發展狀況堪稱良好，許多優質的區塊鏈專案如 [Livepeer](../../../blockchain-apps/livepeer.md) 等，在官方教學裡使用的創建錢包或使用錢包功能的部分都是選用 MyCrypto，而非較為人知的 [MEW](myetherwallet.md)。
 
 ![MyCrypto.com](../../../.gitbook/assets/ying-mu-kuai-zhao-20180827-shang-wu-12.32.43%20%281%29.png)
 
