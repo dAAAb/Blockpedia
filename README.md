@@ -61,22 +61,23 @@ description: About 0x1 Academy
 
 ## 搶先訂閱
 
-### 本頁面後將有《牛也會的區塊鏈辭海圖解大百科》全版內文以及出版序，敬請閱讀，並歡迎登入 Google 帳號填寫此問卷，您將於每次更新都收到通知。
+本頁面後將有《[牛也會的區塊鏈辭海圖解大百科](blockpedia.md)》全版內文，歡迎登入 Google 帳號 [填寫此問卷](https://goo.gl/forms/iXXGvHa80jgtPJh52)，您將於於本書每次更新都收到通知。
 
-{% embed url="https://goo.gl/forms/No3mvokWJ3XnBzCW2" %}
+**謝謝！😇🙇‍**
 
-### 謝謝！😇🙇‍
-
-### 預計成員
+### 預定成員
 
 * Jeff Hu
 * Tina Lee
+* Tom Lam
+* Feihu Tang
 * JC Ko
-* 成為 0x1 Contributor &gt; 
 
-  [Facebook 社團](https://www.facebook.com/groups/0x1block/)
+### 加入 0x1
 
-  [LINE 社團](http://line.me/ti/g/ia2540UHZd) 
+[Facebook 社團](https://www.facebook.com/groups/0x1block/)
+
+[LINE 社團](http://line.me/ti/g/ia2540UHZd) 
 
 ## GitHub
 
