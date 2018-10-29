@@ -265,6 +265,7 @@
   * [狗狗幣](wei-ming/gou-gou.md)
   * [星雲鏈](wei-ming/xing.md)
 * [區塊鏈應用榜](yong-bang/README.md)
+  * [BlockCerts](yong-bang/blockcerts.md)
   * [IPFS](yong-bang/ipfs.md)
   * [Livepeer](yong-bang/livepeer.md)
   * [ENS](yong-bang/ens.md)
