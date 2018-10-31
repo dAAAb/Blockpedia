@@ -43,7 +43,7 @@
 
 怎麼辦呢？
 
-看起來目前這些網站一致推薦的都是使用 [MetaMask](../../../untitled/metamask.md) 或是 [冷錢包](../../../leng-bao/)如 [Ledger Wallet](../../../leng-bao/ledger-nano.md)。
+看起來目前這些網站一致推薦的都是使用 [MetaMask](../../../untitled/metamask.md) 或是 [冷錢包](../../../cold-wallet/)如 [Ledger Wallet](../../../cold-wallet/ledger-nano.md)。
 
   
 

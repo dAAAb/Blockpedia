@@ -8,5 +8,5 @@
 
 離線簽名就是這麼樣一個神奇的發明，透過 NFC、藍芽或攝影鏡頭掃描 QR 碼等二步間接驗證，離線簽名裝置將可以對遠端的系統驗證它的存在。
 
-對此有興趣的人可以查看「[FireFly 離線冷錢包](../../leng-bao/diy-zi-leng-bao-android-ban.md)」
+對此有興趣的人可以查看「[FireFly 離線冷錢包](../../cold-wallet/diy-zi-leng-bao-android-ban.md)」
 

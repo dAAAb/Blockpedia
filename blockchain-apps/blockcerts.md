@@ -22,8 +22,9 @@ description: 區塊鏈證書
 
 下載以下兩個證書檔案（JSON 格式）
 
-1. Dora Lee 修課證書（比特幣區塊鏈驗證）
-2. Dora Lee 修課證書（以太坊區塊鏈驗證）
+{% file src="../.gitbook/assets/cbe1b694-46b6-4fdd-a23c-f27b4cabe6de.json" caption="比特幣區塊鏈驗證修課證書" %}
+
+{% file src="../.gitbook/assets/06765d08-5b77-4aca-bff9-fba25e70d36e.json" caption=" 以太坊區塊鏈驗證修課證書" %}
 
 到把下載後的 JSON 檔案拖曳到以下兩個開放驗證的網站
 
@@ -39,7 +40,16 @@ description: 區塊鏈證書
 * [下載 iOS 手機「Blockcerts」](https://itunes.apple.com/us/app/blockcerts-wallet/id1146921514?mt=8)
 * [下載 Android 手機「Blockcerts」](https://play.google.com/store/apps/details?id=com.learningmachine.android.app&hl=en)
 
-參考資料
+### 待完成
+
+* [ ] 線上展示網頁（參考下方 Repo）
+
+{% embed url="https://github.com/blockchain-certificates/blockcerts-verifier" %}
+
+* [ ] 下載、分享證書
+* [ ] 線上申請及 Email 通知
+
+### 其他資源
 
 [https://btcert.com/home](https://btcert.com/home) 
 
