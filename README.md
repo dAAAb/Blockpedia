@@ -69,6 +69,10 @@ description: "盡力推廣區塊鏈科技於中文世界，並令「產-學-教�
 * Feihu Tang
 * JC Ko
 
+贊助商
+
+* [LeadBest.io](http://LeadBest.io)
+
 ### 加入 0x1
 
 [Facebook 社團](https://www.facebook.com/groups/0x1block/)
