@@ -315,6 +315,8 @@
     * [區塊鏈偶像](kao-liao/undefined/ou-xiang.md)
   * [區塊鏈電影](kao-liao/ying/README.md)
     * [《聖人大盜》](kao-liao/ying/ren-da.md)
+  * [區塊鏈紀錄片](kao-liao/pian.md)
+  * [區塊鏈TED演講](kao-liao/ted-yan.md)
   * [區塊鏈書籍](kao-liao/ji.md)
   * [區塊鏈教學](kao-liao/jiao/README.md)
     * [Tibame](kao-liao/jiao/tibame.md)
