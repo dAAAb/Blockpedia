@@ -44,13 +44,17 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 詳請見「[區塊鏈證書](../blockchain-apps/blockcerts.md)」
 
-使用方法
+#### 使用方法
 
 手機：長按拷貝連結；電腦：右鍵複製連結網址
 
 貼上至 BlockCerts App 的「Add Credential」URL 處
 
 或另存至電腦，可到 [BlockCerts.org](http://BlockCerts.org)（推薦） 或 [LearningMachine 認證頁](https://blockcerts.learningmachine.com)使用
+
+{% embed url="https://youtu.be/QVeTXF8ri0I" %}
+
+### 證書連結
 
 **-**
 
