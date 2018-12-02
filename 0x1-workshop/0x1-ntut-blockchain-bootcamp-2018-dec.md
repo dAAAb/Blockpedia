@@ -46,13 +46,11 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 #### 使用方法
 
-手機：長按拷貝連結；電腦：右鍵複製連結網址
+請在下方證書清單中找到自己的英文名字，長按名字拷貝連結（手機）或點擊滑鼠右鍵複製連結網址（電腦），下載 **BlockCerts App （**[**iOS**](https://itunes.apple.com/us/app/blockcerts-wallet/id1146921514?mt=8) **.** [**Android**](https://play.google.com/store/apps/details?id=com.learningmachine.android.app&hl=en)**）**，先備份助記詞，點選右上角齒輪圖標「⚙️」，選擇「[**Add Credential**](https://play.google.com/store/apps/details?id=com.learningmachine.android.app&hl=en)」貼上至 URL 處，按右上方「**X**」關閉回到初始頁面就會看到證書囉！點擊證書，觀看內容，點下方「**Verify**」按鈕可以在鏈上驗證證書。
 
-貼上至 BlockCerts App 的「Add Credential」URL 處
+或另存至電腦，可到 [BlockCerts.org](http://BlockCerts.org)（推薦） 或 [LearningMachine 認證頁](https://blockcerts.learningmachine.com)使用。
 
-或另存至電腦，可到 [BlockCerts.org](http://BlockCerts.org)（推薦） 或 [LearningMachine 認證頁](https://blockcerts.learningmachine.com)使用
-
-{% embed url="https://youtu.be/QVeTXF8ri0I" %}
+{% embed url="https://youtu.be/QVeTXF8ri0I" caption="BlockCerts App 搭配證書使用方法" %}
 
 ### 證書連結
 
@@ -211,4 +209,8 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 [**YUN-AN CHEN**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-AN%20CHEN_0x1_NTUT2018_Dec02.json)
 
 [**YUN-SHAN TSAI**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-SHAN%20TSAI_0x1_NTUT2018_Dec02.json)
+
+**-**
+
+**&gt;&gt;** [**使用方法**](https://www.0x1.academy/-LRGqRpaO05clgxM6SQN/0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec#shi-yong-fang-fa) **&lt;&lt;**
 
