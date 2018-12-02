@@ -8,13 +8,13 @@ description: 12/1-12/2 (2Days-18Hr)
 
 ![](../.gitbook/assets/47396623_1947280465319900_4869530368543293440_o.jpg)
 
-### 課程共筆
-
-{% embed url="https://hackmd.io/tkM6FUqeQlKyUfGFP-gicQ?view" %}
-
 ### 課程討論 Gitter
 
 {% embed url="https://gitter.im/0x1Academy/Lobby" %}
+
+### 課程共筆
+
+{% embed url="https://hackmd.io/tkM6FUqeQlKyUfGFP-gicQ?view" %}
 
 ### 重要連結 <a id="&#x91CD;&#x8981;&#x9023;&#x7D50;"></a>
 
@@ -54,11 +54,14 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 {% embed url="https://youtu.be/QVeTXF8ri0I" caption="BlockCerts App 搭配證書使用方法" %}
 
-或另存至電腦，可到 [BlockCerts.org](http://BlockCerts.org)（推薦） 或 [LearningMachine 認證頁](https://blockcerts.learningmachine.com)使用。
+  
+或按右鍵另存 JSON 證書檔案至電腦，可到 [BlockCerts.org](http://BlockCerts.org)（推薦） 或 [LearningMachine 認證頁](https://blockcerts.learningmachine.com) 上傳進行驗證。
+
+
+
+![](../.gitbook/assets/screen-shot-2018-12-03-at-1.02.59-am.png)
 
 **-**
-
-### 證書連結
 
 **0x1 講師證書**
 
@@ -66,9 +69,9 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 [**HU YAO CHUEH**](https://daaab.github.io/0x1_NTUT2018_Dec02/HU%20YAO%20CHIEH_0x1_NTUT2018_Dec02_Lecturer.json)\*\*\*\*
 
-![](../.gitbook/assets/screen-shot-2018-12-03-at-1.02.59-am.png)
-
 \*\*\*\*
+
+### 證書連結
 
 **TA 助教證書**
 
@@ -212,11 +215,15 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 [**YUE-TING CAI**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUE-TING%20CAI_0x1_NTUT2018_Dec02.json)
 
+[**YUN-AN CHEN**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-AN%20CHEN_0x1_NTUT2018_Dec02.json)
+
+[**YUN-SHAN TSAI**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-SHAN%20TSAI_0x1_NTUT2018_Dec02.json)
+
 **-**
 
 **&gt;&gt;** [**使用方法**](https://www.0x1.academy/-LRGqRpaO05clgxM6SQN/0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec#shi-yong-fang-fa) **&lt;&lt;**
 
-[**YUN-AN CHEN**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-AN%20CHEN_0x1_NTUT2018_Dec02.json)
+### **幕後花序**
 
-[**YUN-SHAN TSAI**](https://daaab.github.io/0x1_NTUT2018_Dec02/YUN-SHAN%20TSAI_0x1_NTUT2018_Dec02.json)
+{% embed url="https://youtu.be/2aFnbww-DSU" %}
 

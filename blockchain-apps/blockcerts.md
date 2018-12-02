@@ -22,9 +22,9 @@ description: 區塊鏈證書
 
 下載以下兩個證書檔案（JSON 格式）
 
-{% file src="../.gitbook/assets/cbe1b694-46b6-4fdd-a23c-f27b4cabe6de.json" caption="比特幣區塊鏈驗證修課證書" %}
+{% file src="../.gitbook/assets/cbe1b694-46b6-4fdd-a23c-f27b4cabe6de.json" caption="以太坊區塊鏈證書" %}
 
-{% file src="../.gitbook/assets/06765d08-5b77-4aca-bff9-fba25e70d36e.json" caption=" 以太坊區塊鏈驗證修課證書" %}
+{% file src="../.gitbook/assets/06765d08-5b77-4aca-bff9-fba25e70d36e.json" caption="比特幣區塊鏈證書" %}
 
 到把下載後的 JSON 檔案拖曳到以下兩個開放驗證的網站
 
