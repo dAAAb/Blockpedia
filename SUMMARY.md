@@ -288,6 +288,8 @@
   * [比特幣耶穌](ming-ren/bi-te.md)
   * [xDite](ming-ren/xdite.md)
   * [Justin Lin](ming-ren/justin-lin.md)
+* [0x1區塊鏈課程](0x1-workshop/README.md)
+  * [0x1 NTUT Blockchain Bootcamp 2018 Dec](0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
 * [參考資料](kao-liao/README.md)
   * [區塊鏈活動](kao-liao/huo/README.md)
     * [Beyond Block](kao-liao/huo/beyond-block.md)
