@@ -77,6 +77,7 @@
   * [GPU](wa/gpu.md)
   * [ASIC](wa/asic.md)
 * [區塊鏈風險](undefined-6/README.md)
+  * [女巫攻擊](undefined-6/nv-wu-gong.md)
   * [51 攻擊](undefined-6/51-gong.md)
   * [量子攻擊](undefined-6/liang-zi-gong.md)
   * [雙花攻擊](undefined-6/hua-gong.md)

@@ -27,5 +27,5 @@
 
 #### 參考資料
 
-{% embed url="https://www.jianshu.com/p/af6328cc693e " %}
+{% embed url="https://www.jianshu.com/p/af6328cc693e" %}
 
