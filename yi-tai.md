@@ -55,5 +55,5 @@
 
 關於以太幣/以太坊的誤用，以及一些背後的小故事，推薦這篇文章：
 
-{% embed url="https://zhuanlan.zhihu.com/p/28994731 " %}
+{% embed url="https://zhuanlan.zhihu.com/p/28994731" %}
 

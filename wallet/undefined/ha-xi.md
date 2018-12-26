@@ -9,11 +9,11 @@
 比特幣區塊鏈上的交易哈希地址：  
 [**657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece**](https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/)\*\*\*\*
 
-{% embed url="https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/ " %}
+{% embed url="https://live.blockcypher.com/btc/tx/657f2bdccee4042d469ed60eea749503e784d4e6781d9329f1d2db890d5c8ece/" %}
 
 以太坊區塊鏈上的交易哈希地址：[0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926](https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926)
 
-{% embed url="https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926 " %}
+{% embed url="https://etherscan.io/tx/0x2eb96d95843c7928ce7f62598393ff6d20ed15905d43ebff13a49107e8187926" %}
 
 哈希這個詞，在後面的「[哈希](../../wa/ha-xi-zhi.md)」條目中會詳細說明，在這裡只需要知道，交易哈希就是一組通常比錢包地址更長的英數組合字串，是區塊鏈帳上每次任一筆交易發生時會觸發產生的**獨一無二的交易編號**。
 
