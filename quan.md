@@ -2,7 +2,7 @@
 
 鏈圈，亦即區塊鏈圈，翻譯成白話，叫做**區塊鏈技術或應用社群**（英語：Blockchain Community）；翻譯得更白話一些，就是「**一群玩區塊鏈的人**」。
 
-相比起「[幣圈](quan-1.md)」，鏈圈的人更重視[密碼學](undefined-3/mi/)、網路拓樸、加密驗證、[錢包](wallet/)開發、[通證](tong/hang/)應用等等技術問題，以及技術能給產業帶來改變的地方。
+相比起「[幣圈](quan-1.md)」，鏈圈的人更重視[密碼學](dev/cryptography/)、網路拓樸、加密驗證、[錢包](wallet/)開發、[通證](tong/hang/)應用等等技術問題，以及技術能給產業帶來改變的地方。
 
 ## 偽裝成鏈圈人的方法
 
@@ -11,7 +11,7 @@
 「嘿，最近聽說橢圓曲線加密可以被套用在 JAVA 開發環境裡了，知道嗎？」  
 「喔，我已經在測試啦 Keccak 版的正規 SHA3 真的是很好用的技術呢！」
 
-\(\* Keccak 唸作/ˈkɛtʃæk/，[SHA3](undefined-3/mi/sha3.md) 唸作「廈 Three」或「煞 Three」\)
+\(\* Keccak 唸作/ˈkɛtʃæk/，[SHA3](dev/cryptography/sha3.md) 唸作「廈 Three」或「煞 Three」\)
 
 ### 鏈圈模擬對話 2
 
