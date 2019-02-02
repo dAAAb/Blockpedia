@@ -22,6 +22,7 @@ description: 12/1-12/2 (2Days-18Hr)
 * Title Slides\(主投影片\): [https://goo.gl/jG9KEf](https://goo.gl/jG9KEf)
 * Course Slides\(課程投影片\): [https://goo.gl/Z4YKi1](https://goo.gl/Z4YKi1)
 * 程式碼\(歡迎star!\)：[https://github.com/BlockchainEduNet-HK/smart-contract-repo](https://github.com/BlockchainEduNet-HK/smart-contract-repo)
+* 直播記錄： [Day1](https://www.youtube.com/watch?v=xfMs2DxGKAE) / [Day2](https://www.youtube.com/watch?v=PlAsKigEv7o)
 
 **Medium部落格：\(歡迎追蹤！\)**  
 Tina: [https://medium.com/@tina26919742](https://medium.com/@tina26919742)  
