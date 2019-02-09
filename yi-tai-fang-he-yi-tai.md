@@ -2,7 +2,7 @@
 
 以太坊（英文：Ethereum）是一種區塊鏈技術，於 2013 至 2014 年間程式設計師 [**維塔利克·布特林（英文：Vitalik Buterin**）](mi-yin/vitalikv-shen.md)受比特幣啟發後提出。號稱可以打造「下一個世代的比特幣」，藉由這個技術，人人可以發行自己的虛擬貨幣，並且共用以太坊的分散帳本，將交易記錄寫在同一個區塊鏈分散式帳本上。
 
-目前以太坊區塊鏈帳本的頁數大概是：603 萬頁，約佔硬碟空間 78 GB，如果是 [全節](dev/zhu/undefined-9/quan.md) （整個帳本一字不漏）備份則是 1TB。
+目前以太坊區塊鏈帳本的頁數大概是：603 萬頁，約佔硬碟空間 78 GB，如果是 [全節點](dev/zhu/undefined-9/quan.md) （整個帳本一字不漏）備份則是 1TB。
 
 ![https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62](.gitbook/assets/1_up-1b-8wj37zcshgxz7sxq.png)
 
@@ -32,7 +32,7 @@
 
 由於整個以太坊開發和以太幣的預售，在法律和金融層面擁有一定程度的複雜性，導致一些法律實體需要被創建，其中包括以太坊基金會（英文：Ethereum Foundation）於 2014 年 6 月創建於瑞士的 Zug（即「[加密谷](qi-ta/jia-mi-gu.md)」）。
 
-{% embed url="http://ethdoc.cn/index.html " %}
+{% embed url="http://ethdoc.cn/index.html" %}
 
 
 

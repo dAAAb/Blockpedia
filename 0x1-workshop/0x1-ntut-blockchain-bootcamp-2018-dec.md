@@ -238,3 +238,7 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 ![](../.gitbook/assets/img_4640.jpg)
 
+{% embed url="https://medium.com/@daaab/c5a61f5ee625" %}
+
+
+
