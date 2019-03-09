@@ -205,7 +205,7 @@
         <p><b>Zilliqa (ZIL)</b>
         </p>
         <p>Zilliqa is a high-throughput public blockchain platform - designed to
-          scale to thousands ​of transactions per second.</p>
+          scale to thousands &#x200B;of transactions per second.</p>
       </td>
       <td style="text-align:left">$0.0180
         <br />0.00000475 Btc

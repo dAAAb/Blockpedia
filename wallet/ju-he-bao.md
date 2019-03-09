@@ -1,6 +1,6 @@
 # 多鏈錢包
 
-**多鏈錢包，有時又稱作多幣錢包（英文：Multi-Chain Wallet）**也有人稱作多幣錢包或聚合錢包**（Multi-Coins Wallet 或 Multi-Currency Wallet）**，意思是同一個程式或裝置可以存放不同鏈上的資產。
+**多鏈錢包，有時又稱作多幣錢包（英文：Multi-Chain Wallet）也有人稱作多幣錢包或聚合錢包（Multi-Coins Wallet 或 Multi-Currency Wallet），意思是同一個程式或裝置可以存放不同鏈上的資產。**
 
 ### Trust Wallet
 

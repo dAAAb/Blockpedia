@@ -30,7 +30,7 @@
 
 在這個頁面裡， Etherscan 公司就提供了平均燃料價格檢視工具 [https://ethgasstation.info/](https://ethgasstation.info/) 來視覺化地告訴使用者現在的平均燃料價格（Gas Price Standard），如同加油站在加油時會告訴你這個地區目前的油價如何：
 
-{% embed url="https://ethgasstation.info/ " %}
+{% embed url="https://ethgasstation.info/" %}
 
 例如下面這張圖是筆者寫作時的以太坊網路現狀及燃料費狀態，**平均每筆燃料費用是 2.6 Gwei，而且只要付出足夠的燃料量 x 平均燃料價格（2.6 Gwei），就可以在大約在 1.63 分鐘內完成交易驗證**。
 
@@ -58,7 +58,7 @@
 小秘技：針對可能不小心卡住交易，導致某個錢包在以太坊網路塞車解除前變成完全不能用。有技術大神寫了一篇這樣的文章和相關工具：
 {% endhint %}
 
-{% embed url="https://ethfans.org/posts/releasing-stuck-ethereum-transactions " %}
+{% embed url="https://ethfans.org/posts/releasing-stuck-ethereum-transactions" %}
 
 
 

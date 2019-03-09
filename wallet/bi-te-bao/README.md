@@ -1,6 +1,6 @@
 # 比特幣錢包
 
-**比特幣錢包（英文：Botcoin Wallet）**基本上和以太幣錢包類似，是連結著比特幣區塊鏈，存放比特幣的電子程式。
+**比特幣錢包（英文：Botcoin Wallet）基本上和以太幣錢包類似，是連結著比特幣區塊鏈，存放比特幣的電子程式。**
 
 因為比特幣區塊鏈並沒有智能合約和 ERC20 這種可以允許別人在同一個鏈上發行不同幣的機制，因此比特幣原生錢包內多半僅能存放比特幣。
 
@@ -13,5 +13,5 @@
 
 ### 可以線上創建並匯出私鑰的 Coin Space
 
-{% embed url="https://coin.space/?network=bitcoin " %}
+{% embed url="https://coin.space/?network=bitcoin" %}
 

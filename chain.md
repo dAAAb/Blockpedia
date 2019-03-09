@@ -1,6 +1,6 @@
 # 區塊鏈
 
-### 密碼學加持的帳本
+### 區塊鏈（Blockchain）就是經過密碼學加持的帳本創建及維護的工具。
 
 簡單來說，區塊鏈就像一個數位帳本，只不過這個數位帳本比起傳統帳本：
 
@@ -30,9 +30,9 @@
 
 例如：交通體系、運輸管理、商品庫存、政府稅收、醫療記錄、保險等等。
 
-參考：
+**本節參考：**
 
-{% embed url="https://bit.ly/2KKTj12 " %}
+{% embed url="https://bit.ly/2KKTj12" %}
 
 {% hint style="info" %}
 [補充資料](diao-de-pian-duan.md#undefined)

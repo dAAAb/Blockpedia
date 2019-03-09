@@ -1,6 +1,8 @@
 # 私鑰錢包
 
-私鑰錢包，也可以稱作 Private Wallet。簡單講，就是可以讓你匯出「私鑰」、「Keystore」 或標準「助記詞」的錢包。使用私鑰錢包的重點在於，你是私鑰的擁有者，就算之後你想把這個錢包服務或 APP 刪除，你可以很輕易地導出錢包私鑰，將原先使用的錢包內容和資產移到另外一個地方（錢包服務或 APP）使用。
+**私鑰錢包（Private-key Wallet）簡單講，就是可以讓你匯出「私鑰」、「密鑰庫」 或「助記詞」的錢包。**
+
+使用私鑰錢包的重點在於，你是私鑰的擁有者，就算之後你想把這個錢包服務或 APP 刪除，你可以很輕易地導出錢包私鑰，將原先使用的錢包內容和資產移到另外一個地方（錢包服務或 APP）使用。
 
 反觀，在「Binance」交易所上的錢包，雖然有入金地址，也能轉帳，但是卻無法導出私鑰。所以本質上，你在交易所裡的資產，其實是 "借放" 在交易所擁有的錢包中，這是有一定風險的，亦即若是交易所倒閉或錢包管理人捲私鑰逃跑，你的資產便會消失。
 
@@ -18,15 +20,15 @@
 
 以太坊基金會開發的開源錢包 Mist（ [https://github.com/ethereum/mist/releases](https://github.com/ethereum/mist/releases) ）
 
-{% embed url="https://github.com/ethereum/mist/releases " %}
+{% embed url="https://github.com/ethereum/mist/releases" %}
 
 Cardano 基金會開發的開源 ADA 錢包 Daedalus（ [https://github.com/input-output-hk/daedalus](https://github.com/input-output-hk/daedalus) ）
 
-{% embed url="https://github.com/input-output-hk/daedalus " %}
+{% embed url="https://github.com/input-output-hk/daedalus" %}
 
 比特幣的開源錢包 Copay（ [https://github.com/bitpay/copay](https://github.com/bitpay/copay) ）
 
-{% embed url="https://github.com/bitpay/copay " %}
+{% embed url="https://github.com/bitpay/copay" %}
 
 
 
