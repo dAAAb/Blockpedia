@@ -247,6 +247,7 @@
   * [FOMO](mi-yin/fomo.md)
   * [FUD](mi-yin/fud.md)
 * [數位資產名錄](token/README.md)
+  * [艾達幣（ADA）](token/ai-ada.md)
   * [萊特幣](token/te.md)
   * [比特現金](token/bi-te-jin.md)
   * [比特黃金](token/bi-te-jin-1.md)

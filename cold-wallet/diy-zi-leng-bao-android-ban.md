@@ -2,7 +2,7 @@
 
 [MEWConnect](https://mewconnect.myetherwallet.com/#/) 是一組可以透過極高的加密技術讓智慧型手機轉化為硬體冷錢包的 APP，在 2019 年由 MEW \(MyEtherWallet）團隊製作推出。
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 {% embed url="https://mewconnect.myetherwallet.com/" %}
 

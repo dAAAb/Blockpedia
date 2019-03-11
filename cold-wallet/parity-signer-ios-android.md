@@ -2,7 +2,7 @@
 
 [Parity Signer](https://wiki.parity.io/Parity-Signer-Mobile-App) 是由以太坊知名工程團隊 Parity 所推出的離線簽章錢包 App，透過沒有連線的手機即可保存或轉移數位資產。
 
-![https://wiki.parity.io/Parity-Signer-Mobile-App](../.gitbook/assets/image%20%284%29.png)
+![https://wiki.parity.io/Parity-Signer-Mobile-App](../.gitbook/assets/image%20%287%29.png)
 
 使用流程較為複雜，推薦有經驗的使用者使用。
 

@@ -1,6 +1,6 @@
 # Trezor
 
-Trezor 是由一間捷克公司 SatoshiLabs 所推出的硬體冷錢包，幾乎可以算是最早期的硬體錢包。目前有兩個產品「Trezor One」與「Trezor Model T」。
+[Trezor](https://trezor.io/?offer_id=12&aff_id=2378) 是由一間捷克公司 SatoshiLabs 所推出的硬體冷錢包，幾乎可以算是最早期的硬體錢包。目前有兩個產品「[Trezor One](https://shop.trezor.io/product/trezor-one-white?offer_id=14&aff_id=2378)」與「[Trezor Model T](https://shop.trezor.io/product/trezor-model-t?offer_id=15&aff_id=2378)」。
 
 ![&#x7531;&#x5DE6;&#x81F3;&#x53F3;-&#x300C;Trezor One&#x300D;&#x8207;&#x300C;Trezor Model T&#x300D;](../.gitbook/assets/image%20%282%29.png)
 
@@ -10,5 +10,7 @@ Trezor 是由一間捷克公司 SatoshiLabs 所推出的硬體冷錢包，幾乎
 
 {% embed url="https://technews.tw/2017/10/31/hacking-the-trezor-bitcoin-vault/" %}
 
-
+{% hint style="info" %}
+本文內含[廣告連結](https://shop.trezor.io/?offer_id=10&aff_id=2378)，協助 0x1 Academy 運作。
+{% endhint %}
 
