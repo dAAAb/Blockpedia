@@ -36,7 +36,7 @@ description: "盡力推廣區塊鏈科技於中文世界，並令「產-學-教�
 * Feihu Tang
 * JC Ko
 
-贊助商
+### 贊助商
 
 * [LeadBest.io](http://LeadBest.io)
 
@@ -45,6 +45,12 @@ description: "盡力推廣區塊鏈科技於中文世界，並令「產-學-教�
 [Facebook 社團](https://www.facebook.com/groups/0x1block/)
 
 [LINE 社團](http://line.me/ti/g/ia2540UHZd) 
+
+### 捐款
+
+{% embed url="https://commerce.coinbase.com/checkout/de4118be-57d2-4882-8c4a-121b57ef44f6" %}
+
+
 
 ## GitHub
 
