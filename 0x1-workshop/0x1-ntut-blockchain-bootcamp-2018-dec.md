@@ -2,7 +2,7 @@
 description: 12/1-12/2 (2Days-18Hr)
 ---
 
-# 0x1 NTUT Blockchain Bootcamp 2018 Dec
+# NTUT 0x1 Blockchain Bootcamp 2018 Dec
 
 ![](../.gitbook/assets/44512395_1984166398273168_7240695084390285312_n.jpg)
 

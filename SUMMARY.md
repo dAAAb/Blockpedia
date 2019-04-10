@@ -303,7 +303,7 @@
   * [xDite](ming-ren/xdite.md)
   * [Justin Lin](ming-ren/justin-lin.md)
 * [0x1區塊鏈課程](0x1-workshop/README.md)
-  * [0x1 NTUT Blockchain Bootcamp 2018 Dec](0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
+  * [NTUT 0x1 Blockchain Bootcamp 2018 Dec](0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
 * [0x1區塊鏈翻譯](0x1-fan.md)
 * [0x1區塊鏈實驗室](0x1-shi/README.md)
   * [北科大寶博士實驗室 DAB LAB](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/README.md)
