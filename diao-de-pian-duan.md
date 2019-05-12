@@ -24,7 +24,7 @@
 4. 分身帳本之間彼此連接多半透過網路，所以不會有這村那店的帳本不同的問題
 
 {% hint style="info" %}
-註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](dev/mainnet/node/)」和「[全節點](dev/mainnet/node/quan.md)」
+註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](dev/node/)」和「[全節點](dev/node/quan.md)」
 {% endhint %}
 
 ## 幣圈
