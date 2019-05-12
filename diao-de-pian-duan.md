@@ -24,7 +24,7 @@
 4. 分身帳本之間彼此連接多半透過網路，所以不會有這村那店的帳本不同的問題
 
 {% hint style="info" %}
-註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](dev/zhu/undefined-9/)」和「[全節點](dev/zhu/undefined-9/quan.md)」
+註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](dev/mainnet/node/)」和「[全節點](dev/mainnet/node/quan.md)」
 {% endhint %}
 
 ## 幣圈
@@ -54,6 +54,10 @@
 2015 年 11 月 18 日，一名代號 ethers 的開發者在以太坊開發者社群內提議參考 1969 年以來的網路開發社群一直沿襲下來的「協議提出討論」系統（例如如今的網際網路 TCP/IP 協定就是編號第 793 和 791 號 RFC - Request for Comment）。
 
 {% embed url="https://github.com/ethereum/EIPs/issues/16" %}
+
+全節點
+
+全節點就是 - 該設備保存的帳本資訊是完全/完整的，例如比特幣全節點，就是該設備上的帳本記錄檔要完整包含從第一筆比特幣交易，到最近一筆的交易紀錄都在上面。 全名可以叫做 - 全帳本節點。
 
 
 
