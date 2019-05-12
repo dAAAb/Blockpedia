@@ -35,3 +35,9 @@
 臉書宣傳： [https://www.facebook.com/dAAAb/posts/10211232189103578](https://www.facebook.com/dAAAb/posts/10211232189103578)  
 報名連結： [https://goo.gl/q6q13L](https://goo.gl/q6q13L%20)（120 人報名，錄取 20 人 -- 錄取率 16.6%）
 
+![&#x53F3;&#x4E00; Accupass &#x6D3B;&#x52D5;&#x901A; &#x5275;&#x8FA6;&#x4EBA;&#x517C;&#x57F7;&#x884C;&#x9577; / &#x524D;&#x6392;&#x53F3;&#x4E00;  &#x845B;&#x5982;&#x921E;](../.gitbook/assets/pasted-image.jpg)
+
+
+
+
+
