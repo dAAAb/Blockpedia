@@ -1,4 +1,4 @@
-# \(T\) ERC 與 EIP
+# ERC 與 EIP
 
 ERC是Ethereum Request for Comments的英文字母開頭簡寫，而EIP是Ethereum Improvement Proposal的英文字母開頭簡寫，通常由區塊鏈工程師發佈在[以太坊開源專案的Github的Issue欄位](https://github.com/ethereum/EIPs/issues)。
 

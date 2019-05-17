@@ -1,4 +1,4 @@
-# \(JF\) Base64
+# Base64
 
 Base64是一個位元對應文字的轉換方式。表格來自[Wikipedia](https://en.wikipedia.org/wiki/Base64)如下：
 

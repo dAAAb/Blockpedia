@@ -1,4 +1,4 @@
-# \(JF\) Base58
+# Base58
 
 類似於[Base64](base64.md)，由[比特幣](../../bi-te.md)創辦人[Satoshi Nakamoto](../../mi-yin/zhong-ben/)所提出，將原先的64的字元縮減成58個。
 

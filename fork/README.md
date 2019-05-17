@@ -1,4 +1,4 @@
-# \(T\) 分岔
+# 分岔
 
 _A “fork,” in programming terms, is an open-source code modification._
 
