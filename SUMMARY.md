@@ -1,6 +1,6 @@
 # Table of contents
 
-* [關於 0x1 學院](README.md)
+* [關於 0x1 學院 2.0](README.md)
 * [前言](blockpedia.md)
 * [幣](currency.md)
 * [帳本](ledger.md)
