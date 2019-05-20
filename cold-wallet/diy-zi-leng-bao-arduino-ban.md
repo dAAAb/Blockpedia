@@ -4,7 +4,7 @@
 
 ### HITCON 2018 Cold Wallet
 
-![photo credit&#xFF1A;Phini Yang](../.gitbook/assets/image%20%284%29.png)
+![photo credit&#xFF1A;Phini Yang](../.gitbook/assets/image%20%286%29.png)
 
 {% embed url="https://www.facebook.com/groups/1935981826686413/permalink/2176378679313392/" %}
 
