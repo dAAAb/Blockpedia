@@ -6,3 +6,7 @@
 
 > DAO對經濟組織而言，在任何方面都是典範轉移。它提供了完全的透明、完全的股東控制、空前的靈活性，以及自治管理。 - The DAO
 
+{% embed url="https://www.blocktempo.com/daos-and-ownerless-organizations/" %}
+
+
+
