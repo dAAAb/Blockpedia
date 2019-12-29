@@ -310,6 +310,8 @@
   * [北科大寶博士實驗室 DAB LAB](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/README.md)
     * [碩士班](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/shi-ban/README.md)
       * [2014｜羅盛嘉 Mandy Luo](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/shi-ban/2012-sheng-jia-mandy-luo.md)
+* [寶博朋友說](bao-bo-peng-you-shui.md)
+* [EP12｜區塊鏈超實在應用！過年紅包直接發「明恩幣」🧧 ！](ep12-ou-kuai-lian-chao-shi-zai-ying-yong-guo-nian-gong-bao-zhi-jie-fa-ming-en-bi.md)
 * [參考資料](kao-liao/README.md)
   * [區塊鏈活動](kao-liao/huo/README.md)
     * [Beyond Block](kao-liao/huo/beyond-block.md)
