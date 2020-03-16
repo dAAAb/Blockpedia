@@ -14,10 +14,10 @@
 
 課程頁面截圖：
 
-![](../../../.gitbook/assets/screen-shot-2018-12-26-at-10.58.50-am.png)
+![](../../.gitbook/assets/screen-shot-2018-12-26-at-10.58.50-am.png)
 
 相關課程：
 
-* [0x1 NTUT Blockchain Bootcamp​ ](../../../0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
+* [0x1 NTUT Blockchain Bootcamp​ ](../../0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
 * [地表最強！智能合約開發超級入門](online.md)
 

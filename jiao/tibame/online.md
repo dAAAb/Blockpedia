@@ -14,10 +14,10 @@
 
 課程頁面截圖：
 
-![](../../../.gitbook/assets/screen-shot-2018-12-26-at-10.53.56-am.png)
+![](../../.gitbook/assets/screen-shot-2018-12-26-at-10.53.56-am.png)
 
 相關課程：
 
-* [0x1 NTUT Blockchain Bootcamp](../../../0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
+* [0x1 NTUT Blockchain Bootcamp](../../0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
 * [TibaMe BlockChain區塊鏈實作班-零基礎區塊鏈智能合約專題實戰班](offline.md)
 
