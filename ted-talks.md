@@ -1,5 +1,17 @@
 # 區塊鏈TED演講
 
+### [貨幣的未來 \(內哈娜魯拉 \| TED@BCG Paris\)](https://www.ted.com/talks/neha_narula_the_future_of_money?language=zh-tw)
+
+{% embed url="https://www.ted.com/talks/neha\_narula\_the\_future\_of\_money" %}
+
+如果我們購買、銷售、和支付的方式改變了，會如何？也許甚至不再需要銀行或是貨幣兌換局了？這是一個由加密貨幣（如比特幣和以太坊）所驅動之世界的根本承諾。我們還沒走到那一步，但在這場很有火花的演說中，數位貨幣研究者內哈娜魯拉描述了貨幣的集體想像－並描繪出一個非常不同的未來。
+
+### [區塊鍊將如何改變金融與企業 \(唐．泰普斯科特 \| TEDSummit\)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=zh-tw)
+
+{% embed url="https://www.ted.com/talks/don\_tapscott\_how\_the\_blockchain\_is\_changing\_money\_and\_business" %}
+
+區塊鍊是什麼？如果你不知道，你應該要趕緊去了解；如果你知道，你可能還是得深入了解它是如何運作的。唐．泰普斯科特 \(Don Tapscott\) 幫我們解密這個改變世界、建立信任的科技，他說，把區塊鍊比喻成第二世代的網際網路也不為過，因為區塊鍊很有潛力即將改造現今金融、企業、政府、社會的運作方式。
+
 ### [「區塊鏈」將如何徹底改變我們的經濟？ \(貝蒂娜．沃伯格 \| TEDSummit\)](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?language=zh-tw)
 
 {% embed url="https://www.ted.com/talks/bettina\_warburg\_how\_the\_blockchain\_will\_radically\_transform\_the\_economy" %}
@@ -23,16 +35,4 @@
 {% embed url="https://www.ted.com/talks/don\_tapscott\_four\_principles\_for\_the\_open\_world\_1" %}
 
 這一代人從出生起就沉浸在無所不在的科技連結，未來主義者唐▪泰普斯科特這樣說道，而其結果是世界正在轉變得更加開放和透明。他在這個發人深省的演講中，列舉了四個核心原則，可使這個世界成為一個更美好的地方。
-
-### [區塊鍊將如何改變金融與企業 \(唐．泰普斯科特 \| TEDSummit\)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=zh-tw)
-
-{% embed url="https://www.ted.com/talks/don\_tapscott\_how\_the\_blockchain\_is\_changing\_money\_and\_business" %}
-
-區塊鍊是什麼？如果你不知道，你應該要趕緊去了解；如果你知道，你可能還是得深入了解它是如何運作的。唐．泰普斯科特 \(Don Tapscott\) 幫我們解密這個改變世界、建立信任的科技，他說，把區塊鍊比喻成第二世代的網際網路也不為過，因為區塊鍊很有潛力即將改造現今金融、企業、政府、社會的運作方式。
-
-### [貨幣的未來 \(內哈娜魯拉 \| TED@BCG Paris\)](https://www.ted.com/talks/neha_narula_the_future_of_money?language=zh-tw)
-
-{% embed url="https://www.ted.com/talks/neha\_narula\_the\_future\_of\_money" %}
-
-如果我們購買、銷售、和支付的方式改變了，會如何？也許甚至不再需要銀行或是貨幣兌換局了？這是一個由加密貨幣（如比特幣和以太坊）所驅動之世界的根本承諾。我們還沒走到那一步，但在這場很有火花的演說中，數位貨幣研究者內哈娜魯拉描述了貨幣的集體想像－並描繪出一個非常不同的未來。
 
