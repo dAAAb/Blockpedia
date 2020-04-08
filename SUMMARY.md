@@ -20,7 +20,7 @@
 * [以太幣](yi-tai.md)
 * [ERC20](erc20-1.md)
 * [電子錢包](wallet/README.md)
-  * [錢包地址](wallet/bao-di-zhi.md)
+  * [錢包地址](wallet/address.md)
   * [公鑰](wallet/gong.md)
   * [私鑰](wallet/si/README.md)
     * [密鑰庫](wallet/si/keystore.md)
