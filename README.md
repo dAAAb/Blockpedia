@@ -52,7 +52,7 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 
 {% embed url="https://commerce.coinbase.com/checkout/de4118be-57d2-4882-8c4a-121b57ef44f6" %}
 
-
+{% embed url="https://dab.pse.is/QZQB4" %}
 
 ## GitHub
 
