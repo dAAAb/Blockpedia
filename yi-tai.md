@@ -47,11 +47,17 @@
 
 比較表如下：
 
-![&#x53D6;&#x81EA;&#xFF1A; https://www.myetherwallet.com/helpers.html ](.gitbook/assets/undefined.png)
+![&#x53D6;&#x81EA;&#xFF1A; https://www.myetherwallet.com/convert-units ](.gitbook/assets/undefined.png)
 
 #### 參考資料
 
 關於以太幣/以太坊的誤用，以及一些背後的小故事，推薦這篇文章：
 
 {% embed url="https://zhuanlan.zhihu.com/p/28994731" %}
+
+## 以太幣單位轉換器：
+
+{% embed url="https://www.myetherwallet.com/convert-units" %}
+
+
 
