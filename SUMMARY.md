@@ -330,7 +330,7 @@
   * [《聖人大盜》](ying/ren-da.md)
 * [區塊鏈紀錄片](pian.md)
 * [區塊鏈TED演講](ted-talks.md)
-* [區塊鏈書籍](ji.md)
+* [區塊鏈書籍](books.md)
 * [區塊鏈教學](jiao/README.md)
   * [Tibame](jiao/tibame/README.md)
     * [地表最強！智能合約開發超級入門](jiao/tibame/online.md)
