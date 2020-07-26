@@ -16,8 +16,6 @@ I am an Interaction Designer with over 3+ years of experience in virtual reality
 
 #### A Study on Creation of Multi-sensory Experience in Virtual Reality-An Example of Gogoro Virtual Ride
 
-[PDF 下載](https://drive.google.com/open?id=1y3mcJCeBTRVnhLtmauusgoYCiXgVknnp) / [WORD 下載](https://drive.google.com/open?id=1O547r_AQbBYfze0OtWc96QwvissY352p)
-
 ## 碩論資料
 
 {% embed url="https://youtu.be/6NYTSV6mi7g" %}
