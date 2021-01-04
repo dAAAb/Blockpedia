@@ -33,5 +33,5 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks。
 
 
 
-{% embed url="https://www.8btc.com/article/26652 " %}
+{% embed url="https://www.8btc.com/article/26652" caption=undefined %}
 
