@@ -270,6 +270,7 @@
   * [NFT 藝廊/賣場](nft-collectibles/nft-galleries.md)
   * [NFT 藝術家](nft-collectibles/nft-yi-shu-jia.md)
   * [NFT 藝術家（中文世界）](nft-collectibles/nft-yi-shu-jia-zhong-wen-shi-jie.md)
+* [NFT 指數基金](nft-index.md)
 * [區塊鏈沙盒遊戲](sandbox-game.md)
 * [區塊鏈應用榜](blockchain-apps/README.md)
   * [BlockCerts](blockchain-apps/blockcerts.md)
