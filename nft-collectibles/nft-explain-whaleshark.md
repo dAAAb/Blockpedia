@@ -52,5 +52,39 @@ description: 2021.03.02
 
 
 
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659389457801219?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659402569113600?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659415638634498?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659428741619712?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659441668460551?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659454733668354?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659468302290948?s=20" %}
+
+
+
+{% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659482835558402?s=20" %}
+
+
+
+
+
 
 
