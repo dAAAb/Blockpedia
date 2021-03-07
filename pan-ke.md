@@ -6,7 +6,7 @@
 
 ### 金融危機下的叛客革新
 
-1983年，[密碼學](dev/cryptography/)與數位貨幣先驅，數學家大衛．丘姆（[David Chaum](https://en.wikipedia.org/wiki/David_Chaum)）率先發表了論文，闡述了用密碼學創造 **電子貨幣**（[Electronic Money](https://en.wikipedia.org/wiki/Digital_currency)）的可能性，並且發行 [Ecash](https://en.wikipedia.org/wiki/Ecash)，後來在 1990 年代創辦了 [DigiCash](https://en.wikipedia.org/wiki/DigiCash) ，其他人也跟進創造了 B-Money、e-Gold、e-Money、bitGold、e-Cash 等等電子貨幣系統的嘗試，但都因為政府和銀行的阻撓，以及相關技術不夠成熟（當年上網人口也不多），終告失敗。
+1983年，[密碼學](blockchain-dev/cryptography/)與數位貨幣先驅，數學家大衛．丘姆（[David Chaum](https://en.wikipedia.org/wiki/David_Chaum)）率先發表了論文，闡述了用密碼學創造 **電子貨幣**（[Electronic Money](https://en.wikipedia.org/wiki/Digital_currency)）的可能性，並且發行 [Ecash](https://en.wikipedia.org/wiki/Ecash)，後來在 1990 年代創辦了 [DigiCash](https://en.wikipedia.org/wiki/DigiCash) ，其他人也跟進創造了 B-Money、e-Gold、e-Money、bitGold、e-Cash 等等電子貨幣系統的嘗試，但都因為政府和銀行的阻撓，以及相關技術不夠成熟（當年上網人口也不多），終告失敗。
 
 時序跳到 2007 年，至 2008 年大約兩年之間，發生了 **全球金融危機**（英語：Financial crisis of 2007–2008，也稱作：次貸風暴）許多人失去家庭，失去工作，甚至丟掉了性命。當年的這群電腦叛客，再次為了這個圍繞著少數村長運作的金融體系感到憤怒和失望，於是他們決定起而再試一次。
 

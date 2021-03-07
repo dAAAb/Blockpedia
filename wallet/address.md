@@ -11,7 +11,7 @@
 ### 一個人可以有幾組錢包地址？
 
 很多很多，多到難以計算。  
-這部份的原理請見「[碰撞](../dev/cryptography/peng-zhuang.md)」
+這部份的原理請見「[碰撞](../blockchain-dev/cryptography/peng-zhuang.md)」
 
 ### 不同貨幣，不同錢包，不同樣式
 

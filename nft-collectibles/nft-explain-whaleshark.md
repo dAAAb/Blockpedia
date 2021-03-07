@@ -6,9 +6,7 @@ description: 2021.03.02
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659250999623680" %}
 
-翻譯：
-
-史詩級的討論串來了。
+翻譯：史詩級的討論串來了。
 
 給網紅的 NFT 遊戲手冊：
 
@@ -22,7 +20,7 @@ description: 2021.03.02
 
 NFT 是你真正擁有並管理的數位檔案 \([@DeFi\_Dad](https://twitter.com/DeFi_Dad)[@AndrewSteinwold](https://twitter.com/AndrewSteinwold) \)
 
-我可以買下堡壘之夜的造型，但我其實並沒有真正擁有它，這個商品還是平台的，我沒辦法把它拿來送給我的外婆或是在沃爾瑪超市把它賣掉。
+我可以買下堡壘之夜的造型，但我其實並沒有真正擁有它，這個商品還是平台的，我沒辦法把它拿來送給我的外婆，或是在沃爾瑪超市把它賣掉。
 
 NFT 可以。
 
@@ -30,7 +28,7 @@ NFT 可以。
 
 翻譯：NFT 怎麼運作？
 
-當你鑄造了一顆 NFT 非同質化代幣，你就創造了區塊鏈帳本上一筆無法竄改的紀錄，這筆記錄記著代幣的起源、時間與稀少性等。
+當你鑄造了一顆 NFT 非同質化代幣，你就創造了區塊鏈帳本上一筆無法竄改的紀錄，這筆記錄記著代幣的**起源、時間與稀少性**等。
 
 這個代幣指向一個照片或是影像的檔案，也就是你的藏家會看到的畫面。
 
@@ -56,11 +54,11 @@ NFT 可以。
 
 在可取得性與稀少性中間取的一個好平衡能夠促進藏家社群的健康發展。
 
-你的 NFT 長期策略應該一方面要能容納所有有興趣得藏家，同時也要把最令人驚豔的內容與特權留給你忠誠度最高的粉絲。
+你的 NFT 長期策略應該一方面要能容納所有有興趣的藏家，同時也要把最令人驚豔的內容與特權留給你忠誠度最高的粉絲。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659321493286913?s=20" %}
 
-翻譯：場景一  個人里程碑
+翻譯：應用場景一  個人里程碑
 
 我用 NFT 來記錄 [@whale\_community](https://twitter.com/whale_community) 社群的各種旅程，從一個十五萬美金的計畫到今天兩億三千萬美金的市場價值。
 
@@ -70,7 +68,7 @@ NFT 可以。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659334617268232?s=20" %}
 
-翻譯：場景二  收藏品
+翻譯：應用場景二  收藏品
 
 NFT 的基本場景是收藏。
 
@@ -80,7 +78,7 @@ NFT 的基本場景是收藏。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659337427427330?s=20" %}
 
-翻譯：場景三  抽獎
+翻譯：應用場景三  抽獎
 
 能夠更增加你的社群凝聚感的不只是 NFT 收藏品，也讓他們可以實際參與你在真實生活裡最另人驚豔的活動。
 
@@ -88,7 +86,7 @@ NFT 的基本場景是收藏。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659340023721986?s=20" %}
 
-翻譯：場景四 憑證/證書
+翻譯：應用場景四 憑證/證書
 
 你同時也在打造實體的收藏品嗎？
 
@@ -98,7 +96,7 @@ NFT 也幫的上忙。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659352745009153?s=20" %}
 
-翻譯：場景五  解鎖特殊內容
+翻譯：應用場景五  解鎖特殊內容
 
 NFT 也可以當作是解開特殊內容的鑰匙，不管是照片、影片還是文字。
 
@@ -106,7 +104,7 @@ NFT 也可以當作是解開特殊內容的鑰匙，不管是照片、影片還�
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659365621489667?s=20" %}
 
-翻譯：限量門票
+翻譯：應用場景六 限量門票
 
 NFT 也可以當作給粉絲進入獨家活動的入場券。
 
@@ -114,7 +112,7 @@ NFT 也可以當作給粉絲進入獨家活動的入場券。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659389457801219?s=20" %}
 
-翻譯：場景七  榮譽徽章
+翻譯：應用場景七  榮譽徽章
 
 用 NFT 徽章來激勵你最忠誠的粉絲。
 
@@ -122,7 +120,7 @@ NFT 也可以當作給粉絲進入獨家活動的入場券。
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659402569113600?s=20" %}
 
-翻譯：場景八  用力收就對了
+翻譯：應用場景八  用力收就對了
 
 把 NFT 做成寶藏，把你的社群體驗轉換成現實或虛擬世界的尋寶遊戲。
 
@@ -132,7 +130,7 @@ NFT 解謎大師 [@coin\_artist](https://twitter.com/coin_artist) 和 [@josiebel
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659415638634498?s=20" %}
 
-翻譯：場景九  長期收藏體驗
+翻譯：應用場景九  長期收藏體驗
 
 你想要讓你的 NFT 藏家握著你的收藏品不放嗎？
 
@@ -140,7 +138,7 @@ NFT 解謎大師 [@coin\_artist](https://twitter.com/coin_artist) 和 [@josiebel
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659428741619712?s=20" %}
 
-翻譯：場景十  合體場景
+翻譯：應用場景十  合體場景
 
 把我上面所說的那些案例拼拼湊湊，找出最能令你的粉絲印象深刻的方法。
 

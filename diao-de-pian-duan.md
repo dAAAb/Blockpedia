@@ -18,13 +18,13 @@
 
 簡單講在於
 
-1. 密碼學的驗證（詳見[哈希](dev/cryptography/hash.md)）
+1. 密碼學的驗證（詳見[哈希](blockchain-dev/cryptography/hash.md)）
 2. 存放於數位空間所以理論上沒有容量（頁數）限制（註）
 3. 通常不會只有一本帳本，而是會有好多同樣的帳本的分身，來確保不會發生[村長問題](zhong-xin-hua-ben.md#cun-le)
 4. 分身帳本之間彼此連接多半透過網路，所以不會有這村那店的帳本不同的問題
 
 {% hint style="info" %}
-註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](dev/node/)」和「[全節點](dev/node/quan.md)」
+註：頁數太厚可能會導致分散式帳本建立速度變慢。見「[分散式帳本](fen-san-shi-ben.md)」「[節點](blockchain-dev/node/)」和「[全節點](blockchain-dev/node/quan.md)」
 {% endhint %}
 
 ## 幣圈
