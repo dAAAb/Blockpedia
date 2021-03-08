@@ -2,7 +2,7 @@
 description: 2021.03.02
 ---
 
-# 老司機 WhaleShark 的解釋
+# 老司機 WhaleShark 的 NFT 世界 I - 給網紅的 NFT 遊戲手冊
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659250999623680" %}
 
