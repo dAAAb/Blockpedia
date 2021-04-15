@@ -266,6 +266,7 @@
 * [NFT 藝術/蒐藏品](nft-collectibles/README.md)
   * [同質貨幣](nft-collectibles/tong-nfts.md)
   * [ERC721](nft-collectibles/erc721.md)
+  * [ERC1155](nft-collectibles/erc1155.md)
   * [加密貓](nft-collectibles/jia-mi-cryptokitties.md)
 * [NFT 藝廊/賣場](nft-galleries.md)
 * [NFT 藝術家（中文世界）](nft-yi-shu-jia-zhong-wen-shi-jie.md)

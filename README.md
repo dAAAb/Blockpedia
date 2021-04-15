@@ -21,8 +21,16 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 
 目前完程度：
 
-* **35%** - _2018/10/23 更新_
-* **45%** - _2019/03/12 更新_
+* _**35%** - 2018/10/23 更新_
+* _**45%** - 2019/03/12 更新_
+* _**48%** - 2020/04/28 更新_
+* _**49%** - 2021/04/12 更新_
+
+### 捐款贊助
+
+{% embed url="https://dab.pse.is/QZQB4" %}
+
+{% embed url="https://commerce.coinbase.com/checkout/de4118be-57d2-4882-8c4a-121b57ef44f6" %}
 
 ## 搶先訂閱
 
@@ -47,12 +55,6 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 [Facebook 社團](https://www.facebook.com/groups/0x1block/)
 
 [LINE 社團](http://line.me/ti/g/ia2540UHZd) 
-
-### 捐款贊助
-
-{% embed url="https://dab.pse.is/QZQB4" %}
-
-{% embed url="https://commerce.coinbase.com/checkout/de4118be-57d2-4882-8c4a-121b57ef44f6" %}
 
 ## GitHub
 
