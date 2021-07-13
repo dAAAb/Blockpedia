@@ -6,9 +6,7 @@ description: 2021.03.02
 
 {% embed url="https://twitter.com/WhaleShark\_Pro/status/1366659250999623680" %}
 
-翻譯：史詩級的討論串來了。
-
-給網紅的 NFT 遊戲手冊：
+翻譯：1/20  超級大專題來襲，給意見領袖的NFT玩轉手冊。
 
 最近，NFTs 備受關注，其帶來的數位內容革命勢在必行，這裡為眾多希望在這個新的去中心化時代發揮引領作用的影響力者們（influencers）提供一份指南。
 
@@ -20,7 +18,7 @@ description: 2021.03.02
 
 NFT 是你真正擁有並管理的數位檔案 \([@DeFi\_Dad](https://twitter.com/DeFi_Dad)[@AndrewSteinwold](https://twitter.com/AndrewSteinwold) \)
 
-我可以買下堡壘之夜的造型，但我其實並沒有真正擁有它，這個商品還是平台的，我沒辦法把它拿來送給我的外婆，或是在沃爾瑪超市把它賣掉。
+我可以買下要塞英雄的造型，但我其實並沒有真正擁有它，這個商品還是平台的，我沒辦法把它拿來送給我的外婆，或是在沃爾瑪超市把它賣掉。
 
 NFT 可以。
 
