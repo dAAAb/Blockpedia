@@ -37,12 +37,11 @@
 
 這是個好問題，當然要誘之以利。
 
-簡單說，就是擔任村長，可有一定機率拿到記帳認證獎金。  
+簡單說，就是擔任村長，可有一定機率拿到記帳認證獎金。\
 關於這點，我們將留到「[挖礦](wa/)」條目來解釋。
 
 #### 參考資料
 
 點下方連結安裝比特幣區塊鏈程式
 
-{% embed url="https://bitcoin.org/zh\_TW/download" %}
-
+{% embed url="https://bitcoin.org/zh_TW/download" %}

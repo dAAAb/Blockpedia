@@ -16,8 +16,6 @@ description: Total Supply
 
 ![](../../.gitbook/assets/ying-mu-kuai-zhao-20181226-xia-wu-11.06.54.png)
 
-[https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21\#code](https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21#code)  
-
-
+[https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21#code](https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21#code)\
 
 

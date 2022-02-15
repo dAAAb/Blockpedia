@@ -4,19 +4,19 @@ description: 2021.03.29
 
 # 老司機 WhaleShark：社交代幣 101
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461843821039616?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461843821039616?s=20" %}
 
 ### **1/7 社交代幣101入門課**
 
 隨著NFTs被主流市場大量應用，我開始思考和觀察「下一個是什麼」
 
-加密貨幣Crypto --&gt; 去中心化金融DeFi --&gt; NFTs --&gt; 社交代幣（Social Tokens）
+加密貨幣Crypto --> 去中心化金融DeFi --> NFTs --> 社交代幣（Social Tokens）
 
 作為世界上前幾大 NFT 藏家及世界上最大的社交代幣 $WHALE 創辦人...
 
 Let’s Geddit
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461853191143429?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461853191143429?s=20" %}
 
 ### 2/7 什麼是社交代幣？
 
@@ -26,7 +26,7 @@ Let’s Geddit
 
 亞當 Adam 可以創亞當幣 $Adam，夏娃 Eve 可以創夏娃幣 $Eve
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461873248231438?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461873248231438?s=20" %}
 
 ### 3/7 為什麼要創建社交代幣？
 
@@ -36,7 +36,7 @@ Let’s Geddit
 
 透過 Uniswap，社交代幣被賦予金錢價值，最終為你的粉絲提供經濟利益
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461882844880900?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461882844880900?s=20" %}
 
 ### 4/7 我可以拿社交代幣做什麼？
 
@@ -48,7 +48,7 @@ Let’s Geddit
 2. 購買只接受 $Eve 作為支付的獨家 NFTs
 3. 長期持有 $Eve 將得到更多 $Eve
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461892789497861?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461892789497861?s=20" %}
 
 ### 5/7 是誰？又該如何創建社交代幣？
 
@@ -59,18 +59,18 @@ Let’s Geddit
 任何人都透過以下步驟創建社交代幣
 
 1. 創造你自己的合約及造幣廠
-2. 與 [@tryrollhq](https://twitter.com/tryrollhq) 和 [@rally\_io](https://twitter.com/rally_io) 合作
+2. 與 [@tryrollhq](https://twitter.com/tryrollhq) 和 [@rally\_io](https://twitter.com/rally\_io) 合作
 3. 註冊 [Bitclout](https://bitclout.com/u/dAAAb)
 
 ### 6/7 更多社交代幣相關訊息
 
-[forefront.news/market/](https://forefront.news/market) 
+[forefront.news/market/](https://forefront.news/market)&#x20;
 
-[@whale\_community ](https://twitter.com/whale_community)[@seedclubhq](https://twitter.com/seedclunhq) [@FWBtweets](https://twitter.com/FWBtweets) [@galaxyRTK](https://twitter.com/galaxyRTK) [@Cooopahtroopa](https://twitter.com/Cooopahtroopa) [@Hackatao](https://twitter.com/Hackatao) [@ConnieDigital](https://twitter.com/ConnieDigital) [@skeenee\_art](https://twitter.com/skeenee_art) [@tryrollhq](https://twitter.com/tryrollhq) [@rally\_io](https://twitter.com/rally_io)
+[@whale\_community ](https://twitter.com/whale\_community)[@seedclubhq](https://twitter.com/seedclunhq) [@FWBtweets](https://twitter.com/FWBtweets) [@galaxyRTK](https://twitter.com/galaxyRTK) [@Cooopahtroopa](https://twitter.com/Cooopahtroopa) [@Hackatao](https://twitter.com/Hackatao) [@ConnieDigital](https://twitter.com/ConnieDigital) [@skeenee\_art](https://twitter.com/skeenee\_art) [@tryrollhq](https://twitter.com/tryrollhq) [@rally\_io](https://twitter.com/rally\_io)
 
 現在還在早期發展階段，這讓我想起2019年時關於 NFTs 的資訊量 ❤️
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1376461911995281413?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1376461911995281413?s=20" %}
 
 ### 7/7 結語
 
@@ -81,4 +81,3 @@ Let’s Geddit
 確保你的粉絲和社群拿到可以真正持有並經營管理的「點數」。
 
 聽起來很耳熟吧？😏
-

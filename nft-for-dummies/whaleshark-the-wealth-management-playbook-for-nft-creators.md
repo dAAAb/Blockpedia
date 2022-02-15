@@ -4,7 +4,7 @@ description: 2021.03.08
 
 # 老司機 WhaleShark：給 NFT 創作者的財富管理手冊
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441306360422402?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441306360422402?s=20" %}
 
 翻譯：**給 NFT創作者的財富管理手冊**
 
@@ -14,7 +14,7 @@ description: 2021.03.08
 
 讓我們說清楚講明白：
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441318989463553?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441318989463553?s=20" %}
 
 翻譯：還清你的債務
 
@@ -24,7 +24,7 @@ description: 2021.03.08
 
 把償還債務當作你的第一優先支出。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441332419555329?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441332419555329?s=20" %}
 
 翻譯：未雨綢繆
 
@@ -34,7 +34,7 @@ description: 2021.03.08
 
 並且永遠都別去動用這筆資金，永遠。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441345161891840?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441345161891840?s=20" %}
 
 翻譯：投資你自己
 
@@ -44,7 +44,7 @@ description: 2021.03.08
 
 這些都是沒有人可以從你身上拿走，也會永遠幫助你的事物。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441351809818625?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441351809818625?s=20" %}
 
 翻譯：雞蛋別放同個籃子 永遠注意風險
 
@@ -54,7 +54,7 @@ description: 2021.03.08
 
 你可以承受的風險程度與你的歲數相關。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441365013524482?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441365013524482?s=20" %}
 
 翻譯：被動收入是王道、資本利得 well， 也是王道
 
@@ -62,7 +62,7 @@ description: 2021.03.08
 
 就像是一個你永遠無需努力的工作。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441377558695937?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441377558695937?s=20" %}
 
 翻譯：學會說不
 
@@ -70,7 +70,7 @@ description: 2021.03.08
 
 學會說不，拒絕九成那些朝你飛來的投資機會。
 
-{% embed url="https://twitter.com/WhaleShark\_Pro/status/1368441390410047491?s=20" %}
+{% embed url="https://twitter.com/WhaleShark_Pro/status/1368441390410047491?s=20" %}
 
 翻譯：結論
 
@@ -79,4 +79,3 @@ description: 2021.03.08
 適當的財務規劃可以給予你一生平靜的心靈。
 
 不要成為擁有並失去所有一切的“那個傢伙”。
-

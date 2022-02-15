@@ -1,11 +1,11 @@
 ---
-description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知識教育於中文社會；它不屬於任何人，同時也屬於所有人。
+description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知識教育於中文社會；它不屬於任何人，同時，也屬於所有人。
 ---
 
 # 關於 0x1 學院
 
-> **在十進制世界中， 0x1 是 0；  
-> 但在電腦科學的十六進制世界中，則是 創造性的 1。**
+> **在十進制世界中， 0x1 是 0；**\
+> **但在電腦科學的十六進制世界中，則是 創造性的 1。**
 
 0x1 代表了從無到有的創生，從傳統進化到數位及區塊鏈世界過程中所需的一切，從未知（0）藉由各種無形有形知識和實作的追求（x）到達已知（1）的過程。
 
@@ -43,20 +43,19 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 * [Jeff Hu](https://medium.com/@jj1385jeff850527)
 * [Tina Lee](https://medium.com/@tina26919742)
 * [Tom Lam](https://www.linkedin.com/in/chungsang-tom-lam-586014158/)
-* [Feihu Tang](http://www.andoromeda.net/)
+* [Feihu Tang](http://www.andoromeda.net)
 * [JC Ko](https://medium.com/@daaab)
 
 ### 贊助商
 
-* [LeadBest.io](http://LeadBest.io)
+* [LeadBest.io](http://leadbest.io)
 
 ### 加入 0x1
 
 [Facebook 社團](https://www.facebook.com/groups/0x1block/)
 
-[LINE 社團](http://line.me/ti/g/ia2540UHZd) 
+[LINE 社團](http://line.me/ti/g/ia2540UHZd)&#x20;
 
 ## GitHub
 
-[https://github.com/dAAAb/Blockpedia](https://github.com/dAAAb/Blockpedia) 
-
+[https://github.com/dAAAb/Blockpedia](https://github.com/dAAAb/Blockpedia)&#x20;

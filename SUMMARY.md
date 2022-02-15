@@ -287,7 +287,7 @@
     * [Week1](metaverse/110-1-ntu-virtual-human-and-telepresence/week1.md)
 * [區塊鏈應用榜](blockchain-apps/README.md)
   * [BlockCerts](blockchain-apps/blockcerts.md)
-  * [\(JF\)IPFS](blockchain-apps/ipfs.md)
+  * [(JF)IPFS](blockchain-apps/ipfs.md)
   * [Livepeer](blockchain-apps/livepeer.md)
   * [ENS](blockchain-apps/ens.md)
   * [Brave](blockchain-apps/brave.md)
@@ -338,7 +338,7 @@
 * [區塊鏈新聞](xin/README.md)
   * [金色財經](xin/jin-se.md)
   * [區塊客](xin/ke.md)
-  * [動區.動驅](xin/..md)
+  * [動區.動驅](xin/untitled.md)
 * [區塊鏈網紅](undefined-2/README.md)
   * [寶二爺](undefined-2/er/README.md)
     * [韭菜莊園](undefined-2/er/jiu-cai.md)
@@ -380,4 +380,3 @@
   * [加密谷](qi-ta/jia-mi-gu.md)
 * [丟掉的片段](diao-de-pian-duan.md)
 * [未來](wei-1.md)
-
