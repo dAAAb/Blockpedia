@@ -43,7 +43,7 @@ Jeff: [https://www.facebook.com/hu.yao.chieh](https://www.facebook.com/hu.yao.ch
 
 * OpenZeppelin模組庫: [https://github.com/OpenZeppelin/openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-solidity)
 * SafeCounter: [https://github.com/BlockchainEduNet-HK/smart-contract-repo/blob/master/examples/basic/SafeCounter.sol](https://github.com/BlockchainEduNet-HK/smart-contract-repo/blob/master/examples/basic/SafeCounter.sol)
-* 存程式碼到Github的Gist:[https://gist.github.com](https://gist.github.com)
+* 存程式碼到Github的Gist:[https://gist.github.com](https://gist.github.com/)
 
 ### 修業證書上鏈 <a href="#certs" id="certs"></a>
 

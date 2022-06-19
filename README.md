@@ -43,7 +43,7 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 * [Jeff Hu](https://medium.com/@jj1385jeff850527)
 * [Tina Lee](https://medium.com/@tina26919742)
 * [Tom Lam](https://www.linkedin.com/in/chungsang-tom-lam-586014158/)
-* [Feihu Tang](http://www.andoromeda.net)
+* [Feihu Tang](http://www.andoromeda.net/)
 * [JC Ko](https://medium.com/@daaab)
 
 ### 贊助商

@@ -22,7 +22,7 @@
 
 #### 參考資料
 
-TED Talk 上廣為流傳 由全世界最多天才的地方之一：[麻省理工學院媒體實驗室](https://www.media.mit.edu)所設之「[數位貨幣倡議所（MIT Digital Currency Initiative）](https://dci.mit.edu)」總監內哈娜魯拉 (Neha Narula) 主講的「貨幣的未來」：
+TED Talk 上廣為流傳 由全世界最多天才的地方之一：[麻省理工學院媒體實驗室](https://www.media.mit.edu/)所設之「[數位貨幣倡議所（MIT Digital Currency Initiative）](https://dci.mit.edu/)」總監內哈娜魯拉 (Neha Narula) 主講的「貨幣的未來」：
 
 {% embed url="https://www.ted.com/talks/neha_narula_the_future_of_money?language=zh-TW&utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" %}
 其中有提到 Yap 石幣的故事，值得一看
