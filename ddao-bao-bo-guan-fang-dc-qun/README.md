@@ -1,8 +1,8 @@
 ---
-description: Distributed, Decentralized, Democratized
+description: 群條條大道通 DDAO - ｜Distributed, Decentralized, Democratized
 ---
 
-# DDAO
+# DDAO｜寶博官方 DC 群
 
 {% content-ref url="dn1.md" %}
 [dn1.md](dn1.md)
