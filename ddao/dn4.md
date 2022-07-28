@@ -61,10 +61,20 @@ NFT元素取材於各具特色的當紅饒舌歌手，隨機排列組合生成33
 
 ### **發售資訊**
 
-****
-
 總數3333張 - 此波限量300張！！
 
 白單預售時間：7/29 21:00 - 7/31 21:00 | 0.06E
 
 公售時間：8/1 21:00 | 0.08E
+
+官網: [https://plutohiphopdept.com/](https://plutohiphopdept.com/?fbclid=IwAR1XihP6p46SiD2zdQGsHeELdaGwxOz58A7QB3B0eKZkaAIiMK0NFvWnQu8)&#x20;
+
+Twitter: [https://twitter.com/phhd\_nft](https://twitter.com/phhd\_nft?fbclid=IwAR2xgvSV4vIxNMSNqmfUJEr8Eu7NSrYdGXinikw1d2c8tVnOJ2NFLXGVOWE)&#x20;
+
+Discord: [https://discord.gg/plutolab](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2Fplutolab%3Ffbclid%3DIwAR1XKRegFCXde06ZeRxRVwl5vfeUhoZMcnhCYxEe6lJ4aoEJTcT42qjGUeo\&h=AT2iPoBU0N7sQVYQLvtkXPzrVMWAtwA1R8Mh35zuP3BcbxfzVapIKiAmxwcyOr9WpuCA428BrBzRmF0ilbqdbbq2hHiVIlq\_MZcaH8tzjrYmv\_byzBBA5nOLFm2sSgy4kVKgbsOp)&#x20;
+
+IG: [https://www.instagram.com/phhdnft/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fphhdnft%2F%3Ffbclid%3DIwAR3w0IBpdJ1TXGGelXB0l--hapORv7BJZFBk5sRRHtzTT5ZXtoTzWw-Jnuw\&h=AT2iPoBU0N7sQVYQLvtkXPzrVMWAtwA1R8Mh35zuP3BcbxfzVapIKiAmxwcyOr9WpuCA428BrBzRmF0ilbqdbbq2hHiVIlq\_MZcaH8tzjrYmv\_byzBBA5nOLFm2sSgy4kVKgbsOp)&#x20;
+
+FB: [https://www.facebook.com/phhdnft](https://www.facebook.com/phhdnft)
+
+{% embed url="https://plutohiphopdept.com/" %}
