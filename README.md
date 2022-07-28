@@ -4,7 +4,7 @@ description: 0X1 學院是個開源的虛擬組織，致力推動前瞻科技知
 
 # 關於 0x1 學院
 
-_**目前 0x1 學院也提供寶博**_ [_**DDAO**_](ddao-bao-bo-guan-fang-dc-qun/)_**（**_ [_**https://discord.gg/ddao**_](https://discord.gg/ddao) _**）社群共編使用，請見**_ [_**DDAO**_](ddao-bao-bo-guan-fang-dc-qun/)_****_
+_**目前 0x1 學院也提供寶博**_ [_**DDAO**_](ddao/)_**（**_ [_**https://discord.gg/ddao**_](https://discord.gg/ddao) _**）社群共編使用，請見**_ [_**DDAO**_](ddao/)_****_
 
 > **在十進制世界中， 0x1 是 0；**\
 > **但在電腦科學的十六進制世界中，則是 創造性的 1。**
