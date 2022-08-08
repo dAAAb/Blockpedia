@@ -372,6 +372,7 @@
   * [北科大寶博士實驗室 DAB LAB](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/README.md)
     * [碩士班](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/shi-ban.md)
 * [寶博朋友說](bao-bo-peng-you-shui/README.md)
+  * [EP145｜Noah Yeh 葉向林: NFT.NYC 見聞、Crypto OG 心得](bao-bo-peng-you-shui/ep145noah-yeh-ye-xiang-lin-nft.nyc-jian-wen-crypto-og-xin-de.md)
   * [EP12｜區塊鏈超實在應用！過年紅包直接發「明恩幣」🧧 ！](bao-bo-peng-you-shui/ep12-ou-kuai-lian-chao-shi-zai-ying-yong-guo-nian-gong-bao-zhi-jie-fa-ming-en-bi.md)
 * [DDAO｜寶博官方 DC 群](ddao/README.md)
   * [DN1｜DNIGHT 大道之夜 #1 寶博 ft. GIS Taiwan 全球集思論壇](ddao/dn1.md)
