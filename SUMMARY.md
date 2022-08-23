@@ -379,7 +379,7 @@
   * [DN2｜DNIGHT 大道之夜 #2 寶博 ft. FAB DAO 黃豆泥、林逸晟](ddao/dn2dnight-da-dao-zhi-ye-2-bao-bo-ft.-fab-dao-huang-dou-ni-lin-yi-sheng.md)
   * [DN3｜DNIGHT 大道之夜 #3 寶博 ft. WANA 玟瑄 Flora、Emily、Frank、抹茶](ddao/dn3dnight-da-dao-zhi-ye-3-bao-bo-ft.-wana-min-xuan-floraemilyfrank-mo-cha.md)
   * [DN4｜DNIGHT 大道之夜 #4 寶博 ft. Pluto Lab 品皓 0xRay](ddao/dn4.md)
-  * [DN5｜DNIGHT 大道之夜 #5 寶博 ft. XY Finance Rudolph Charlie](ddao/dn5dnight-da-dao-zhi-ye-5-bao-bo-ft.-xy-finance-rudolph-charlie.md)
+  * [DN5｜DNIGHT 大道之夜 #5 寶博 ft. XY Finance Rudolph Charlie](ddao/dn5.md)
 * [參考資料](kao-liao.md)
 * [其他](qi-ta/README.md)
   * [馬爾他](qi-ta/ta.md)
