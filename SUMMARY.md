@@ -380,6 +380,7 @@
   * [DN3｜DNIGHT 大道之夜 #3 寶博 ft. WANA 玟瑄 Flora、Emily、Frank、抹茶](ddao/dn3dnight-da-dao-zhi-ye-3-bao-bo-ft.-wana-min-xuan-floraemilyfrank-mo-cha.md)
   * [DN4｜DNIGHT 大道之夜 #4 寶博 ft. Pluto Lab 品皓 0xRay](ddao/dn4.md)
   * [DN5｜DNIGHT 大道之夜 #5 寶博 ft. XY Finance Rudolph Charlie](ddao/dn5.md)
+  * [DN6｜DNIGHT 大道之夜 #6 寶博 ft. Verilink Nico Ramirez](ddao/dn6dnight-da-dao-zhi-ye-6-bao-bo-ft.-verilink-nico-ramirez.md)
 * [參考資料](kao-liao.md)
 * [其他](qi-ta/README.md)
   * [馬爾他](qi-ta/ta.md)
