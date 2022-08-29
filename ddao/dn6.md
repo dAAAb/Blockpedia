@@ -1,5 +1,7 @@
 ---
 description: https://ipfs.io/ipfs/QmUUw1EMYENoUy3XdxFKUsxAhBb4gb81LFWxiWZ5nLS8Fp
+cover: ../.gitbook/assets/截圖 2022-08-29 下午10.44.19.png
+coverY: 0
 ---
 
 # DN6｜DNIGHT 大道之夜 #6 寶博 ft. Verilink Nico Ramirez
