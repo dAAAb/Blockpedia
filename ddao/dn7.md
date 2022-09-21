@@ -1,3 +1,10 @@
+---
+cover: >-
+  ../.gitbook/assets/2022
+  PANGCAH生活節，野營、音樂舞台、市集、工作坊四大主題，來一場最在地的花蓮之旅，體驗部落文化魅力！.jpg
+coverY: 0
+---
+
 # DN7｜DNIGHT 大道之夜 #7 寶博 ft. Capsule Vault Kevin, 0xSLW 綁炸 Pangcah 生活節
 
 {% embed url="https://www.loom.com/share/ac0f1a71f20f456894ead1d45655d728" %}
