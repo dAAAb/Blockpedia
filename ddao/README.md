@@ -36,4 +36,12 @@ description: 群條條大道通 DDAO - ｜Distributed, Decentralized, Democratiz
 [dn8.md](dn8.md)
 {% endcontent-ref %}
 
+{% content-ref url="dn9.md" %}
+[dn9.md](dn9.md)
+{% endcontent-ref %}
+
+{% content-ref url="dn10.md" %}
+[dn10.md](dn10.md)
+{% endcontent-ref %}
+
 {% embed url="https://discord.gg/ddao" %}

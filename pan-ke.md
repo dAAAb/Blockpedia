@@ -6,15 +6,13 @@
 
 ### 金融危機下的叛客革新
 
-1983年，[密碼學](blockchain-dev/cryptography/)與數位貨幣先驅，數學家大衛．丘姆（[David Chaum](https://en.wikipedia.org/wiki/David_Chaum)）率先發表了論文，闡述了用密碼學創造 **電子貨幣**（[Electronic Money](https://en.wikipedia.org/wiki/Digital_currency)）的可能性，並且發行 [Ecash](https://en.wikipedia.org/wiki/Ecash)，後來在 1990 年代創辦了 [DigiCash](https://en.wikipedia.org/wiki/DigiCash) ，其他人也跟進創造了 B-Money、e-Gold、e-Money、bitGold、e-Cash 等等電子貨幣系統的嘗試，但都因為政府和銀行的阻撓，以及相關技術不夠成熟（當年上網人口也不多），終告失敗。
+1983年，[密碼學](blockchain-dev/cryptography/)與數位貨幣先驅，數學家大衛．丘姆（[David Chaum](https://en.wikipedia.org/wiki/David\_Chaum)）率先發表了論文，闡述了用密碼學創造 **電子貨幣**（[Electronic Money](https://en.wikipedia.org/wiki/Digital\_currency)）的可能性，並且發行 [Ecash](https://en.wikipedia.org/wiki/Ecash)，後來在 1990 年代創辦了 [DigiCash](https://en.wikipedia.org/wiki/DigiCash) ，其他人也跟進創造了 B-Money、e-Gold、e-Money、bitGold、e-Cash 等等電子貨幣系統的嘗試，但都因為政府和銀行的阻撓，以及相關技術不夠成熟（當年上網人口也不多），終告失敗。
 
 時序跳到 2007 年，至 2008 年大約兩年之間，發生了 **全球金融危機**（英語：Financial crisis of 2007–2008，也稱作：次貸風暴）許多人失去家庭，失去工作，甚至丟掉了性命。當年的這群電腦叛客，再次為了這個圍繞著少數村長運作的金融體系感到憤怒和失望，於是他們決定起而再試一次。
 
 ### 有人成功了！
 
-眾多密碼學高手不斷嘗試和熱烈討論，直到 2008年底，有個叫[中本聰](mi-yin/zhong-ben/)的人，在線上論壇上發表了一篇全新的論文，論文當中描述了一種全新的方法，將許多前人的失敗處剔除掉，將不同的優點結合起來，截長補短，稱作「[區塊鏈](chain.md)」，並且依據這個方法構思了一個想像中的全新數位貨幣，叫做「[比特幣](bi-te.md)」。根據他的猜想，這個貨幣體系將不需要建立在交易雙方相互信任的基礎之上，所以根本無需村長，也不需要中央銀行，彼此都能穩健地使用這個貨幣來進行交易，而不會有竄改、撒謊、偽造的問題。
+眾多密碼學高手不斷嘗試和熱烈討論，直到 2008年底，有個叫[中本聰](zhong-ben/)的人，在線上論壇上發表了一篇全新的論文，論文當中描述了一種全新的方法，將許多前人的失敗處剔除掉，將不同的優點結合起來，截長補短，稱作「[區塊鏈](chain.md)」，並且依據這個方法構思了一個想像中的全新數位貨幣，叫做「[比特幣](bi-te.md)」。根據他的猜想，這個貨幣體系將不需要建立在交易雙方相互信任的基礎之上，所以根本無需村長，也不需要中央銀行，彼此都能穩健地使用這個貨幣來進行交易，而不會有竄改、撒謊、偽造的問題。
 
 叛客開啟了 1970 年的第一代網路，開啟了 1980 年代的個人電腦飛躍成長，也開啟了由 90 年代後經過金融風暴指數成長的區塊鏈金融革命 。
-
-
 
