@@ -28,12 +28,12 @@ description: 群條條大道通 DDAO - ｜Distributed, Decentralized, Democratiz
 [dn6.md](dn6.md)
 {% endcontent-ref %}
 
-{% content-ref url="dn7dnight-da-dao-zhi-ye-7-bao-bo-ft.-capsule-vault-kevin-0xslw-bang-zha-pangcah-sheng-huo-jie.md" %}
-[dn7dnight-da-dao-zhi-ye-7-bao-bo-ft.-capsule-vault-kevin-0xslw-bang-zha-pangcah-sheng-huo-jie.md](dn7dnight-da-dao-zhi-ye-7-bao-bo-ft.-capsule-vault-kevin-0xslw-bang-zha-pangcah-sheng-huo-jie.md)
+{% content-ref url="dn7.md" %}
+[dn7.md](dn7.md)
 {% endcontent-ref %}
 
-{% content-ref url="dn8dnight-da-dao-zhi-ye-8-bao-bo-ft.-starks-from-chong-zhi-chongzhipi.md" %}
-[dn8dnight-da-dao-zhi-ye-8-bao-bo-ft.-starks-from-chong-zhi-chongzhipi.md](dn8dnight-da-dao-zhi-ye-8-bao-bo-ft.-starks-from-chong-zhi-chongzhipi.md)
+{% content-ref url="dn8.md" %}
+[dn8.md](dn8.md)
 {% endcontent-ref %}
 
 {% embed url="https://discord.gg/ddao" %}
