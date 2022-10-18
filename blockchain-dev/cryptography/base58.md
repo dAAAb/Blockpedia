@@ -1,6 +1,6 @@
 # Base58
 
-類似於[Base64](base64.md)，由[比特幣](../../bi-te.md)創辦人[Satoshi Nakamoto](../../zhong-ben/)所提出，將原先的64的字元縮減成58個。
+類似於[Base64](base64.md)，由[比特幣](../../bi-te.md)創辦人[Satoshi Nakamoto](../../Satoshi-Nakamoto/)所提出，將原先的64的字元縮減成58個。
 
 ## 去除長得很像的字母或是數字
 

@@ -9,7 +9,7 @@ coverY: 0
 [https://www.loom.com/share/df5efd77c6b04616a22b2066d0213308](https://www.loom.com/share/df5efd77c6b04616a22b2066d0213308)
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://meet.bnext.com.tw/articles/view/49562" %}
 

@@ -2,7 +2,7 @@
 
 CoolWallet S 是一張由台灣製造，薄如卡片的硬體冷錢包。
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png)
 
 {% embed url="https://coolwallet.io/product/coolwallet/?ref=dab" %}
 
