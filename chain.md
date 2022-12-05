@@ -30,6 +30,10 @@
 
 例如：交通體系、運輸管理、商品庫存、政府稅收、醫療記錄、保險等等。
 
+區塊鏈本來被稱作「時間鏈」，參考資料在此： [https://bitcointalk.org/index.php?topic=382374.0](https://bitcointalk.org/index.php?topic=382374.0)&#x20;
+
+{% embed url="https://bitcointalk.org/index.php?topic=382374.0" %}
+
 **本節參考：**
 
 {% embed url="https://bit.ly/2KKTj12" %}
@@ -37,6 +41,4 @@
 {% hint style="info" %}
 [補充資料](diao-de-pian-duan.md#undefined)
 {% endhint %}
-
-
 
