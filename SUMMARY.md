@@ -1,72 +1,123 @@
-# Table of contents
+# 目錄
 
+## 第零章：導讀
 * [關於 0x1 學院](README.md)
-* [前言](blockpedia.md)
-* [幣](currency.md)
-* [帳本](ledger.md)
-* [中心化帳本](zhong-xin-hua-ben.md)
-* [叛客](pan-ke.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md) 🆕
+
+---
+
+## 第一篇：貨幣的本質
+### 從物物交換到數位貨幣
+
+* [幣：共同約定的價值](currency.md)
+* [帳本：記錄交易的工具](ledger.md)
+* [中心化帳本：村長的問題](zhong-xin-hua-ben.md)
+* [叛客：密碼龐克的理想](pan-ke.md)
+
+---
+
+## 第二篇：區塊鏈基礎
+### 從中本聰到比特幣
+
 * [中本聰](Satoshi-Nakamoto/README.md)
-  * [聰](Satoshi-Nakamoto/undefined-5.md)
-* [區塊鏈](chain.md)
-* [比特幣](bi-te.md)
-* [數位資產](digital-assets.md)
-* [分散式帳本](fen-san-shi-ben.md)
-* [去中心化](qu-zhong-xin-hua.md)
+  * [聰：比特幣的最小單位](Satoshi-Nakamoto/undefined-5.md)
+* [區塊鏈：魔法帳本](chain.md)
+* [分散式帳本：分靈體](fen-san-shi-ben.md)
+* [去中心化：沒有村長的世界](qu-zhong-xin-hua.md)
 * [不可竄改](bu-ke-gai.md)
-* [鏈](undefined-1.md)
-* [鏈圈](quan.md)
-* [幣圈](quan-1.md)
-* [幣圈一天，人間三年](quan-yi-tian-ren-san-nian.md)
+
+### 比特幣
+* [比特幣：數位黃金](bi-te.md)
+* [比特幣錢包](wallet/bi-te-bao/README.md)
+  * [礦工費用](wallet/bi-te-bao/gong-yong.md)
+* [Bitcoin ETF](bitcoin/etf.md) 🆕
+* [Bitcoin Ordinals](bitcoin/ordinals.md) 🆕
+* [BRC-20 代幣](bitcoin/brc20.md) 🆕
+* [Runes Protocol](bitcoin/runes.md) 🆕
+* [Lightning Network](bitcoin/lightning.md) 🆕
+
+---
+
+## 第三篇：以太坊生態系
+### 智能合約的世界
+
 * [以太坊](ethereum.md)
 * [以太幣](ether.md)
-* [ERC20](erc20-1.md)
+* [ERC20：代幣標準](erc20-1.md)
+* [智能合約](smart-contract/README.md)
+  * [Solidity](smart-contract/solidity.md)
+  * [合約地址](smart-contract/contract-address.md)
+  * [智能合約工程師](smart-contract/smart-contract-developer/README.md)
+    * [ERC 與 EIP](smart-contract/smart-contract-developer/erc-eip.md)
+* [以太坊錢包](wallet/yi-tai-fang-bao/README.md)
+  * [燃料（Gas）](wallet/yi-tai-fang-bao/wa-si.md)
+  * [燃料價格](wallet/yi-tai-fang-bao/wa-si-ge.md)
+  * [燃料上限](wallet/yi-tai-fang-bao/wa-si-shang-xian.md)
+  * [創建錢包](wallet/yi-tai-fang-bao/jian-bao/README.md)
+    * [MyEtherWallet](wallet/yi-tai-fang-bao/jian-bao/myetherwallet.md)
+    * [MyCrypto](wallet/yi-tai-fang-bao/jian-bao/mycrypto.md)
+
+---
+
+## 第四篇：數位資產錢包
+### 保管你的加密資產
+
 * [電子錢包](wallet/README.md)
-  * [錢包地址](wallet/address.md)
-  * [公鑰](wallet/gong.md)
-  * [私鑰](wallet/si/README.md)
-    * [密鑰庫](wallet/si/keystore.md)
-  * [交易](wallet/undefined/README.md)
-    * [交易手續費](wallet/undefined/shou.md)
-    * [送出交易](wallet/undefined/song-chu.md)
-    * [交易哈希](wallet/undefined/ha-xi.md)
-    * [等待完成交易](wallet/undefined/deng-dai.md)
-    * [交易確認](wallet/undefined/undefined-1.md)
-  * [助記詞](wallet/seed.md)
-  * [簽名](wallet/ming/README.md)
-    * [多重簽名](wallet/ming/duo-zhong-ming.md)
-    * [離線簽名](wallet/ming/ming-bao.md)
-  * [交易所錢包](wallet/jiao-yi-suo-bao.md)
-  * [遊戲錢包](wallet/bao.md)
-  * [私鑰錢包](wallet/si-bao.md)
-  * [以太坊錢包](wallet/yi-tai-fang-bao/README.md)
-    * [創建錢包](wallet/yi-tai-fang-bao/jian-bao/README.md)
-      * [MyEtherWallet](wallet/yi-tai-fang-bao/jian-bao/myetherwallet.md)
-      * [MyCrypto](wallet/yi-tai-fang-bao/jian-bao/mycrypto.md)
-    * [燃料](wallet/yi-tai-fang-bao/wa-si.md)
-    * [燃料價格](wallet/yi-tai-fang-bao/wa-si-ge.md)
-    * [燃料上限](wallet/yi-tai-fang-bao/wa-si-shang-xian.md)
-  * [比特幣錢包](wallet/bi-te-bao/README.md)
-    * [礦工費用](wallet/bi-te-bao/gong-yong.md)
-  * [多鏈錢包](wallet/ju-he-bao.md)
-* [冷錢包](cold-wallet/README.md)
-  * [Ledger Nano S/X](cold-wallet/ledger-nano.md)
-  * [CoolWallet S](cold-wallet/coolbitx.md)
-  * [KeepKey](cold-wallet/keepkey.md)
-  * [Trezor](cold-wallet/trezor.md)
-  * [HTC Exodus](cold-wallet/htc-exodus.md)
-  * [MEW Connect（iOS, Android）](cold-wallet/diy-zi-leng-bao-android-ban.md)
-  * [Parity Signer（iOS, Android）](cold-wallet/parity-signer-ios-android.md)
-  * [DIY 冷錢包（FireFly, HITCON etc.）](cold-wallet/diy-zi-leng-bao-arduino-ban.md)
+* [錢包地址](wallet/address.md)
+* [公鑰](wallet/gong.md)
+* [私鑰](wallet/si/README.md)
+  * [密鑰庫（Keystore）](wallet/si/keystore.md)
+* [助記詞](wallet/seed.md)
+* [簽名](wallet/ming/README.md)
+  * [多重簽名](wallet/ming/duo-zhong-ming.md)
+  * [離線簽名](wallet/ming/ming-bao.md)
+
+### 錢包類型
 * [熱錢包](untitled/README.md)
   * [MetaMask](untitled/metamask.md)
   * [imToken](untitled/imtoken.md)
   * [Trust Wallet](untitled/trust-wallet.md)
-  * [Cipher](untitled/cipher.md)
   * [Coinbase Wallet](untitled/coinbase-wallet.md)
+  * [Cipher](untitled/cipher.md)
+* [冷錢包](cold-wallet/README.md)
+  * [Ledger Nano S/X](cold-wallet/ledger-nano.md)
+  * [CoolWallet S](cold-wallet/coolbitx.md)
+  * [Trezor](cold-wallet/trezor.md)
+  * [KeepKey](cold-wallet/keepkey.md)
+  * [HTC Exodus](cold-wallet/htc-exodus.md)
+  * [DIY 冷錢包](cold-wallet/diy-zi-leng-bao-arduino-ban.md)
+  * [MEW Connect](cold-wallet/diy-zi-leng-bao-android-ban.md)
+  * [Parity Signer](cold-wallet/parity-signer-ios-android.md)
 * [紙錢包](bao-1.md)
+* [交易所錢包](wallet/jiao-yi-suo-bao.md)
+* [遊戲錢包](wallet/bao.md)
+* [多鏈錢包](wallet/ju-he-bao.md)
+
+### 交易操作
+* [交易](wallet/undefined/README.md)
+  * [交易手續費](wallet/undefined/shou.md)
+  * [送出交易](wallet/undefined/song-chu.md)
+  * [交易哈希](wallet/undefined/ha-xi.md)
+  * [等待完成交易](wallet/undefined/deng-dai.md)
+  * [交易確認](wallet/undefined/undefined-1.md)
+
+---
+
+## 第五篇：共識機制與挖礦
+### 區塊鏈如何達成共識
+
+* [共識算法](consensus/README.md)
+  * [工作量證明（PoW）](consensus/pos-1.md)
+  * [權益證明（PoS）](consensus/pos.md)
+  * [委託權益證明（DPoS）](consensus/dpos.md)
+  * [重要性證明（PoI）](consensus/poi.md)
+  * [權威證明（PoA）](consensus/poa.md)
+
 * [挖礦](wa/README.md)
   * [算力](wa/suan-li.md)
+  * [哈希值](wa/ha-xi-zhi.md)
+  * [哈希力](wa/ha-xi-li.md)
   * [驗證](wa/undefined.md)
   * [打包](wa/da-bao.md)
   * [廣播](wa/bo/README.md)
@@ -74,27 +125,35 @@
   * [礦工](wa/gong.md)
   * [礦機](wa/undefined-4.md)
   * [礦池](wa/chi.md)
-  * [哈希值](wa/ha-xi-zhi.md)
-  * [哈希力](wa/ha-xi-li.md)
   * [區塊高度](wa/gao-du.md)
   * [GPU](wa/gpu.md)
   * [ASICs](wa/asic.md)
-* [區塊鏈風險](blockchain-security/README.md)
-  * [女巫攻擊](blockchain-security/sybil-attack.md)
-  * [51 攻擊](blockchain-security/51-attack.md)
-  * [量子攻擊](blockchain-security/quantum.md)
-  * [雙花攻擊](blockchain-security/double-spending.md)
-  * [無礦風險](blockchain-security/zero-block-reward.md)
-  * [流量攻擊](blockchain-security/ddos.md)
-  * [人為風險](blockchain-security/human-error.md)
-* [分岔](fork/README.md)
-  * [軟分岔](fork/soft-fork.md)
-  * [硬分岔](fork/hard-fork.md)
-* [智能合約](smart-contract/README.md)
-  * [Solidity](smart-contract/solidity.md)
-  * [智能合約工程師](smart-contract/smart-contract-developer/README.md)
-    * [ERC 與 EIP](smart-contract/smart-contract-developer/erc-eip.md)
-  * [合約地址](smart-contract/contract-address.md)
+
+---
+
+## 第六篇：區塊鏈安全
+### 認識風險，保護資產
+
+* [區塊鏈風險總覽](blockchain-security/README.md)
+* [51% 攻擊](blockchain-security/51-attack.md)
+* [女巫攻擊](blockchain-security/sybil-attack.md)
+* [雙花攻擊](blockchain-security/double-spending.md)
+* [量子攻擊](blockchain-security/quantum.md)
+* [流量攻擊（DDoS）](blockchain-security/ddos.md)
+* [無礦風險](blockchain-security/zero-block-reward.md)
+* [人為風險](blockchain-security/human-error.md)
+* [常見詐騙手法](scams/README.md) 🆕
+  * [假錢包 APP](scams/fake-wallet.md) 🆕
+  * [釣魚網站](scams/phishing.md) 🆕
+  * [空投詐騙](scams/airdrop-scam.md) 🆕
+  * [龐氏騙局](scams/ponzi.md) 🆕
+
+---
+
+## 第七篇：數位資產發行與投資
+### 代幣經濟學
+
+* [數位資產](digital-assets.md)
 * [數位資產發行](tong/README.md)
   * [項目方](tong/mu-fang.md)
   * [白皮書](tong/bai-pi/README.md)
@@ -114,13 +173,18 @@
     * [銷燬](tong/hang/undefined-1.md)
     * [軟頂](tong/hang/undefined.md)
     * [硬頂](tong/hang/ying.md)
-  * [山寨幣](tong/shan-zhai.md)
-  * [分岔幣](tong/fen-cha.md)
-  * [應用幣](tong/yong.md)
-  * [證券幣](tong/quan.md)
-  * [空氣幣](tong/kong.md)
-  * [垃圾幣](tong/la-ji.md)
-  * [傳銷幣](tong/undefined-1.md)
+
+### 代幣分類
+* [山寨幣](tong/shan-zhai.md)
+* [分岔幣](tong/fen-cha.md)
+* [應用幣](tong/yong.md)
+* [證券幣](tong/quan.md)
+* [空氣幣](tong/kong.md)
+* [垃圾幣](tong/la-ji.md)
+* [傳銷幣](tong/undefined-1.md)
+* [穩定幣](tong/stablecoin-intro.md) → 詳見[第八篇：穩定幣專章](usdt/README.md)
+
+### 投資相關
 * [數位資產投資](wei/README.md)
   * [瞭解你的用戶（KYC）](wei/liao-jie-ni-de-yong-kyc.md)
   * [領投](wei/tou.md)
@@ -128,266 +192,331 @@
   * [空投](wei/kong-tou/README.md)
     * [糖果](wei/kong-tou/tang-guo.md)
     * [糖果盒](wei/kong-tou/tang-guo-he.md)
-    * [Earn.com](wei/kong-tou/earn.com.md)
-    * [Cobo](wei/kong-tou/cobo.md)
   * [上幣](wei/shang.md)
   * [炒幣](wei/chao.md)
   * [抱幣](wei/bao-1.md)
   * [借幣](wei/jie-ka.md)
   * [借記](wei/jie.md)
-* [自律組織（SRO）](zi-lv-sro.md)
-* [去中心化自組織（DAO）](dao.md)
-* [交易所](jiao-yi-suo/README.md)
-  * [法幣](jiao-yi-suo/fa-jiao-yi/README.md)
-    * [ePay](jiao-yi-suo/fa-jiao-yi/epay.md)
-    * [Abra](jiao-yi-suo/fa-jiao-yi/abra.md)
-  * [幣幣](jiao-yi-suo/jiao-yi/README.md)
-    * [OTCBTC](jiao-yi-suo/jiao-yi/otcbtc.md)
-    * [Changely](jiao-yi-suo/jiao-yi/changely.md)
-    * [Shapeway](jiao-yi-suo/jiao-yi/shapeway.md)
-  * [場外](jiao-yi-suo/wai-jiao-yi.md)
-  * [撮合](jiao-yi-suo/cuo-he-jiao-yi.md)
-  * [入金](jiao-yi-suo/cun-ru.md)
-  * [出金](jiao-yi-suo/chu.md)
-  * [資產](jiao-yi-suo/undefined-1.md)
-  * [餘額](jiao-yi-suo/undefined.md)
-  * [中心化交易所](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/README.md)
-    * [B網](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/b.md)
-    * [P網](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/p.md)
-    * [幣安](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/an.md)
-  * [去中心化交易所](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/README.md)
-    * [0x](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/0x.md)
-    * [Joyso](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/joyso.md)
-  * [零手續費交易所](jiao-yi-suo/ling-shou-jiao-yi-suo/README.md)
-    * [COBINHOOD](jiao-yi-suo/ling-shou-jiao-yi-suo/cobinhood.md)
-  * [幣價](jiao-yi-suo/undefined-2/README.md)
-    * [CMC](jiao-yi-suo/undefined-2/cmc.md)
-    * [芝加哥 Index](jiao-yi-suo/undefined-2/zhi-jia-ge-index.md)
+
+---
+
+## 第八篇：交易所
+### 買賣數位資產的場所
+
+* [交易所總覽](jiao-yi-suo/README.md)
+* [中心化交易所（CEX）](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/README.md)
+  * [幣安](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/an.md)
+  * [B網（Bittrex）](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/b.md)
+  * [P網（Poloniex）](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/p.md)
+* [去中心化交易所（DEX）](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/README.md)
+  * [0x Protocol](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/0x.md)
+  * [Uniswap](dex/uniswap.md) 🆕
+  * [SushiSwap](dex/sushiswap.md) 🆕
 * [經銷商](shang/README.md)
   * [Coinbase](shang/coinbase.md)
   * [BitoEx](shang/bitoex.md)
   * [MaiCoin](shang/maicoin.md)
+
+### 交易操作
+* [法幣交易](jiao-yi-suo/fa-jiao-yi/README.md)
+* [幣幣交易](jiao-yi-suo/jiao-yi/README.md)
+* [場外交易（OTC）](jiao-yi-suo/wai-jiao-yi.md)
+* [撮合](jiao-yi-suo/cuo-he-jiao-yi.md)
+* [入金](jiao-yi-suo/cun-ru.md)
+* [出金](jiao-yi-suo/chu.md)
+* [幣價](jiao-yi-suo/undefined-2/README.md)
+  * [CoinMarketCap](jiao-yi-suo/undefined-2/cmc.md)
+
+### 穩定幣
 * [穩定幣](usdt/README.md)
-  * [錨定](usdt/ding.md)
-  * [USDT](usdt/usdt.md)
-  * [TUSD](usdt/tusd.md)
-  * [TWDT](usdt/twdt.md)
-  * [MakerDAO](usdt/makerdao.md)
-  * [托底](usdt/tuo-di.md)
-* [其他區塊鏈](qi-ta-1.md)
-* [共識算法](consensus/README.md)
-  * [工作量證明](consensus/pos-1.md)
-  * [權益證明](consensus/pos.md)
-  * [權益授權證明](consensus/dpos.md)
-  * [重要性證明](consensus/poi.md)
-  * [權威證明](consensus/poa.md)
-* [數位資產名錄](token/README.md)
-  * [艾達幣（ADA）](token/ai-ada.md)
-  * [萊特幣](token/te.md)
-  * [比特現金](token/bi-te-jin.md)
-  * [比特黃金](token/bi-te-jin-1.md)
-  * [比特鑽石](token/bi-te-shi.md)
-  * [以太經典](token/yi-tai-dian.md)
-  * [EOS](token/eos.md)
-  * [瑞波幣](token/rui-bo.md)
-  * [艾達幣](token/ai.md)
-  * [IOTA](token/iota.md)
-  * [NEM](token/nem.md)
-  * [NEO](token/neo.md)
-  * [門羅幣](token/undefined-10.md)
-  * [LOOMX](token/loomx/README.md)
-    * [以太殭屍](token/loomx/yi-tai.md)
-  * [量子幣](token/liang-zi.md)
-  * [波場幣](token/bo.md)
-  * [零幣](token/ling.md)
-  * [狗狗幣](token/gou-gou.md)
-  * [星雲鏈](token/xing.md)
-* [去中心化應用（DApp）](qu-zhong-xin-hua-yong-dapp/README.md)
-  * [Web3](qu-zhong-xin-hua-yong-dapp/web3.md)
-  * [Dapp 瀏覽器](qu-zhong-xin-hua-yong-dapp/dapp-qi.md)
-  * [區塊鏈賭場](qu-zhong-xin-hua-yong-dapp/undefined/README.md)
-    * [Fomo3D](qu-zhong-xin-hua-yong-dapp/undefined/fomo3d.md)
-    * [區塊鏈老鼠會](qu-zhong-xin-hua-yong-dapp/undefined/lao-shu.md)
-  * [區塊鏈遊戲](qu-zhong-xin-hua-yong-dapp/undefined-1.md)
-  * [Dapp Radar](qu-zhong-xin-hua-yong-dapp/dapp-radar.md)
-  * [DapDap.io](qu-zhong-xin-hua-yong-dapp/dapdap.io.md)
-  * [SOTD](qu-zhong-xin-hua-yong-dapp/sotd.md)
-* [技術開發](blockchain-dev/README.md)
-  * [密碼學](blockchain-dev/cryptography/README.md)
-    * [哈希算法](blockchain-dev/cryptography/hash.md)
-    * [Base64](blockchain-dev/cryptography/base64.md)
-    * [Base58](blockchain-dev/cryptography/base58.md)
-    * [SHA256](blockchain-dev/cryptography/sha256.md)
-    * [SHA3](blockchain-dev/cryptography/sha3.md)
-    * [哈希碰撞](blockchain-dev/cryptography/peng-zhuang.md)
-    * [曲線密碼學（ECC）](blockchain-dev/cryptography/qu-mi-ecc.md)
-    * [零知識證明](blockchain-dev/cryptography/ling-zhi-ming.md)
-  * [公鏈](blockchain-dev/public-chain/README.md)
-    * [分片](blockchain-dev/public-chain/fen-pian.md)
-    * [隔離見證](blockchain-dev/public-chain/ge.md)
-    * [上鏈](blockchain-dev/public-chain/shang.md)
-    * [跨鏈](blockchain-dev/public-chain/kua.md)
-    * [創世區塊](blockchain-dev/public-chain/genesis-block.md)
-  * [私鏈](blockchain-dev/si/README.md)
-    * [Geth](blockchain-dev/si/geth.md)
-    * [Parity](blockchain-dev/si/parity.md)
-  * [側鏈](blockchain-dev/undefined-7.md)
+* [錨定](usdt/ding.md)
+* [USDT](usdt/usdt.md)
+* [USDC](stablecoin/usdc.md) 🆕
+* [DAI](stablecoin/dai.md) 🆕
+* [MakerDAO](usdt/makerdao.md)
+* [USDe（Ethena）](stablecoin/usde.md) 🆕
+* [PYUSD（PayPal）](stablecoin/pyusd.md) 🆕
+* [USD1](stablecoin/usd1.md) 🆕
+* [JPYC（日圓穩定幣）](stablecoin/jpyc.md) 🆕
+* [EURC（歐元穩定幣）](stablecoin/eurc.md) 🆕
+* [收益型穩定幣](stablecoin/yield-bearing.md) 🆕
+
+---
+
+## 第九篇：區塊鏈技術開發
+### 給開發者的指南
+
+* [技術開發總覽](blockchain-dev/README.md)
+* [密碼學](blockchain-dev/cryptography/README.md)
+  * [哈希算法](blockchain-dev/cryptography/hash.md)
+  * [SHA256](blockchain-dev/cryptography/sha256.md)
+  * [SHA3](blockchain-dev/cryptography/sha3.md)
+  * [Base64](blockchain-dev/cryptography/base64.md)
+  * [Base58](blockchain-dev/cryptography/base58.md)
+  * [哈希碰撞](blockchain-dev/cryptography/peng-zhuang.md)
+  * [曲線密碼學（ECC）](blockchain-dev/cryptography/qu-mi-ecc.md)
+  * [零知識證明](blockchain-dev/cryptography/ling-zhi-ming.md)
+* [公鏈](blockchain-dev/public-chain/README.md)
+  * [創世區塊](blockchain-dev/public-chain/genesis-block.md)
   * [主網](blockchain-dev/mainnet.md)
-  * [節點](blockchain-dev/node/README.md)
-    * [全節點](blockchain-dev/node/quan.md)
-    * [輕量節點](blockchain-dev/node/liang.md)
   * [測試網](blockchain-dev/undefined-8/README.md)
     * [水龍頭](blockchain-dev/undefined-8/shui.md)
+  * [分片](blockchain-dev/public-chain/fen-pian.md)
+  * [隔離見證](blockchain-dev/public-chain/ge.md)
+  * [上鏈](blockchain-dev/public-chain/shang.md)
+  * [跨鏈](blockchain-dev/public-chain/kua.md)
+* [私鏈](blockchain-dev/si/README.md)
+  * [Geth](blockchain-dev/si/geth.md)
+  * [Parity](blockchain-dev/si/parity.md)
+* [側鏈](blockchain-dev/undefined-7.md)
+* [節點](blockchain-dev/node/README.md)
+  * [全節點](blockchain-dev/node/quan.md)
+  * [輕量節點](blockchain-dev/node/liang.md)
+* [分岔](fork/README.md)
+  * [軟分岔](fork/soft-fork.md)
+  * [硬分岔](fork/hard-fork.md)
+
+---
+
+## 第十篇：DeFi 去中心化金融 🆕
+### 開放式金融新世界
+
+* [DeFi 是什麼](defi/README.md) 🆕
+* [流動性挖礦](defi/yield-farming.md) 🆕
+* [自動造市商（AMM）](defi/amm.md) 🆕
+* [借貸協議](defi/lending/README.md) 🆕
+  * [Aave](defi/lending/aave.md) 🆕
+  * [Compound](defi/lending/compound.md) 🆕
+* [去中心化衍生品](defi/derivatives.md) 🆕
+* [DeFi 風險](defi/risks.md) 🆕
+  * [無常損失](defi/impermanent-loss.md) 🆕
+  * [閃電貸攻擊](defi/flash-loan-attack.md) 🆕
+
+---
+
+## 第十一篇：Layer 2 擴容方案 🆕
+### 解決區塊鏈的效能瓶頸
+
+* [為什麼需要 Layer 2](layer2/README.md) 🆕
+* [Rollups](layer2/rollups.md) 🆕
+  * [Optimistic Rollups](layer2/optimistic.md) 🆕
+  * [ZK Rollups](layer2/zk-rollups.md) 🆕
+* [Polygon](layer2/polygon.md) 🆕
+* [Arbitrum](layer2/arbitrum.md) 🆕
+* [Optimism](layer2/optimism.md) 🆕
 * [跨鏈交易](cross-chain-swap-telepor-bridge.md)
-* [迷因（MEME）](mi-yin/README.md)
-  * [V神](mi-yin/vitalikv-shen.md)
-  * [21000000](mi-yin/21000000/README.md)
-    * [42](mi-yin/21000000/42.md)
-    * [18](mi-yin/21000000/18.md)
-    * [8](mi-yin/21000000/8.md)
-  * [韭菜](mi-yin/jiu-cai.md)
-  * [鯨魚](mi-yin/undefined-5.md)
-  * [披薩日](mi-yin/pi-ri.md)
-  * [上月球](mi-yin/shang-yue-qiu.md)
-  * [藍寶堅尼](mi-yin/ni.md)
-  * [幣圈一天，人間三年](mi-yin/quan-yi-tian-ren-san-nian.md)
-  * [開車](mi-yin/undefined.md)
-  * [割肉](mi-yin/ge-rou.md)
-  * [資金盤](mi-yin/jin.md)
-  * [砸盤](mi-yin/za.md)
-  * [接盤](mi-yin/jie.md)
-  * [搬磚](mi-yin/ban.md)
-  * [破發](mi-yin/po.md)
-  * [井噴](mi-yin/jing.md)
-  * [HODL](mi-yin/hodl.md)
-  * [DYOR](mi-yin/dyor.md)
-  * [詐神](mi-yin/shen.md)
-  * [FOMO](mi-yin/fomo.md)
-  * [FUD](mi-yin/fud.md)
-* [NFT 藝術/蒐藏品](nft-collectibles/README.md)
-  * [同質貨幣](nft-collectibles/tong-nfts.md)
-  * [ERC721](nft-collectibles/erc721.md)
-  * [ERC1155](nft-collectibles/erc1155.md)
-  * [加密貓](nft-collectibles/jia-mi-cryptokitties.md)
+
+---
+
+## 第十二篇：NFT 非同質化代幣
+### 數位藝術與收藏品
+
+* [NFT 是什麼](nft-collectibles/README.md)
+* [同質 vs 非同質](nft-collectibles/tong-nfts.md)
+* [ERC721](nft-collectibles/erc721.md)
+* [ERC1155](nft-collectibles/erc1155.md)
 * [NFT 藝廊/賣場](nft-galleries.md)
-* [NFT 藝術家（亞洲）Top50](nft-artist-top50-asia.md)
 * [NFT 藝術家 Top50](nft-artist-top50/README.md)
   * [Beeple](nft-artist-top50/beeple.md)
   * [pplpleasr](nft-artist-top50/pplpleasr.md)
-  * [Ben Mauro](nft-artist-top50/ben-mauro.md)
-  * [Bryan Brinkman](nft-artist-top50/bryan-brinkman.md)
 * [NFT 指數基金](nft-index.md)
 * [NFT 展示場地](sandbox-game.md)
 * [NFT 懶人包 - WhaleShark](nft-for-dummies/README.md)
-  * [老司機 WhaleShark：給網紅的 NFT 遊戲手冊](nft-for-dummies/nft-explain-whaleshark-playbook.md)
-  * [老司機 WhaleShark：給 NFT 創作者的財富管理手冊](nft-for-dummies/whaleshark-the-wealth-management-playbook-for-nft-creators.md)
-  * [老司機 WhaleShark：社交代幣 101](nft-for-dummies/whaleshark-social-token-101.md)
+
+### NFT 經典案例
+* [加密貓](nft-collectibles/jia-mi-cryptokitties.md)
+* [BAYC](nft/bayc.md) 🆕
+* [CryptoPunks](nft/cryptopunks.md) 🆕
+
+---
+
+## 第十三篇：DAO 與 Web3 治理 🆕
+### 去中心化組織
+
+* [自律組織（SRO）](zi-lv-sro.md)
+* [去中心化自組織（DAO）](dao.md)
+* [DAO 治理機制](dao/governance.md) 🆕
+* [投票權代幣](dao/governance-token.md) 🆕
+* [知名 DAO 案例](dao/examples.md) 🆕
+
+---
+
+## 第十四篇：元宇宙
+### 虛實融合的未來
+
 * [元宇宙](metaverse/README.md)
-  * [110-1 臺大虛擬人與遙現課程](metaverse/110-1-ntu-virtual-human-and-telepresence/README.md)
-    * [Week1](metaverse/110-1-ntu-virtual-human-and-telepresence/week1.md)
-* [區塊鏈應用榜](blockchain-apps/README.md)
-  * [BlockCerts](blockchain-apps/blockcerts.md)
-  * [(JF)IPFS](blockchain-apps/ipfs.md)
-  * [Livepeer](blockchain-apps/livepeer.md)
-  * [ENS](blockchain-apps/ens.md)
-  * [Brave](blockchain-apps/brave.md)
-  * [Aragon](blockchain-apps/aragon.md)
-  * [Portal.Network](blockchain-apps/portal.network.md)
-* [區塊鏈安全榜](an-quan-bang/README.md)
-  * [圖靈鍊](an-quan-bang/undefined.md)
-* [區塊鏈藝術榜](undefined/README.md)
-  * [PRICELESS（PRCLS）](undefined/priceless-prcls.md)
-* [區塊鏈影片榜](ying-pian-bang.md)
-* [區塊鏈遊戲榜](bang/README.md)
-  * [Bitcoin](bang/bitcoin.md)
-  * [Ethereum](bang/ethereum.md)
-  * [Tron](bang/tron.md)
-  * [Dexon](bang/dexon.md)
-  * [EOS](bang/eos.md)
-* [區塊鏈風投榜](tou-bang/README.md)
-  * [節點資本](tou-bang/ben.md)
-  * [恆心資本](tou-bang/xin-ben.md)
-  * [a16z](tou-bang/a16z.md)
-* [區塊鏈企業榜](qi-bang/README.md)
-  * [比特大陸](qi-bang/bi-te-da.md)
-  * [Consensus](qi-bang/consensus.md)
-  * [Coinbase](qi-bang/coinbase.md)
+* [虛擬人與遙現](metaverse/110-1-ntu-virtual-human-and-telepresence/README.md)
+
+---
+
+## 第十五篇：其他區塊鏈與代幣
+### 數位資產名錄
+
+* [數位資產名錄](token/README.md)
+* [萊特幣](token/te.md)
+* [比特現金](token/bi-te-jin.md)
+* [以太經典](token/yi-tai-dian.md)
+* [EOS](token/eos.md)
+* [NEO](token/neo.md)
+* [瑞波幣](token/rui-bo.md)
+* [狗狗幣](token/gou-gou.md)
+* [Solana](token/solana.md) 🆕
+* [Avalanche](token/avalanche.md) 🆕
+* [Base](token/base.md) 🆕
+* [Sui](token/sui.md) 🆕
+* [Aptos](token/aptos.md) 🆕
+* [TON](token/ton.md) 🆕
+
+---
+
+## 第十六篇：幣圈迷因與文化
+### 入圈必備知識
+
+* [迷因（MEME）](mi-yin/README.md)
+* [V神](mi-yin/vitalikv-shen.md)
+* [21000000](mi-yin/21000000/README.md)
+* [韭菜](mi-yin/jiu-cai.md)
+* [鯨魚](mi-yin/undefined-5.md)
+* [HODL](mi-yin/hodl.md)
+* [DYOR](mi-yin/dyor.md)
+* [FOMO](mi-yin/fomo.md)
+* [FUD](mi-yin/fud.md)
+* [To the Moon](mi-yin/shang-yue-qiu.md)
+* [藍寶堅尼](mi-yin/ni.md)
+* [披薩日](mi-yin/pi-ri.md)
+* [幣圈一天，人間三年](mi-yin/quan-yi-tian-ren-san-nian.md)
+* [割肉](mi-yin/ge-rou.md)
+* [搬磚](mi-yin/ban.md)
+
+---
+
+## 第十七篇：鏈圈與幣圈
+### 社群與生態
+
+* [鏈圈](quan.md)
+* [幣圈](quan-1.md)
 * [區塊鏈名人錄](ming-ren/README.md)
-  * [李笑來](ming-ren/li-xiao.md)
-  * [趙長鵬](ming-ren/undefined.md)
-  * [小查](ming-ren/xiao-cha.md)
-  * [老查](ming-ren/lao-cha.md)
-  * [比特幣耶穌](ming-ren/bi-te.md)
-  * [xDite](ming-ren/xdite.md)
-  * [Justin Lin](ming-ren/justin-lin.md)
-* [區塊鏈活動](huo/README.md)
-  * [Beyond Block](huo/beyond-block.md)
-  * [Asia Blockchain Summit](huo/asia-blockchain-summit.md)
-* [區塊鏈研討會](yan/README.md)
-  * [Taipei Ethereum Meetup](yan/taipei-ethereum-meetup.md)
-  * [CryBlock](yan/cryblock.md)
 * [區塊鏈社群](she-qun/README.md)
-  * [WeChat](she-qun/wechat.md)
-  * [Steemit](she-qun/steemit.md)
-  * [Reddit](she-qun/reddit.md)
-  * [Bitcoin Forum](she-qun/bitcoin-forum.md)
-  * [Telegram](she-qun/telegram.md)
-  * [Discord](she-qun/discord.md)
-  * [Medium](she-qun/medium.md)
-  * [LINE](she-qun/line.md)
 * [區塊鏈新聞](xin/README.md)
-  * [金色財經](xin/jin-se.md)
-  * [區塊客](xin/ke.md)
-  * [動區.動驅](xin/untitled.md)
-* [區塊鏈網紅](undefined-2/README.md)
-  * [寶二爺](undefined-2/er/README.md)
-    * [韭菜莊園](undefined-2/er/jiu-cai.md)
-  * [區塊鏈女孩](undefined-2/nv-hai.md)
-  * [區塊鏈偶像](undefined-2/ou-xiang.md)
-* [區塊鏈電影](ying/README.md)
-  * [《聖人大盜》](ying/ren-da.md)
-* [區塊鏈紀錄片](pian.md)
-* [區塊鏈TED演講](ted-talks.md)
+* [區塊鏈活動](huo/README.md)
+* [區塊鏈研討會](yan/README.md)
+
+---
+
+## 第十八篇：學習資源
+### 持續學習
+
+* [區塊鏈 TED 演講](ted-talks.md)
 * [區塊鏈書籍](books.md)
 * [區塊鏈教學](jiao/README.md)
-  * [Tibame](jiao/tibame/README.md)
-    * [地表最強！智能合約開發超級入門](jiao/tibame/online.md)
-    * [BlockChain區塊鏈實作班](jiao/tibame/offline.md)
 * [區塊鏈學程](cheng/README.md)
-  * [Stanford BCR](cheng/stanford-bcr.md)
-  * [北科大](cheng/bei-ke-da.md)
-  * [MIT](cheng/mit.md)
-* [區塊鏈組織](undefined-1-1/README.md)
-  * [GITA](undefined-1-1/gita.md)
-  * [金融科技協會](undefined-1-1/jin-rong-ke-ji.md)
-  * [ICORating](undefined-1-1/icorating.md)
-  * [SEC](undefined-1-1/sec.md)
-  * [JBA](undefined-1-1/jba.md)
-  * [金管會](undefined-1-1/jin-guan.md)
-* [0x1區塊鏈課程](0x1-workshop/README.md)
-  * [NTUT 0x1 Blockchain Bootcamp 2018 Winter](0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
-  * [NTUT 0x1 Blockchain Bootcamp 2019 Spring](0x1-workshop/ntut-0x1-blockchain-bootcamp-2019-spring.md)
-* [0x1區塊鏈翻譯](0x1-fan.md)
-* [0x1區塊鏈實驗室](0x1-shi/README.md)
-  * [北科大寶博士實驗室 DAB LAB](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/README.md)
-    * [碩士班](0x1-shi/bei-ke-da-bo-shi-shi-dab-lab/shi-ban.md)
+* [0x1 區塊鏈課程](0x1-workshop/README.md)
+* [0x1 區塊鏈翻譯](0x1-fan.md)
+* [0x1 區塊鏈實驗室](0x1-shi/README.md)
+
+---
+
+## 第十九篇：區塊鏈應用
+### 落地案例
+
+* [區塊鏈應用榜](blockchain-apps/README.md)
+  * [IPFS](blockchain-apps/ipfs.md)
+  * [ENS](blockchain-apps/ens.md)
+  * [Brave](blockchain-apps/brave.md)
+  * [BlockCerts](blockchain-apps/blockcerts.md)
+* [去中心化應用（DApp）](qu-zhong-xin-hua-yong-dapp/README.md)
+  * [Web3](qu-zhong-xin-hua-yong-dapp/web3.md)
+  * [DApp 瀏覽器](qu-zhong-xin-hua-yong-dapp/dapp-qi.md)
+  * [DApp Radar](qu-zhong-xin-hua-yong-dapp/dapp-radar.md)
+
+---
+
+## 第二十篇：AI x Web3 🆕
+### 人工智慧與區塊鏈的融合
+
+* [AI x Web3 總覽](ai-web3/README.md) 🆕
+* [x402 Protocol](ai-web3/x402.md) 🆕
+* [AI Agent 支付](ai-web3/ai-agent-payments.md) 🆕
+* [去中心化 AI](ai-web3/decentralized-ai.md) 🆕
+* [AP2 Protocol（Google）](ai-web3/ap2.md) 🆕
+* [Cloudflare AI 支付](ai-web3/cloudflare.md) 🆕
+
+---
+
+## 第二十一篇：預測市場 🆕
+### 群眾智慧與資訊聚合
+
+* [預測市場總覽](prediction-markets/README.md) 🆕
+* [Polymarket](prediction-markets/polymarket.md) 🆕
+* [預測市場機制](prediction-markets/how-it-works.md) 🆕
+* [預測市場應用](prediction-markets/use-cases.md) 🆕
+
+---
+
+## 第二十二篇：CBDC 央行數位貨幣 🆕
+### 國家級數位貨幣
+
+* [CBDC 總覽](cbdc/README.md) 🆕
+* [數位人民幣（e-CNY）](cbdc/e-cny.md) 🆕
+* [印度 e-rupee](cbdc/e-rupee.md) 🆕
+* [數位歐元](cbdc/digital-euro.md) 🆕
+* [各國 CBDC 進展](cbdc/global-progress.md) 🆕
+* [mBridge 跨境 CBDC](cbdc/mbridge.md) 🆕
+
+---
+
+## 第二十三篇：RWA 真實世界資產 🆕
+### 實體資產代幣化
+
+* [RWA 代幣化總覽](rwa/README.md) 🆕
+* [代幣化國債](rwa/treasuries.md) 🆕
+* [BlackRock BUIDL](rwa/buidl.md) 🆕
+* [代幣化房地產](rwa/real-estate.md) 🆕
+* [代幣化私人信貸](rwa/private-credit.md) 🆕
+* [RWA 協議](rwa/protocols.md) 🆕
+
+---
+
+## 第二十四篇：DePIN 去中心化實體基礎設施 🆕
+### 區塊鏈驅動的實體網路
+
+* [DePIN 總覽](depin/README.md) 🆕
+* [Helium](depin/helium.md) 🆕
+* [Render Network](depin/render.md) 🆕
+* [Hivemapper](depin/hivemapper.md) 🆕
+* [Filecoin](depin/filecoin.md) 🆕
+* [Aethir](depin/aethir.md) 🆕
+
+---
+
+## 第二十五篇：全球監管框架 🆕
+### 各國加密貨幣法規
+
+* [監管總覽](regulation/README.md) 🆕
+* [歐盟 MiCA](regulation/mica.md) 🆕
+* [美國 GENIUS Act](regulation/genius-act.md) 🆕
+* [香港虛擬資產](regulation/hong-kong.md) 🆕
+* [新加坡 MAS](regulation/singapore.md) 🆕
+* [日本加密法規](regulation/japan.md) 🆕
+
+---
+
+## 第二十六篇：Web3 支付 🆕
+### 加密貨幣支付新時代
+
+* [Web3 支付總覽](payments/README.md) 🆕
+* [Stripe + Bridge](payments/stripe-bridge.md) 🆕
+* [Block Bitcoin 支付](payments/block-btc.md) 🆕
+* [穩定幣支付](payments/stablecoin-payments.md) 🆕
+* [跨境支付](payments/cross-border.md) 🆕
+* [企業加密支付](payments/enterprise.md) 🆕
+
+---
+
+## 附錄
+
+* [DDAO 寶博官方 DC 群](ddao/README.md)
 * [寶博朋友說](dAAAb-in-Tech/README.md)
-  * [EP12｜區塊鏈超實在應用！過年紅包直接發「明恩幣」🧧 ！](dAAAb-in-Tech/ep12-ou-kuai-lian-chao-shi-zai-ying-yong-guo-nian-gong-bao-zhi-jie-fa-ming-en-bi.md)
-  * [EP145｜Noah Yeh 葉向林: NFT.NYC 見聞、Crypto OG 心得](dAAAb-in-Tech/145.md)
-* [DDAO｜寶博官方 DC 群](ddao/README.md)
-  * [DN1｜DNIGHT 大道之夜 #1 寶博 ft. GIS Taiwan 全球集思論壇](ddao/dn1.md)
-  * [DN2｜DNIGHT 大道之夜 #2 寶博 ft. FAB DAO 黃豆泥、林逸晟](ddao/dn2dnight-da-dao-zhi-ye-2-bao-bo-ft.-fab-dao-huang-dou-ni-lin-yi-sheng.md)
-  * [DN3｜DNIGHT 大道之夜 #3 寶博 ft. WANA 玟瑄 Flora、Emily、Frank、抹茶](ddao/dn3dnight-da-dao-zhi-ye-3-bao-bo-ft.-wana-min-xuan-floraemilyfrank-mo-cha.md)
-  * [DN4｜DNIGHT 大道之夜 #4 寶博 ft. Pluto Lab 品皓 0xRay](ddao/dn4.md)
-  * [DN5｜DNIGHT 大道之夜 #5 寶博 ft. XY Finance Rudolph Charlie](ddao/dn5.md)
-  * [DN6｜DNIGHT 大道之夜 #6 寶博 ft. Verilink Nico Ramirez](ddao/dn6.md)
-  * [DN7｜DNIGHT 大道之夜 #7 寶博 ft. Capsule Vault Kevin, 0xSLW 綁炸 Pangcah 生活節](ddao/dn7.md)
-  * [DN8｜DNIGHT 大道之夜 #8 寶博 ft. Starks from 沖之 Chongzhipi](ddao/dn8.md)
-  * [DN9｜DNIGHT 大道之夜 #9 寶博 ft. Howie from Protico Web3 Chat](ddao/dn9.md)
-  * [DN10｜DNIGHT 大道之夜 #10 寶博 ft. Hannibal from SeFo Finance](ddao/dn10.md)
 * [參考資料](kao-liao.md)
-* [其他](qi-ta/README.md)
-  * [馬爾他](qi-ta/ta.md)
-  * [加密谷](qi-ta/jia-mi-gu.md)
 * [丟掉的片段](diao-de-pian-duan.md)
 * [未來](wei-1.md)
