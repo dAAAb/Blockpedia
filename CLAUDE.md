@@ -38,3 +38,23 @@ Blockpedia 是由 **0x1 Academy** 維護的開源區塊鏈百科全書，使用 
 
 - 推送至 GitHub 後，GitBook 會自動同步並發布
 - 無需手動建置或部署指令
+
+## Claude 工作資料夾
+
+`.claude/` 目錄包含 Claude Code 的工作文件：
+
+| 檔案 | 用途 |
+|------|------|
+| `SESSION-CHECKPOINT.md` | 工作進度檢查點，新對話請先讀取 |
+| `dAAAb-writing-style.md` | dAAAb 寫作風格指南（必讀） |
+| `new-summary-proposal.md` | 新目錄結構提案（26 篇章節） |
+| `new-topics-2024-2026.md` | 2024-2026 新主題清單 |
+| `knowledge-update-agent.md` | 可重複使用的知識更新指令 |
+| `blockpedia-analysis.md` | 知識庫分析報告 |
+
+## 重要原則
+
+1. **dAAAb 原創內容不可修改** — 這是 Gen AI 時代之前的人類思考結晶
+2. **目錄可優化** — SUMMARY.md 結構可調整
+3. **遵循寫作風格** — 新內容需符合 dAAAb 的比喻式、循序漸進風格
+4. **使用正體中文** — 台灣用語
