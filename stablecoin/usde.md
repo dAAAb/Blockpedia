@@ -1,4 +1,10 @@
+---
+description: USDT 靠銀行存款。
+---
+
 # USDe
+> **最後更新：2026 年 1 月**
+
 
 ## USDe 是 Ethena 發行的合成美元，用對沖策略維持錨定，不依賴傳統銀行儲備，是 DeFi 原生的新型穩定幣。
 
@@ -281,3 +287,13 @@ USDe 是穩定幣創新的嘗試，用對沖策略取代傳統儲備。它有其
 - [Ethena 官網](https://ethena.fi/)
 - [Ethena 文檔](https://docs.ethena.fi/)
 - [ENA 代幣資訊](https://www.coingecko.com/en/coins/ethena)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

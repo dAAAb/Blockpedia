@@ -1,4 +1,10 @@
+---
+description: 在「RWA 總覽」中，我們說 RWA 可以降低投資門檻。房地產是最好的例子。
+---
+
 # 代幣化房地產
+> **最後更新：2026 年 1 月**
+
 
 ## 代幣化房地產讓普通人也能投資商業地產，只需要幾十美元就能擁有一棟大樓的一小部分。
 
@@ -243,3 +249,13 @@ RealT 代幣可以在 DeFi 中使用，比如作為抵押品借款。這是傳�
 - [RealT 官網](https://realt.co/)
 - [Lofty 官網](https://www.lofty.ai/)
 - [Tokenized Real Estate Market Report](https://rwa.xyz/real-estate)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

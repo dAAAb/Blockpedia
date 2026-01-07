@@ -1,4 +1,10 @@
+---
+description: 在「CBDC 總覽」中，我們討論了各國自己的 CBDC。但更大的問題是：不同國家的 CBDC 如何對話？
+---
+
 # mBridge
+> **最後更新：2026 年 1 月**
+
 
 ## mBridge 是由多國央行共同開發的跨境 CBDC 平台，目標是讓不同國家的央行數位貨幣可以互相兌換、即時結算。
 
@@ -247,3 +253,13 @@ mBridge 的路線圖：
 - [BIS: Project mBridge](https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm)
 - [mBridge MVP Report](https://www.bis.org/publ/othp79.htm)
 - [香港金管局：mBridge](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/central-bank-digital-currency/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

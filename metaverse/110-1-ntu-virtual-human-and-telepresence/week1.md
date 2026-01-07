@@ -1,4 +1,10 @@
+---
+description: W1
+---
+
 # Week1
+> **最後更新：2026 年 1 月**
+
 
 W1
 
@@ -12,3 +18,12 @@ NV 發表會 完整 [https://www.youtube.com/watch?v=PrwewnI8j08](https://www.yo
 
 NV 造假解說 [https://www.youtube.com/watch?v=1qhqZ9ECm70](https://www.youtube.com/watch?v=1qhqZ9ECm70)
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

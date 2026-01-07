@@ -1,4 +1,10 @@
+---
+description: 想像這個場景：
+---
+
 # 跨境支付
+> **最後更新：2026 年 1 月**
+
 
 ## 區塊鏈正在革新跨境支付——從幾天到幾秒，從高額手續費到幾乎免費，這是加密貨幣最實際的應用場景之一。
 
@@ -351,3 +357,13 @@ Circle 積極推廣 USDC 用於跨境支付：
 - [Strike](https://strike.me/)
 - [Circle Cross-Border Payments](https://www.circle.com/en/usdc)
 - [mBridge](https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

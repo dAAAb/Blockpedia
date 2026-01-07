@@ -1,4 +1,10 @@
+---
+description: 2021 年 11 月，蘇富比要拍賣一份美國憲法原件。
+---
+
 # ConstitutionDAO
+> **最後更新：2026 年 1 月**
+
 
 ## ConstitutionDAO 是一群網友試圖購買美國憲法的瘋狂嘗試，雖然失敗了，但成為 DAO 力量的最佳證明。
 
@@ -246,3 +252,13 @@ ConstitutionDAO 是 DAO 歷史上最激動人心的故事之一。它失敗了�
 - [ConstitutionDAO 官網](https://www.constitutiondao.com/)（歷史）
 - [PEOPLE 代幣](https://www.coingecko.com/en/coins/constitutiondao)
 - [蘇富比拍賣記錄](https://www.sothebys.com/en/buy/auction/2021/the-constitution-broadside)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

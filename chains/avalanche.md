@@ -1,4 +1,10 @@
+---
+description: 「一條鏈不夠用？那就創建自己的鏈。」
+---
+
 # Avalanche
+> **最後更新：2026 年 1 月**
+
 
 ## Avalanche 以獨特的子網架構著稱，讓企業和項目可以創建自己的區塊鏈，同時享有 Avalanche 的安全性。
 
@@ -207,3 +213,13 @@ Avalanche 的子網架構是其獨特優勢。它不只是「另一個以太坊�
 - [Avalanche 官網](https://www.avax.network/)
 - [Avalanche 文檔](https://docs.avax.network/)
 - [Snowtrace](https://snowtrace.io/) - C-Chain 瀏覽器
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 燃料價格（英文：Gas Price）就是交易發起者願為燃料費所付出的單位價格，一律用以太幣計價。
+---
+
 # 燃料價格
+> **最後更新：2026 年 1 月**
+
 
 **燃料價格（英文：Gas Price）就是交易發起者願為燃料費所付出的單位價格，一律用以太幣計價。**
 
@@ -60,5 +66,12 @@
 
 {% embed url="https://ethfans.org/posts/releasing-stuck-ethereum-transactions" %}
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

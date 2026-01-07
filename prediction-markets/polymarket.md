@@ -1,4 +1,10 @@
+---
+description: 2024 年 11 月 5 日，美國大選之夜。
+---
+
 # Polymarket
+> **最後更新：2026 年 1 月**
+
 
 ## Polymarket 是全球最大的去中心化預測市場，2024 年美國大選期間累計交易量突破 90 億美元。
 
@@ -183,3 +189,13 @@ Polymarket 宣布了幾個發展方向：
 - [Polymarket 官網](https://polymarket.com/)
 - [Polymarket 2024 選舉市場](https://polymarket.com/elections)
 - [Bloomberg: Polymarket and the Future of Forecasting](https://www.bloomberg.com/polymarket)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 2020 年夏天，DeFi 爆發了。
+---
+
 # 流動性挖礦
+> **最後更新：2026 年 1 月**
+
 
 ## 流動性挖礦讓你把加密資產投入 DeFi 協議，賺取手續費和代幣獎勵，是 DeFi 的核心玩法。
 
@@ -310,3 +316,13 @@ DeFi 收益聚合的先驅：
 - [DefiLlama Yields](https://defillama.com/yields) - 收益追蹤
 - [Yearn Finance](https://yearn.fi/) - 收益聚合
 - [Impermanent Loss 計算器](https://dailydefi.org/tools/impermanent-loss-calculator/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 2024 年 12 月 30 日，MiCA 全面生效。
+---
+
 # 歐盟 MiCA
+> **最後更新：2026 年 1 月**
+
 
 ## MiCA（Markets in Crypto-Assets）是歐盟的加密資產市場法規，是全球第一個全面的加密貨幣監管框架，將深刻影響全球產業。
 
@@ -276,3 +282,13 @@ MiCA 是加密監管的重要里程碑。無論你在哪裡，了解 MiCA 都有
 - [MiCA 法規全文](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114)
 - [ESMA: MiCA](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica)
 - [EBA: MiCA](https://www.eba.europa.eu/activities/single-rulebook/mica-regulation)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 2024 年 3 月，全球最大的資產管理公司 BlackRock 宣布推出 BUIDL。
+---
+
 # BlackRock BUIDL
+> **最後更新：2026 年 1 月**
+
 
 ## BUIDL 是 BlackRock 推出的代幣化美國國債基金，是傳統金融巨頭進入 RWA 領域的標誌性事件。
 
@@ -249,3 +255,13 @@ BUIDL 的成功證明：傳統金融和區塊鏈不是對立的，而是可以�
 - [BlackRock BUIDL 官方頁面](https://www.blackrock.com/cash-management/products/329430/blackrock-usd-institutional-liquidity-fund)
 - [Securitize: BUIDL Platform](https://securitize.io/buidl)
 - [CoinDesk: BlackRock BUIDL Coverage](https://www.coindesk.com/business/blackrock-buidl/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

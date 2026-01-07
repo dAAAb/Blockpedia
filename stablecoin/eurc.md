@@ -1,4 +1,10 @@
+---
+description: 美元穩定幣統治加密市場。
+---
+
 # EURC
+> **最後更新：2026 年 1 月**
+
 
 ## EURC 是 Circle 發行的歐元穩定幣，符合歐盟 MiCA 監管，是歐洲市場最重要的合規歐元穩定幣。
 
@@ -253,3 +259,13 @@ EURC 是歐洲市場最重要的合規歐元穩定幣。隨著 MiCA 實施，它
 - [Circle EURC](https://www.circle.com/en/euro-coin)
 - [EURC 儲備報告](https://www.circle.com/en/transparency)
 - [MiCA 法規](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

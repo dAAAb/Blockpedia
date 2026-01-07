@@ -1,4 +1,10 @@
+---
+description: 如果說 x402 是 Coinbase 對 HTTP 支付的回答，AP2 就是 Google 的版本。
+---
+
 # AP2 Protocol
+> **最後更新：2026 年 1 月**
+
 
 ## AP2（Agent Payment Protocol 2）是 Google 於 2025 年推出的 AI 支付協議，整合 Google 生態系的 AI 服務支付。
 
@@ -134,3 +140,13 @@ Google 推 AP2 的策略很清楚：
 - [Google Cloud AI 官網](https://cloud.google.com/ai)
 - [Visa TAP 公告](https://usa.visa.com/about-visa/newsroom.html)
 - [AI Payment Protocols Compared](https://www.coindesk.com/tech/ai-payment-protocols/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

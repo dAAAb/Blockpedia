@@ -1,4 +1,10 @@
+---
+description: 多鏈錢包，有時又稱作多幣錢包（英文：Multi-Chain Wallet）也有人稱作多幣錢包或聚合錢包（Multi-Coins Wallet 或 Multi-Currency Wallet），意思是同一個程式或裝置可以存放不同鏈上的資產。
+---
+
 # 多鏈錢包
+> **最後更新：2026 年 1 月**
+
 
 **多鏈錢包，有時又稱作多幣錢包（英文：Multi-Chain Wallet）也有人稱作多幣錢包或聚合錢包（Multi-Coins Wallet 或 Multi-Currency Wallet），意思是同一個程式或裝置可以存放不同鏈上的資產。**
 
@@ -47,3 +53,13 @@
 目前最多人用的中文多鏈錢包大概屬於前面提到的 imToken 2.0 了，大家也可以試試看。
 
 ![](../.gitbook/assets/ying-mu-kuai-zhao-20180902-xia-wu-5.12.58.png)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

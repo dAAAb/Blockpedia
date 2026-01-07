@@ -1,4 +1,10 @@
+---
+description: 交換 1,000,000 USDC 為 USDT。
+---
+
 # Curve Finance
+> **最後更新：2026 年 1 月**
+
 
 ## Curve 是專注穩定幣和同類資產交易的 DEX，以極低滑點著稱，是 DeFi 流動性的核心樞紐。
 
@@ -268,3 +274,13 @@ Curve 是 DeFi 的「穩定幣交易所」。如果你需要大額穩定幣兌�
 - [Curve 文檔](https://resources.curve.fi/)
 - [CRV 代幣資訊](https://www.coingecko.com/en/coins/curve-dao-token)
 - [Convex Finance](https://www.convexfinance.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

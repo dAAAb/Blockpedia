@@ -1,4 +1,10 @@
+---
+description: Sui 和 Aptos 是「雙胞胎」。
+---
+
 # Aptos
+> **最後更新：2026 年 1 月**
+
 
 ## Aptos 是另一個使用 Move 語言的公鏈，由前 Meta 團隊創立，以 Block-STM 並行執行引擎著稱。
 
@@ -199,3 +205,13 @@ Aptos 有 Meta 的技術積累和頂級 VC 背書。Block-STM 是其技術亮點
 - [Aptos 官網](https://aptoslabs.com/)
 - [Aptos 文檔](https://aptos.dev/)
 - [Aptos Explorer](https://explorer.aptoslabs.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

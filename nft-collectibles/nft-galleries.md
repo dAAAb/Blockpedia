@@ -1,4 +1,10 @@
+---
+description: Rarible https://rarible.com/
+---
+
 # NFT 藝廊/賣場
+> **最後更新：2026 年 1 月**
+
 
 ### {**開放式賣場}｜免審核**
 
@@ -36,5 +42,12 @@ Seen 申請： [https://seen.haus/launchpad](https://seen.haus/launchpad) （似
 
 MeraFactory [https://shop.metafactory.ai/](https://shop.metafactory.ai/) Van x Zplit [https://vaunker.com/](https://vaunker.com/) Wickedsunday [https://wickedsunday.club/](https://wickedsunday.club/)
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

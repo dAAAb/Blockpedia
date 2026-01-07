@@ -1,4 +1,10 @@
+---
+description: 如果說 CZ 代表加密貨幣的「野性」，Brian Armstrong 就代表它的「文明」。
+---
+
 # Brian Armstrong
+> **最後更新：2026 年 1 月**
+
 
 ## Brian Armstrong 是 Coinbase 共同創辦人兼 CEO，帶領公司成為美國最大的加密貨幣交易所，並推動其在納斯達克上市，成為加密產業的「合規派」代表人物。
 

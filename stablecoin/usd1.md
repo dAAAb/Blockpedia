@@ -1,4 +1,10 @@
+---
+description: 2024 年，前美國總統川普（Donald Trump）的態度從批評加密貨幣轉向擁抱。
+---
+
 # USD1
+> **最後更新：2026 年 1 月**
+
 
 ## USD1 是 World Liberty Financial 發行的穩定幣，與川普家族相關，代表美國政治力量進入穩定幣市場。
 
@@ -183,3 +189,13 @@ USD1 是政治進入穩定幣市場的象徵。無論你的政治立場如何，
 
 - [World Liberty Financial](https://www.worldlibertyfinancial.com/)
 - [WLFI 相關新聞報導](https://www.coindesk.com/tag/world-liberty-financial/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 如果你問：「加密貨幣支付用什麼幣最好？」
+---
+
 # 穩定幣支付
+> **最後更新：2026 年 1 月**
+
 
 ## 穩定幣是 Web3 支付的最佳媒介——它結合了加密貨幣的效率和法幣的穩定性，讓「數位現金」真正可用。
 
@@ -357,3 +363,13 @@ USDT、USDC 都有中心化發行方。如果發行方出問題，穩定幣可�
 - [Tether](https://tether.to/)
 - [PayPal PYUSD](https://www.paypal.com/pyusd)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

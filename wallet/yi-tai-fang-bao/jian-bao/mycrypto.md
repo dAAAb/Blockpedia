@@ -1,4 +1,10 @@
+---
+description: MyCrypto 是最多人使用也最古老的以太坊錢包服務之一 - MyEtherWallet 內部分家後獨立出來另外一個類似服務的平台。
+---
+
 # MyCrypto
+> **最後更新：2026 年 1 月**
+
 
 **MyCrypto 是最多人使用也最古老的以太坊錢包服務之一 - MyEtherWallet 內部分家後獨立出來另外一個類似服務的平台。**
 
@@ -22,3 +28,12 @@
 
 {% embed url="https://download.mycrypto.com/" %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 交易哈希（Transaction Hash）又稱 TxHash（唸作：踢叉-嘿許），其中的 Tx ，就是交易 Transaction 的縮寫。
+---
+
 # 交易哈希
+> **最後更新：2026 年 1 月**
+
 
 **交易哈希（Transaction Hash）又稱 TxHash（唸作：踢叉-嘿許），其中的 Tx ，就是交易 Transaction 的縮寫。**
 
@@ -29,3 +35,12 @@
 {% endtab %}
 {% endtabs %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

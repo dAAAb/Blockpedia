@@ -1,4 +1,10 @@
+---
+description: 當 Meta（Facebook）的區塊鏈項目 Diem 被監管扼殺後，
+---
+
 # Sui
+> **最後更新：2026 年 1 月**
+
 
 ## Sui 是使用 Move 語言的新一代公鏈，以物件導向設計和並行處理著稱，由前 Meta 團隊打造。
 
@@ -202,3 +208,13 @@ Sui 代表了區塊鏈的新思維：物件導向、並行處理、Move 語言�
 - [Sui 官網](https://sui.io/)
 - [Sui 文檔](https://docs.sui.io/)
 - [Sui Explorer](https://suiexplorer.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

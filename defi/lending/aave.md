@@ -1,4 +1,10 @@
+---
+description: Aave 在芬蘭語中意為「幽靈」。
+---
+
 # Aave
+> **最後更新：2026 年 1 月**
+
 
 ## Aave 是 DeFi 最大的借貸協議，發明了閃電貸，持續推動借貸創新，是 DeFi 借貸的標杆。
 
@@ -272,3 +278,13 @@ Aave 是 DeFi 借貸的領導者。從閃電貸到 GHO 穩定幣，它不斷推�
 - [Aave 文檔](https://docs.aave.com/)
 - [AAVE 代幣](https://www.coingecko.com/en/coins/aave)
 - [Aave 治理](https://governance.aave.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

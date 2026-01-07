@@ -1,4 +1,10 @@
+---
+description: 在「幣」的條目裡，我們用「雞幣」的故事解釋貨幣的起源。現在想像一下，如果那隻幫你跑腿換雞的不是鄰居，而是一個 AI 機器人呢？
+---
+
 # AI Agent 支付
+> **最後更新：2026 年 1 月**
+
 
 ## AI Agent 支付是指人工智慧代理程式自主管理錢包、執行交易的能力。
 
@@ -141,3 +147,13 @@ AI 自主花錢帶來一些新問題：
 
 - [Coinbase: The Rise of AI Agents](https://www.coinbase.com/blog/ai-agents-and-crypto)
 - [a]16z: AI Agent Economy](https://a16z.com/ai-agent-economy/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

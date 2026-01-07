@@ -1,4 +1,10 @@
+---
+description: 歐洲人素來謹慎。當中國全速推進數位人民幣時，歐洲花了好幾年「研究」和「諮詢」。
+---
+
 # 數位歐元
+> **最後更新：2026 年 1 月**
+
 
 ## 數位歐元（Digital Euro）是歐洲央行（ECB）正在開發的央行數位貨幣，預計覆蓋歐元區 20 個國家、3.5 億人口。
 
@@ -196,3 +202,13 @@
 - [歐洲央行：數位歐元專區](https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html)
 - [歐盟委員會：數位歐元法案](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13392-Digital-euro_en)
 - [Digital Euro Association](https://www.digitaleuro.eu/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

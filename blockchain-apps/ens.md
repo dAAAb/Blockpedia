@@ -1,4 +1,10 @@
+---
+description: 你的錢包地址是什麼？
+---
+
 # ENS（以太坊域名服務）
+> **最後更新：2026 年 1 月**
+
 
 ## ENS（Ethereum Name Service）讓你可以用 「vitalik.eth」 這樣好記的名字，代替 「0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045」 這樣的錢包地址。它是 Web3 世界的 DNS——去中心化的身份系統。
 

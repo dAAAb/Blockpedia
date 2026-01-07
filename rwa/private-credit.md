@@ -1,4 +1,10 @@
+---
+description: 在「RWA 總覽」中，我們看到私人信貸佔 RWA 市場約 58%。這是 RWA 最大的應用場景。
+---
+
 # 代幣化私人信貸
+> **最後更新：2026 年 1 月**
+
 
 ## 代幣化私人信貸是 RWA 市場最大的類別，讓區塊鏈投資者可以參與傳統上只有銀行和機構才能做的企業貸款。
 
@@ -253,3 +259,13 @@ Maple Finance 一度有超過 5000 萬美元的壞帳。
 - [Maple Finance](https://www.maple.finance/)
 - [Centrifuge](https://centrifuge.io/)
 - [Goldfinch](https://goldfinch.finance/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

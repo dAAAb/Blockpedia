@@ -1,4 +1,10 @@
+---
+description: 你在 App Store 搜尋「MetaMask」。
+---
+
 # 假錢包 APP
+> **最後更新：2026 年 1 月**
+
 
 ## 假錢包是最常見的加密詐騙手法之一，詐騙者創建模仿正版錢包的 APP，騙取用戶的助記詞和私鑰，盜走所有資產。
 
@@ -233,3 +239,13 @@
 - [MetaMask 安全指南](https://metamask.zendesk.com/hc/en-us/articles/360015489591-Basic-Safety-and-Security-Tips-for-MetaMask)
 - [Trust Wallet 安全建議](https://trustwallet.com/blog/how-to-spot-fake-wallets)
 - [FBI: Cryptocurrency Scams](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-scams-and-crimes/cryptocurrency-scams)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

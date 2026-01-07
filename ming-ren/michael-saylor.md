@@ -1,4 +1,10 @@
+---
+description: 有些人投資比特幣。
+---
+
 # Michael Saylor
+> **最後更新：2026 年 1 月**
+
 
 ## Michael Saylor 是 MicroStrategy 創辦人兼執行董事長，帶領公司將資產負債表上的現金全部換成比特幣，成為「企業持有比特幣」的先驅和最狂熱的比特幣傳教士。
 

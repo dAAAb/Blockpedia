@@ -1,4 +1,10 @@
+---
+description: 如果你在 2022 年問比特幣信徒：「比特幣可以發 NFT 嗎？」
+---
+
 # Casey Rodarmor
+> **最後更新：2026 年 1 月**
+
 
 ## Casey Rodarmor 是 Bitcoin Ordinals 和 Runes Protocol 的發明者，在 2023 年讓「比特幣也能發 NFT」成為可能，點燃了比特幣生態系的新革命，同時也引發了社群內部的激烈爭論。
 

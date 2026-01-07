@@ -3,6 +3,8 @@ description: 區塊鏈證書
 ---
 
 # BlockCerts
+> **最後更新：2026 年 1 月**
+
 
 [Blockcerts](https://www.blockcerts.org/) 是一個由  [MIT’s Media Lab](http://learn.media.mit.edu/) 麻省理工學院學習實驗室 和 [Learning Machine](http://www.learningmachine.com/) 公司共同開發的開源區塊鏈證書專案。透過區塊鏈（目前支援比特幣和以太坊兩種鏈）發放課程修業或各種證書。
 
@@ -55,3 +57,12 @@ description: 區塊鏈證書
 
 {% embed url="https://github.com/BlockTechCert" %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

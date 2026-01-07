@@ -1,4 +1,10 @@
+---
+description: 如果說以太坊是區塊鏈的「世界電腦」，
+---
+
 # Arbitrum
+> **最後更新：2026 年 1 月**
+
 
 ## Arbitrum 是 TVL 最大的以太坊 Layer 2，擁有最豐富的 DeFi 生態，是 Optimistic Rollup 的領導者。
 
@@ -266,3 +272,13 @@ Arbitrum 是目前最成功的以太坊 L2。它有最大的 TVL、最豐富的 
 - [Arbitrum 文檔](https://docs.arbitrum.io/)
 - [Arbitrum Bridge](https://bridge.arbitrum.io/)
 - [L2Beat Arbitrum](https://l2beat.com/scaling/projects/arbitrum)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

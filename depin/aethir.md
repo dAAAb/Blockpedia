@@ -1,4 +1,10 @@
+---
+description: AI 需要 GPU。
+---
+
 # Aethir
+> **最後更新：2026 年 1 月**
+
 
 ## Aethir 是專注於雲端 GPU 的 DePIN 網路，為 AI 和遊戲提供去中心化的算力基礎設施，在 AI 熱潮中快速崛起。
 
@@ -278,3 +284,13 @@ GPU 短缺是真實的問題，去中心化網路提供了一種解決方案。
 - [Aethir 官網](https://www.aethir.com/)
 - [Aethir Docs](https://docs.aethir.com/)
 - [Aethir Edge](https://www.aethir.com/edge)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

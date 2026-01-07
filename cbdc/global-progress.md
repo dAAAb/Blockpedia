@@ -1,4 +1,10 @@
+---
+description: CBDC 不是某一國的專利，而是全球性的趨勢。讓我們看看世界各地的進展。
+---
+
 # 各國 CBDC 進展
+> **最後更新：2026 年 1 月**
+
 
 ## 全球 137 個國家正在探索 CBDC，代表全球 98% 的 GDP。本文整理主要國家的進展。
 
@@ -253,3 +259,13 @@ G20 國家全部都在研究 CBDC，顯示這是全球性趨勢。
 - [Atlantic Council CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/)
 - [BIS: CBDC research](https://www.bis.org/about/bisih/topics/cbdc.htm)
 - [IMF: Central Bank Digital Currency](https://www.imf.org/en/Topics/fintech/central-bank-digital-currency)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

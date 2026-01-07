@@ -1,4 +1,10 @@
+---
+description: MyEtherWallet 是最多人使用也最古老的以太坊線上錢包服務之一。
+---
+
 # MyEtherWallet
+> **最後更新：2026 年 1 月**
+
 
 **MyEtherWallet 是最多人使用也最古老的以太坊線上錢包服務之一。**
 
@@ -48,3 +54,13 @@
 看起來目前這些網站一致推薦的都是使用 [MetaMask](../../../untitled/metamask.md) 或是 [冷錢包](../../../cold-wallet/)如 [Ledger Wallet](../../../cold-wallet/ledger-nano.md)。
 
 \
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

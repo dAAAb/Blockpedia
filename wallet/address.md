@@ -1,4 +1,10 @@
+---
+description: 錢包地址（英文：Wallet Address）就是區塊鏈帳本裡的一個帳戶，通常是一組英數組合的字碼，或其相應的 QRCode 二維碼，擁有這組地址或二維碼，別人就可以發送數位貨幣給你。
+---
+
 # 錢包地址
+> **最後更新：2026 年 1 月**
+
 
 **錢包地址（英文：Wallet Address）就是區塊鏈帳本裡的一個帳戶，通常是一組英數組合的字碼，或其相應的 QRCode 二維碼，擁有這組地址或二維碼，別人就可以發送數位貨幣給你。**
 
@@ -49,3 +55,12 @@ GZHZPZKXSDSQCJUHJOXHRTODMKATRZBZUTBYSYTHRKEDYEYVNQCR9FJVIVXTDISZYOVWMFZEYEHNMGHQ
 {% endtab %}
 {% endtabs %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 如果你問：「DePIN 最成功的案例是什麼？」
+---
+
 # Helium
+> **最後更新：2026 年 1 月**
+
 
 ## Helium 是最知名的 DePIN 項目，建立了全球最大的去中心化無線網路，從 IoT 到 5G，挑戰傳統電信巨頭。
 
@@ -265,3 +271,13 @@ Helium 是 DePIN 的先驅和試驗場。無論成敗，它都為這個領域提
 - [Helium Mobile](https://hellohelium.com/)
 - [Helium Explorer](https://explorer.helium.com/)
 - [Helium Docs](https://docs.helium.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

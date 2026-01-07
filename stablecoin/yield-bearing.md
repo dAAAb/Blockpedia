@@ -1,4 +1,10 @@
+---
+description: 持有 USDT，什麼都不做。
+---
+
 # 收益型穩定幣
+> **最後更新：2026 年 1 月**
+
 
 ## 收益型穩定幣讓你持有穩定幣的同時自動賺取收益，結合了穩定幣的價格穩定和 DeFi 的收益功能。
 
@@ -273,3 +279,13 @@ Rebasing 類型可能造成複雜的稅務計算。
 - [Ethena sUSDe](https://ethena.fi/)
 - [MakerDAO DSR](https://docs.makerdao.com/)
 - [Mountain Protocol USDM](https://mountainprotocol.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

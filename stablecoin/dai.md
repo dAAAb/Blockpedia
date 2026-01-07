@@ -1,4 +1,10 @@
+---
+description: USDT 有 Tether 公司。
+---
+
 # DAI
+> **最後更新：2026 年 1 月**
+
 
 ## DAI 是 MakerDAO 發行的去中心化穩定幣，不依賴任何公司，由超額抵押品支撐，是 DeFi 的原生穩定幣。
 
@@ -265,3 +271,13 @@ DAI 是「去中心化理念」的穩定幣選擇。如果你重視抗審查和�
 - [MakerDAO / Sky](https://sky.money/)
 - [DAI Stats](https://daistats.com/)
 - [Maker 文檔](https://docs.makerdao.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 每天，你開車上下班，經過同樣的路。
+---
+
 # Hivemapper
+> **最後更新：2026 年 1 月**
+
 
 ## Hivemapper 是去中心化的地圖平台，讓任何人都可以用行車記錄器貢獻街景資料，挑戰 Google Maps 的壟斷地位。
 
@@ -254,3 +260,13 @@ Hivemapper 代表了一個有趣的嘗試：
 - [Hivemapper 官網](https://hivemapper.com/)
 - [Hivemapper Explorer](https://hivemapper.com/explorer)
 - [HONEY 代幣資訊](https://docs.hivemapper.com/honey/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

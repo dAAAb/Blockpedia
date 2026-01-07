@@ -1,4 +1,10 @@
+---
+description: 你的錢包裡突然多了一個奇怪的代幣。
+---
+
 # 空投詐騙
+> **最後更新：2026 年 1 月**
+
 
 ## 空投詐騙利用人們「免費拿錢」的心理，透過假空投誘騙用戶連接錢包、簽署惡意交易，或騙取手續費。
 
@@ -249,3 +255,13 @@
 - [Scam Sniffer](https://www.scamsniffer.io/) - 詐騙網站檢測
 - [Chainabuse](https://www.chainabuse.com/) - 詐騙地址檢舉
 - [Revoke.cash](https://revoke.cash/) - 授權管理
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

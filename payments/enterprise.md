@@ -1,4 +1,10 @@
+---
+description: 2021 年，Tesla 宣布接受比特幣買車。
+---
+
 # 企業加密支付
+> **最後更新：2026 年 1 月**
+
 
 ## 從 Tesla 接受比特幣到 Shopify 整合穩定幣，企業採用加密支付正從實驗走向實踐。這是 Web3 支付的下一個戰場。
 
@@ -417,3 +423,13 @@ T+2 會變成歷史。即時結算會成為預期。
 - [BitPay](https://bitpay.com/)
 - [Stripe Crypto](https://stripe.com/use-cases/crypto)
 - [Deloitte: Corporate Crypto Payments](https://www2.deloitte.com/us/en/pages/consulting/articles/corporates-using-crypto.html)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 在「Polymarket」這篇，我們看到預測市場在美國大選中大放異彩。但選舉只是冰山一角。
+---
+
 # 預測市場應用
+> **最後更新：2026 年 1 月**
+
 
 ## 預測市場不只能預測選舉，從企業決策到科學研究，都有它的用武之地。
 
@@ -222,3 +228,13 @@ Futarchy 方式：
 - [Hanson, Robin: Shall We Vote on Values, But Bet on Beliefs?](https://mason.gmu.edu/~rhanson/futarchy.html)
 - [Google's Prediction Markets](https://research.google/pubs/pub36840/)
 - [Prediction Markets for Science](https://www.science.org/doi/10.1126/science.aav0000)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

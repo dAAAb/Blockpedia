@@ -1,4 +1,10 @@
+---
+description: 如果你問：「哪個亞洲國家的加密監管做得最好？」
+---
+
 # 新加坡 MAS
+> **最後更新：2026 年 1 月**
+
 
 ## 新加坡金融管理局（MAS）建立了亞洲最成熟的加密監管框架，在吸引創新與保護投資者之間取得平衡，成為全球監管的標竿。
 
@@ -269,3 +275,13 @@ Project Guardian 可能擴展到更多資產類別。
 - [MAS: Digital Token Services](https://www.mas.gov.sg/regulation/payments/payment-services-act/digital-token-services)
 - [MAS: Stablecoin Framework](https://www.mas.gov.sg/regulation/payments/stablecoin-regulatory-framework)
 - [Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

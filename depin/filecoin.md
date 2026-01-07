@@ -1,4 +1,10 @@
+---
+description: 你的硬碟有 2TB 空間，但只用了 500GB。
+---
+
 # Filecoin
+> **最後更新：2026 年 1 月**
+
 
 ## Filecoin 是 IPFS 的激勵層，建立了全球最大的去中心化儲存網路，讓任何人都可以出租或使用分散式儲存空間。
 
@@ -268,3 +274,13 @@ Filecoin 的優勢在於規模和 IPFS 整合，但每個項目都有其定位�
 - [Filecoin Docs](https://docs.filecoin.io/)
 - [web3.storage](https://web3.storage/)
 - [Filecoin 統計](https://filscan.io/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

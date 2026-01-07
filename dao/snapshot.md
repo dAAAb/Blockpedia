@@ -1,4 +1,10 @@
+---
+description: 投票是民主的核心。
+---
+
 # Snapshot
+> **最後更新：2026 年 1 月**
+
 
 ## Snapshot 是最受歡迎的 DAO 投票平台，讓代幣持有者可以免 Gas 投票，是去中心化治理的基礎設施。
 
@@ -255,3 +261,13 @@ Snapshot 是 DAO 治理的基礎設施。它解決了鏈上投票的成本問題
 - [Snapshot](https://snapshot.org/)
 - [Snapshot 文檔](https://docs.snapshot.org/)
 - [Snapshot 策略](https://snapshot.org/#/strategy)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

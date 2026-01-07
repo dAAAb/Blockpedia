@@ -1,4 +1,10 @@
+---
+description: 2021 年，Solana 是明星。
+---
+
 # Solana
+> **最後更新：2026 年 1 月**
+
 
 ## Solana 是以高速低費著稱的公鏈，經歷過 FTX 崩盤的低谷後強勢復甦，成為以太坊最有力的挑戰者。
 
@@ -214,3 +220,13 @@ Solana 證明了在困境中可以復甦。它的高速低費是真實的優勢�
 - [Solana 官網](https://solana.com/)
 - [Solana 文檔](https://docs.solana.com/)
 - [Solana Explorer](https://explorer.solana.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

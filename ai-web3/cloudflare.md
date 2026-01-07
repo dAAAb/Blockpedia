@@ -1,4 +1,10 @@
+---
+description: 如果你經營網站，很可能已經在用 Cloudflare。它是全球最大的 CDN（內容分發網路）之一，保護網站免受攻擊、加速全球訪問。
+---
+
 # Cloudflare AI 支付
+> **最後更新：2026 年 1 月**
+
 
 ## Cloudflare 整合 x402 協議，讓任何使用其 CDN 服務的網站都能輕鬆向 AI Agent 收費。
 
@@ -169,3 +175,13 @@ Cloudflare 處理全球約 20% 的網路流量。當這麼大的平台支援 AI 
 - [Cloudflare AI Gateway 官方文件](https://developers.cloudflare.com/ai-gateway/)
 - [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/)
 - [Cloudflare 支援 x402 公告](https://blog.cloudflare.com/x402-ai-payments/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 在前面的章節，我們討論了國債、房地產、私人信貸等資產的代幣化。但這些代幣化是怎麼實現的？
+---
+
 # RWA 協議
+> **最後更新：2026 年 1 月**
+
 
 ## RWA 協議是讓真實資產代幣化和交易成為可能的基礎設施，包括代幣化平台、預言機、合規解決方案等。
 
@@ -280,3 +286,13 @@ RWA 協議是連接傳統金融和區塊鏈的橋樑。它們提供：
 - [Tokeny](https://tokeny.com/)
 - [Chainlink RWA](https://chain.link/use-cases/real-world-assets)
 - [MakerDAO RWA](https://forum.makerdao.com/c/governance/rwa/43)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

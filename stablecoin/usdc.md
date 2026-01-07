@@ -1,4 +1,10 @@
+---
+description: 如果說 USDT 是穩定幣的「事實標準」，那 USDC 就是「合規標準」。
+---
+
 # USDC
+> **最後更新：2026 年 1 月**
+
 
 ## USDC 是 Circle 發行的美元穩定幣，以合規和透明著稱，是機構和企業的首選穩定幣，也是 DeFi 生態的重要基礎。
 
@@ -258,3 +264,13 @@ USDC 是「合規優先」的穩定幣選擇。如果你重視透明度和監管
 - [Circle 官網](https://www.circle.com/)
 - [USDC 儲備報告](https://www.circle.com/en/transparency)
 - [USDC 文檔](https://developers.circle.com/stablecoins/docs)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

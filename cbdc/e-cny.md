@@ -1,4 +1,10 @@
+---
+description: 在「CBDC 總覽」中，我們提到各國央行都在研究數位貨幣。
+---
+
 # 數位人民幣
+> **最後更新：2026 年 1 月**
+
 
 ## 數位人民幣（e-CNY）是中國人民銀行發行的央行數位貨幣，是全球最大規模的 CBDC 試點項目。
 
@@ -204,3 +210,13 @@
 - [中國人民銀行數字貨幣研究所](http://www.pbc.gov.cn/)
 - [Digital Yuan (e-CNY) - CBDC Tracker](https://cbdctracker.org/currency/china)
 - [The Digital Yuan: China's Answer to Libra?](https://www.brookings.edu/articles/the-digital-yuan/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

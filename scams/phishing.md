@@ -1,4 +1,10 @@
+---
+description: 你收到一封 Email，看起來是 Coinbase 發的。
+---
+
 # 釣魚網站
+> **最後更新：2026 年 1 月**
+
 
 ## 釣魚網站是加密詐騙的主要手法，詐騙者創建假冒的交易所、錢包或 DeFi 網站，誘騙用戶輸入私鑰或授權惡意交易。
 
@@ -272,3 +278,13 @@
 - [MetaMask: How to stay safe in web3](https://metamask.io/news/security/how-to-stay-safe-in-web3/)
 - [Chainabuse](https://www.chainabuse.com/) - 檢舉和查詢詐騙地址
 - [Revoke.cash](https://revoke.cash/) - 檢查和撤銷授權
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

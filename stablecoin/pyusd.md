@@ -1,4 +1,10 @@
+---
+description: PayPal，全球最大的線上支付公司之一。
+---
+
 # PYUSD
+> **最後更新：2026 年 1 月**
+
 
 ## PYUSD 是 PayPal 發行的美元穩定幣，代表傳統支付巨頭進入加密市場，是「Web2 遇見 Web3」的里程碑。
 
@@ -264,3 +270,13 @@ PYUSD 是傳統金融擁抱區塊鏈的重要一步。它可能不會取代 USDT
 - [PayPal PYUSD 官方頁面](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd)
 - [Paxos PYUSD](https://paxos.com/pyusd/)
 - [PYUSD 儲備報告](https://paxos.com/attestations/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

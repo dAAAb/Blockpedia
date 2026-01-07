@@ -1,4 +1,10 @@
+---
+description: 在 NFT 這個詞還不存在之前，
+---
+
 # CryptoPunks
+> **最後更新：2026 年 1 月**
+
 
 ## CryptoPunks 是 NFT 的始祖，2017 年在以太坊上誕生的 10,000 個像素頭像，定義了整個 PFP NFT 的概念。
 
@@ -176,3 +182,13 @@ CryptoPunks 不只是 NFT，它是區塊鏈歷史的一部分。就像比特幣�
 - [CryptoPunks 官網](https://www.larvalabs.com/cryptopunks)
 - [CryptoPunks on OpenSea](https://opensea.io/collection/cryptopunks)
 - [Yuga Labs](https://yuga.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 如果說 Stripe + Bridge 代表「穩定幣」路線，那 Block 代表的是「比特幣」路線。
+---
+
 # Block Bitcoin 支付
+> **最後更新：2026 年 1 月**
+
 
 ## Block（前身 Square）是 Jack Dorsey 創辦的支付公司，正在大力推進比特幣支付，目標是讓每個商戶都能接受 BTC。
 
@@ -245,3 +251,13 @@ Stripe 和 Block 的競爭變得更有趣：
 - [Bitcoin for Business 公告](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square)
 - [Cash App Bitcoin](https://cash.app/bitcoin)
 - [Lightning Network](https://lightning.network/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

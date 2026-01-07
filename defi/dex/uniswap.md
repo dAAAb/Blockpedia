@@ -1,4 +1,10 @@
+---
+description: 2018 年，一個叫 Hayden Adams 的年輕工程師被傳統交易所的複雜所困擾。
+---
+
 # Uniswap
+> **最後更新：2026 年 1 月**
+
 
 ## Uniswap 是最大的去中心化交易所，發明了自動做市商（AMM）機制，徹底改變了代幣交易的方式。
 
@@ -258,3 +264,13 @@ Uniswap 是 DeFi 最重要的協議之一。它不只是一個交易所，而是
 - [Uniswap 文檔](https://docs.uniswap.org/)
 - [UNI 代幣資訊](https://www.coingecko.com/en/coins/uniswap)
 - [Uniswap 治理](https://gov.uniswap.org/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

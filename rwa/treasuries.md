@@ -1,4 +1,10 @@
+---
+description: 在傳統金融中，美國國債被視為「無風險」資產——因為美國政府不太可能違約。
+---
+
 # 代幣化國債
+> **最後更新：2026 年 1 月**
+
 
 ## 代幣化國債是將政府公債轉換為區塊鏈代幣，讓加密用戶可以獲得「無風險利率」的回報。
 
@@ -206,3 +212,13 @@ DAO 可以把財庫的一部分配置在國債代幣，降低風險同時獲得�
 - [RWA.xyz: Treasury Dashboard](https://app.rwa.xyz/treasuries)
 - [21Shares: Tokenized Treasuries Report](https://21shares.com/research/tokenized-treasuries)
 - [S&P Global: Tokenization of U.S. Treasuries](https://www.spglobal.com/marketintelligence/en/news-insights/blog/tokenization-of-us-treasuries)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

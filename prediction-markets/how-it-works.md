@@ -1,4 +1,10 @@
+---
+description: 在「預測市場總覽」中，我們說預測市場是「群眾智慧的聚合器」。但它具體是怎麼聚合的？讓我們深入機制。
+---
+
 # 預測市場機制
+> **最後更新：2026 年 1 月**
+
 
 ## 預測市場透過價格機制，把分散的資訊聚合成機率預測。本文解釋背後的運作原理。
 
@@ -196,3 +202,13 @@ Polymarket 使用 **UMA Protocol** 的樂觀預言機（Optimistic Oracle）：
 - [UMA Protocol 文件](https://docs.uma.xyz/)
 - [Prediction Markets: Theory and Applications](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/prediction-market)
 - [Hanson, Robin: Shall We Vote on Values, But Bet on Beliefs?](https://mason.gmu.edu/~rhanson/futarchy.html)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 如果說中國的數位人民幣是 CBDC 領域的先行者，那印度的 e-rupee 就是最積極的追趕者。
+---
+
 # 印度 e-rupee
+> **最後更新：2026 年 1 月**
+
 
 ## e-rupee（e₹）是印度儲備銀行（RBI）發行的央行數位貨幣，是全球第二大規模的 CBDC 試點。
 
@@ -196,3 +202,13 @@ UPI 太成功了。要說服人們改用 e-rupee，需要有明確的好處。
 - [RBI: Digital Rupee](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54490)
 - [India's e-Rupee - CBDC Tracker](https://cbdctracker.org/currency/india)
 - [The Economic Times: e-Rupee updates](https://economictimes.indiatimes.com/topic/e-rupee)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,4 +1,10 @@
+---
+description: 2014 年，全球最大的比特幣交易所 Mt. Gox 在東京宣布破產。
+---
+
 # 日本加密法規
+> **最後更新：2026 年 1 月**
+
 
 ## 日本是全球最早對加密貨幣進行全面監管的國家之一，從 Mt. Gox 事件的教訓中建立了嚴格的交易所監管制度。
 
@@ -279,3 +285,13 @@ Mt. Gox 事件震驚了日本政府。
 - [FSA: Crypto Assets](https://www.fsa.go.jp/en/policy/virtual_currency/index.html)
 - [JVCEA](https://jvcea.or.jp/)
 - [Japan Web3 White Paper](https://www.meti.go.jp/english/policy/economy/web3/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

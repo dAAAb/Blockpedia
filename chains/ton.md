@@ -1,4 +1,10 @@
+---
+description: Telegram，全球最大的加密貨幣友好通訊軟體。
+---
+
 # TON
+> **最後更新：2026 年 1 月**
+
 
 ## TON 是 Telegram 背景的公鏈，透過 Telegram 的 9 億用戶獲得獨特的分發優勢，是 Web3 大規模採用的實驗場。
 
@@ -244,3 +250,13 @@ TON 的獨特優勢是 Telegram 的 9 億用戶。這可能是區塊鏈大規模
 - [TON 文檔](https://docs.ton.org/)
 - [Tonviewer](https://tonviewer.com/) - TON 瀏覽器
 - [Telegram @wallet](https://t.me/wallet)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

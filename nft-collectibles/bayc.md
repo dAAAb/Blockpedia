@@ -1,4 +1,10 @@
+---
+description: 2021 年 4 月，一個名為 Yuga Labs 的團隊發布了 10,000 張「無聊猿」NFT。
+---
+
 # BAYC（無聊猿）
+> **最後更新：2026 年 1 月**
+
 
 ## Bored Ape Yacht Club 是 NFT 世界的頂級俱樂部，一張猴子圖片曾價值數百萬美元，代表了 NFT 作為身份象徵的巔峰。
 
@@ -144,3 +150,13 @@ BAYC 代表了 NFT 牛市的巔峰。無論你如何看待它的價值，它確�
 - [BAYC 官網](https://boredapeyachtclub.com/)
 - [OpenSea - BAYC](https://opensea.io/collection/boredapeyachtclub)
 - [Yuga Labs](https://yuga.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

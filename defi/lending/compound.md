@@ -1,4 +1,10 @@
+---
+description: 2020 年 6 月，Compound 做了一件事。
+---
+
 # Compound
+> **最後更新：2026 年 1 月**
+
 
 ## Compound 是 DeFi 借貸的先驅，開創了流動性挖礦熱潮，用簡潔優雅的設計定義了借貸協議的標準。
 
@@ -321,3 +327,13 @@ Compound 是 DeFi 借貸的先驅。雖然現在 Aave 的 TVL 更大，但 Compo
 - [Compound 文檔](https://docs.compound.finance/)
 - [COMP 代幣](https://www.coingecko.com/en/coins/compound)
 - [Compound 治理](https://compound.finance/governance)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

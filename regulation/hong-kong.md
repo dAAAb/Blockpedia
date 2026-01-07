@@ -1,4 +1,10 @@
+---
+description: 2022 年，當中國全面禁止加密貨幣時，香港卻發布了《虛擬資產發展政策宣言》。
+---
+
 # 香港虛擬資產
+> **最後更新：2026 年 1 月**
+
 
 ## 香港正積極發展成為亞洲加密貨幣中心，推出全面的虛擬資產牌照制度，在「一國兩制」下走出獨特的監管路徑。
 
@@ -259,3 +265,13 @@ HKMA 推出穩定幣沙盒，讓發行者在有限範圍內測試：
 - [SFC: Virtual Assets](https://www.sfc.hk/en/Rules-and-standards/Virtual-assets)
 - [HKMA: Stablecoins](https://www.hkma.gov.hk/eng/key-functions/banking/stablecoins/)
 - [香港虛擬資產政策宣言](https://www.fstb.gov.hk/fsb/tc/publication/virtual_assets.htm)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

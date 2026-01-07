@@ -1,4 +1,10 @@
+---
+description: 私鑰錢包（Private-key Wallet）簡單講，就是可以讓你匯出「私鑰」、「密鑰庫」 或「助記詞」的錢包。
+---
+
 # 私鑰錢包
+> **最後更新：2026 年 1 月**
+
 
 **私鑰錢包（Private-key Wallet）簡單講，就是可以讓你匯出「私鑰」、「密鑰庫」 或「助記詞」的錢包。**
 
@@ -30,5 +36,12 @@ Cardano 基金會開發的開源 ADA 錢包 Daedalus（ [https://github.com/inpu
 
 {% embed url="https://github.com/bitpay/copay" %}
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

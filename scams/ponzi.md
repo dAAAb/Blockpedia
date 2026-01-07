@@ -1,4 +1,10 @@
+---
+description: 「保證每月 10% 收益。」
+---
+
 # 龐氏騙局
+> **最後更新：2026 年 1 月**
+
 
 ## 龐氏騙局是加密世界最古老也最常見的詐騙形式，用後來者的錢支付早期投資者的「收益」，最終必然崩盤。
 
@@ -252,3 +258,13 @@
 - [SEC: Ponzi Schemes](https://www.sec.gov/investor/alerts/ia_ponzi.htm)
 - [FBI: Ponzi Schemes](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/ponzi-schemes)
 - [Chainalysis: Crypto Scam Report](https://www.chainalysis.com/blog/category/scams/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

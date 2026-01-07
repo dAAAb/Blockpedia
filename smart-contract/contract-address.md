@@ -3,6 +3,8 @@ description: Contract Address
 ---
 
 # 合約地址
+> **最後更新：2026 年 1 月**
+
 
 智能合約部署到區塊鏈後，會被存放在區塊鏈上的一個獨有地址，所有想與該智能合約互動者，均需透過此地址找到該智能合約。
 
@@ -14,3 +16,12 @@ description: Contract Address
 
 ![](../.gitbook/assets/ying-mu-kuai-zhao-20181226-xia-wu-7.40.25.png)
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

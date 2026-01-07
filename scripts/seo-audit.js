@@ -56,6 +56,114 @@ const CONFIG = {
   excludeFiles: ['SUMMARY.md', 'CLAUDE.md'],
 };
 
+// ============ 首段定義式檢查 ============
+
+/**
+ * 定義式首段的特徵：
+ * - 以主題詞開頭，緊接「是」字（如：比特幣是...、Bitcoin 是...）
+ * - 長度適中（30-150 字元）
+ * - 直接回答「XXX 是什麼？」
+ */
+const DEFINITION_PATTERNS = [
+  /^.{1,20}(是|為|指|即|係).{10,}/,        // 中文定義式：XX是...
+  /^.{1,30}\s+(is|are|refers to|means)/i,   // 英文定義式
+  /^.{1,20}（[A-Za-z\s]+）(是|為)/,         // 中文（英文）是...
+];
+
+function extractFirstParagraph(content) {
+  // 移除 frontmatter
+  let body = content;
+  if (content.startsWith('---\n')) {
+    const endIndex = content.indexOf('\n---\n', 4);
+    if (endIndex !== -1) {
+      body = content.substring(endIndex + 5);
+    }
+  }
+
+  // 找到 H1 之後的第一個實質段落
+  const lines = body.split('\n');
+  let foundH1 = false;
+  let paragraph = '';
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    // 跳過空行
+    if (!trimmed) continue;
+
+    // 找到 H1
+    if (trimmed.startsWith('# ')) {
+      foundH1 = true;
+      continue;
+    }
+
+    // H1 之後，跳過特殊行
+    if (foundH1) {
+      // 跳過：blockquote (>)、表格 (|)、標題 (#)、GitBook 語法 ({%)、hint 區塊
+      if (trimmed.startsWith('>') ||
+          trimmed.startsWith('|') ||
+          trimmed.startsWith('#') ||
+          trimmed.startsWith('{%') ||
+          trimmed.startsWith('{% hint') ||
+          trimmed.startsWith('{% endhint')) {
+        continue;
+      }
+
+      // 找到第一個實質段落
+      paragraph = trimmed;
+      break;
+    }
+  }
+
+  return paragraph;
+}
+
+function checkDefinitionStyle(paragraph, h1) {
+  if (!paragraph) {
+    return { isDefinition: false, reason: '找不到首段' };
+  }
+
+  // 清理 markdown 語法以便分析
+  const cleanPara = paragraph
+    .replace(/\*\*(.+?)\*\*/g, '$1')
+    .replace(/\*(.+?)\*/g, '$1')
+    .replace(/\[(.+?)\]\(.+?\)/g, '$1')
+    .replace(/`(.+?)`/g, '$1');
+
+  // 長度檢查
+  if (cleanPara.length < 20) {
+    return { isDefinition: false, reason: `首段太短（${cleanPara.length} 字元）`, paragraph: cleanPara };
+  }
+
+  // 檢查是否符合定義式模式
+  for (const pattern of DEFINITION_PATTERNS) {
+    if (pattern.test(cleanPara)) {
+      return { isDefinition: true, reason: '符合定義式', paragraph: cleanPara };
+    }
+  }
+
+  // 額外檢查：首段是否包含主題關鍵詞 + 「是」
+  if (h1) {
+    // 提取 H1 中的關鍵詞（去除英文括號部分）
+    const keyword = h1.replace(/（.+?）/g, '').replace(/\(.+?\)/g, '').trim();
+    const keywordShort = keyword.substring(0, 4); // 取前幾個字
+
+    if (cleanPara.includes(keyword) && cleanPara.includes('是')) {
+      return { isDefinition: true, reason: '包含主題關鍵詞定義', paragraph: cleanPara };
+    }
+    if (cleanPara.includes(keywordShort) && cleanPara.includes('是')) {
+      return { isDefinition: true, reason: '包含主題關鍵詞定義', paragraph: cleanPara };
+    }
+  }
+
+  // 不符合定義式
+  return {
+    isDefinition: false,
+    reason: '首段非定義式（未以「XX是...」開頭）',
+    paragraph: cleanPara.substring(0, 80) + (cleanPara.length > 80 ? '...' : '')
+  };
+}
+
 // ============ 審計檢查 ============
 
 function auditFile(filePath) {
@@ -63,6 +171,9 @@ function auditFile(filePath) {
   const relativePath = path.relative(CONFIG.rootDir, filePath);
   const issues = [];
   const passes = [];
+
+  // 提取首段用於定義式檢查
+  const firstParagraph = extractFirstParagraph(content);
 
   // 1. 檢查 frontmatter description
   const hasFm = content.startsWith('---\n');
@@ -75,10 +186,11 @@ function auditFile(filePath) {
 
   // 2. 檢查 H1 標題
   const h1Match = content.match(/^#\s+(.+)$/m);
-  if (!h1Match) {
+  const h1 = h1Match ? h1Match[1] : null;
+
+  if (!h1) {
     issues.push('❌ 缺少 H1 標題');
   } else {
-    const h1 = h1Match[1];
     passes.push(`✅ H1: ${h1.substring(0, 30)}${h1.length > 30 ? '...' : ''}`);
 
     // 檢查 H1 是否有英文
@@ -141,6 +253,17 @@ function auditFile(filePath) {
     issues.push('❌ 沒有內部連結');
   }
 
+  // 10. 檢查首段定義式（只在有 H1 時檢查）
+  let definitionCheck = { isDefinition: false, reason: '無 H1 標題', paragraph: '' };
+  if (h1) {
+    definitionCheck = checkDefinitionStyle(firstParagraph, h1);
+    if (definitionCheck.isDefinition) {
+      passes.push('✅ 首段為定義式');
+    } else {
+      issues.push(`⚠️  ${definitionCheck.reason}`);
+    }
+  }
+
   // 計算分數
   const criticalIssues = issues.filter(i => i.startsWith('❌')).length;
   const warnings = issues.filter(i => i.startsWith('⚠️')).length;
@@ -153,6 +276,7 @@ function auditFile(filePath) {
     passes,
     criticalIssues,
     warnings,
+    definitionCheck,  // 首段定義式檢查結果
   };
 }
 
@@ -172,6 +296,10 @@ function generateReport(results) {
   const criticalCount = results.filter(r => r.criticalIssues > 0).length;
   const perfectCount = results.filter(r => r.score === 100).length;
 
+  // 定義式首段統計
+  const definitionCount = results.filter(r => r.definitionCheck.isDefinition).length;
+  const nonDefinitionCount = totalFiles - definitionCount;
+
   lines.push('## 📊 總覽');
   lines.push('');
   lines.push(`| 指標 | 數值 |`);
@@ -180,6 +308,8 @@ function generateReport(results) {
   lines.push(`| 平均分數 | ${avgScore}/100 |`);
   lines.push(`| 完美頁面 | ${perfectCount} |`);
   lines.push(`| 有嚴重問題 | ${criticalCount} |`);
+  lines.push(`| 定義式首段 ✅ | ${definitionCount} (${Math.round(definitionCount/totalFiles*100)}%) |`);
+  lines.push(`| 非定義式首段 ⚠️ | ${nonDefinitionCount} (${Math.round(nonDefinitionCount/totalFiles*100)}%) |`);
   lines.push('');
 
   // 分數分佈
@@ -227,6 +357,28 @@ function generateReport(results) {
     lines.push(`| ${r.path} | ${r.score} | ${r.criticalIssues} | ${r.warnings} |`);
   });
   lines.push('');
+
+  // 非定義式首段頁面
+  const nonDefinitionPages = results.filter(r => !r.definitionCheck.isDefinition);
+  if (nonDefinitionPages.length > 0) {
+    lines.push('## 📝 非定義式首段（需優化）');
+    lines.push('');
+    lines.push('以下頁面的首段不符合「定義式」格式，建議改為「XXX 是...」的開頭：');
+    lines.push('');
+    lines.push(`| 檔案 | 問題 | 目前首段 |`);
+    lines.push(`|------|------|----------|`);
+    nonDefinitionPages.slice(0, 50).forEach(r => {
+      const para = r.definitionCheck.paragraph || '(無)';
+      const shortPara = para.substring(0, 40) + (para.length > 40 ? '...' : '');
+      lines.push(`| ${r.path} | ${r.definitionCheck.reason} | ${shortPara.replace(/\|/g, '\\|')} |`);
+    });
+    if (nonDefinitionPages.length > 50) {
+      lines.push(`| ... | 還有 ${nonDefinitionPages.length - 50} 個頁面 | ... |`);
+    }
+    lines.push('');
+    lines.push(`> 💡 **定義式首段**：直接回答「XXX 是什麼？」，如「比特幣是一種去中心化的數位貨幣...」`);
+    lines.push('');
+  }
 
   // 完美頁面
   if (perfectCount > 0) {

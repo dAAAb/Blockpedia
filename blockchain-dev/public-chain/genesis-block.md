@@ -1,4 +1,10 @@
+---
+description: 創世區塊（英文：Genesis Block），指是一個區塊鏈網路的初始區塊，也就是帳本的第一頁。
+---
+
 # 創世區塊
+> **最後更新：2026 年 1 月**
+
 
 **創世區塊（英文：Genesis Block）**，指是一個區塊鏈網路的初始區塊，也就是帳本的第一頁。
 
@@ -35,3 +41,12 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks。
 
 {% embed url="https://www.8btc.com/article/26652" caption=undefined %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

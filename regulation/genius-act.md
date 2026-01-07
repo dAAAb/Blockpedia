@@ -1,4 +1,10 @@
+---
+description: 美國的加密監管長期以來是「執法監管」——SEC 和 CFTC 通過訴訟來「監管」。
+---
+
 # 美國 GENIUS Act
+> **最後更新：2026 年 1 月**
+
 
 ## GENIUS Act 是美國參議院通過的穩定幣法案，標誌著美國加密監管從執法轉向立法，為穩定幣建立聯邦監管框架。
 
@@ -271,3 +277,13 @@ GENIUS Act 是美國加密監管的轉折點。從「執法監管」走向「立
 - [GENIUS Act 法案文本](https://www.congress.gov/bill/119th-congress/senate-bill/394)
 - [參議院銀行委員會](https://www.banking.senate.gov/)
 - [Circle: Policy](https://www.circle.com/en/policy)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->
