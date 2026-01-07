@@ -20,7 +20,303 @@
 
 ---
 
-## 二、GitBook 平台能力盤點
+## 二、傳統 SEO 核心要素（GitBook 實作指南）
+
+### A. 頁面標題（Title Tag）— 最重要的 SEO 元素
+
+**原理**：Google 和 AI 引擎都將標題視為理解頁面內容的首要信號。
+
+**GitBook 機制**：
+- Markdown 的 `# 標題` 會自動成為 HTML `<title>` 和 `og:title`
+- 標題會顯示在搜尋結果中
+
+**最佳實踐**：
+
+```markdown
+# 比特幣（Bitcoin）：什麼是 BTC？2025 完整指南
+```
+
+| 元素 | 範例 | 說明 |
+|------|------|------|
+| 主關鍵詞 | 比特幣 | 放最前面 |
+| 英文關鍵詞 | Bitcoin | 幫助雙語搜尋 |
+| 搜尋意圖 | 什麼是 BTC？ | 符合用戶搜尋習慣 |
+| 時效性 | 2025 | 顯示內容新鮮度 |
+| 價值承諾 | 完整指南 | 吸引點擊 |
+
+**標題長度**：50-60 字元（中文約 25-30 字）
+
+**現有頁面問題**：
+```markdown
+# 比特幣          ← 太短，缺乏關鍵詞
+# ENS            ← 縮寫，搜尋不友善
+```
+
+**建議優化**：
+```markdown
+# 比特幣（Bitcoin）：數位黃金完整指南
+# ENS（以太坊域名服務）：什麼是 .eth？
+```
+
+---
+
+### B. Meta Description（頁面描述）— 決定點擊率
+
+**原理**：顯示在 Google 搜尋結果的摘要文字，直接影響點擊率。
+
+**GitBook 機制**：
+- 使用 YAML frontmatter 的 `description` 欄位
+- 會成為 `<meta name="description">` 和 `og:description`
+
+**實作方式**：
+
+```markdown
+---
+description: 比特幣（Bitcoin, BTC）是全球第一個去中心化加密貨幣，總量 2100 萬枚。本指南涵蓋比特幣原理、價格歷史、投資風險與錢包設定。
+---
+
+# 比特幣（Bitcoin）：數位黃金完整指南
+```
+
+**最佳實踐**：
+
+| 要素 | 說明 | 範例 |
+|------|------|------|
+| 長度 | 150-160 字元 | 中文約 70-80 字 |
+| 關鍵詞 | 包含主要和次要關鍵詞 | 比特幣、Bitcoin、BTC |
+| 行動呼籲 | 說明讀者會得到什麼 | 「本指南涵蓋...」 |
+| 獨特性 | 每頁描述必須不同 | 不要複製貼上 |
+
+**現狀問題**：目前只有 README.md 有 description，其他頁面都沒有！
+
+**高優先級任務**：為所有重要頁面添加 frontmatter description。
+
+---
+
+### C. URL 結構（網址列關鍵字）
+
+**原理**：URL 中的關鍵詞是排名因素之一，也幫助用戶和搜尋引擎理解內容。
+
+**GitBook 機制**：
+- 預設使用檔名作為 URL slug
+- 可在 GitBook 介面中自訂每頁的 URL
+
+**現狀問題**：
+```
+/token/bi-te-jin     ← 拼音，搜尋引擎不理解
+/token/rui-bo        ← 拼音
+/token/gou-gou       ← 拼音
+```
+
+**建議優化**：
+```
+/token/bitcoin-cash  ← 英文關鍵詞
+/token/xrp-ripple    ← 英文關鍵詞
+/token/dogecoin      ← 英文關鍵詞
+```
+
+**URL 最佳實踐**：
+
+| 原則 | 好的範例 | 不好的範例 |
+|------|----------|------------|
+| 使用英文關鍵詞 | `/defi/uniswap` | `/defi/qu-zhong-xin-hua` |
+| 簡短清晰 | `/wallet/metamask` | `/wallet/hot-wallet-metamask-guide` |
+| 用連字號分隔 | `/bitcoin-cash` | `/bitcoin_cash` |
+| 小寫 | `/ethereum` | `/Ethereum` |
+
+**實作方式**（在 GitBook）：
+1. 進入頁面設定
+2. 找到「Page URL」或「Slug」選項
+3. 手動輸入優化後的 URL
+
+---
+
+### D. 更新日期（Freshness Signal）— 放在最前端
+
+**原理**：
+- Google 和 AI 引擎偏好新鮮內容
+- 65% 的 AI 爬蟲優先存取過去一年內更新的頁面
+- 顯示更新日期增加內容可信度
+
+**實作位置**：放在頁面最前端（H1 標題之後）
+
+**範例格式**：
+
+```markdown
+---
+description: 比特幣完整指南，涵蓋原理、價格、投資風險。
+---
+
+# 比特幣（Bitcoin）：數位黃金完整指南
+
+> **最後更新：2025 年 1 月 7 日** | 本文持續更新中
+
+比特幣（Bitcoin，代號 BTC）是全球第一個去中心化加密貨幣...
+```
+
+**替代格式**：
+
+```markdown
+{% hint style="info" %}
+📅 最後更新：2025 年 1 月 7 日
+{% endhint %}
+```
+
+**為什麼放前端？**
+1. 搜尋引擎爬蟲優先讀取頁面頂部
+2. 用戶立即知道內容是否過時
+3. AI 引擎將此視為時效性信號
+
+---
+
+### E. 關鍵詞策略
+
+**原理**：雖然「關鍵詞堆砌」已過時，但策略性使用關鍵詞仍然重要。
+
+**GitBook 限制**：不支援獨立的 `keywords` meta tag（Google 已忽略此標籤）
+
+**替代策略 — 關鍵詞自然分佈**：
+
+| 位置 | 重要性 | 範例 |
+|------|--------|------|
+| 標題（H1）| ⭐⭐⭐⭐⭐ | `# 比特幣（Bitcoin）` |
+| Description | ⭐⭐⭐⭐ | frontmatter 描述 |
+| 首段 60 字 | ⭐⭐⭐⭐ | 定義式開場 |
+| H2/H3 標題 | ⭐⭐⭐ | `## 比特幣如何運作？` |
+| 內文自然出現 | ⭐⭐ | 每 200 字出現 1-2 次 |
+| 圖片 Alt 文字 | ⭐⭐ | `alt="比特幣價格走勢圖"` |
+| 內部連結錨點 | ⭐ | `[比特幣錢包](...)` |
+
+**每頁關鍵詞規劃模板**：
+
+```
+頁面：比特幣
+主關鍵詞：比特幣、Bitcoin、BTC
+次關鍵詞：數位黃金、加密貨幣、中本聰
+長尾關鍵詞：比特幣是什麼、比特幣怎麼買、比特幣價格
+```
+
+---
+
+### F. 圖片 SEO（Alt 文字）
+
+**原理**：圖片 Alt 文字幫助搜尋引擎理解圖片內容，也是無障礙要求。
+
+**GitBook 機制**：支援在圖片上添加 Alt 文字
+
+**實作方式**：
+
+```markdown
+![比特幣 2024 年價格走勢圖，顯示從 40000 美元漲至 73000 美元](/.gitbook/assets/btc-price-2024.png)
+```
+
+**Alt 文字最佳實踐**：
+
+| 原則 | 好的範例 | 不好的範例 |
+|------|----------|------------|
+| 描述性 | `比特幣區塊鏈運作流程圖` | `image1` |
+| 包含關鍵詞 | `以太坊 Gas 費用計算範例` | `screenshot` |
+| 簡潔 | `MetaMask 錢包介面` | `這是一張 MetaMask 的截圖` |
+
+---
+
+### G. 標題層級結構（Heading Hierarchy）
+
+**原理**：正確的標題層級幫助搜尋引擎理解內容結構。
+
+**規則**：
+
+```markdown
+# H1：頁面主標題（每頁只有一個）
+## H2：主要章節
+### H3：子章節
+#### H4：細節項目
+```
+
+**常見錯誤**：
+
+```markdown
+# 比特幣
+### 什麼是比特幣？     ← 錯誤：跳過 H2
+## 歷史
+#### 2009 年         ← 錯誤：跳過 H3
+```
+
+**正確結構**：
+
+```markdown
+# 比特幣（Bitcoin）：數位黃金完整指南
+
+## 什麼是比特幣？
+
+### 比特幣的定義
+
+### 比特幣 vs 傳統貨幣
+
+## 比特幣歷史
+
+### 2009 年：誕生
+
+### 2017 年：第一次牛市
+```
+
+---
+
+### H. 完整頁面模板（SEO + AISEO 最佳化）
+
+```markdown
+---
+description: [150-160 字元的頁面描述，包含主要關鍵詞和價值承諾]
+---
+
+# [主關鍵詞]（[英文]）：[搜尋意圖/價值承諾]
+
+> **最後更新：2025 年 X 月 X 日** | [可選：作者或版本資訊]
+
+## [主關鍵詞]是[直接定義，40-60 字的核心答案]。[補充說明一句話]。
+
+### 基本資訊
+
+| 項目 | 內容 |
+|------|------|
+| ... | ... |
+
+## [關鍵詞] + [疑問詞]？
+
+[回答段落，包含具體數據]
+
+## [另一個常見問題]？
+
+[回答段落]
+
+---
+
+### 常見問題 FAQ
+
+#### [問題 1]？
+
+[簡潔答案]
+
+#### [問題 2]？
+
+[簡潔答案]
+
+---
+
+#### 相關條目
+
+- [相關頁面 1](連結)
+- [相關頁面 2](連結)
+
+#### 參考資料
+
+- [來源 1](連結)
+- [來源 2](連結)
+```
+
+---
+
+## 三、GitBook 平台能力盤點
 
 ### 自動處理（無需配置）
 
@@ -390,10 +686,111 @@ Blockpedia 的 SEO/AISEO 優化應聚焦於：
 
 ---
 
+## 附錄 A：每頁 SEO 檢查清單
+
+為每個頁面執行以下檢查：
+
+### 必做（高影響）
+
+- [ ] **Frontmatter description**：150-160 字元，包含關鍵詞
+- [ ] **標題優化**：H1 包含主關鍵詞 + 英文 + 價值承諾
+- [ ] **更新日期**：放在 H1 之後，格式 `> **最後更新：YYYY 年 M 月**`
+- [ ] **首段定義**：40-60 字直接回答「XXX 是什麼？」
+- [ ] **標題層級**：H1 → H2 → H3，不跳級
+
+### 應做（中影響）
+
+- [ ] **URL slug**：改為英文關鍵詞（在 GitBook 設定）
+- [ ] **FAQ 區塊**：2-3 個常見問題
+- [ ] **相關條目**：3-5 個內部連結
+- [ ] **參考資料**：外部權威來源
+- [ ] **圖片 Alt**：所有圖片都有描述性 Alt 文字
+
+### 可做（低影響但有幫助）
+
+- [ ] **表格整理**：基本資訊用表格呈現
+- [ ] **事實數據**：每 150-200 字包含具體數據
+- [ ] **中英對照**：重要術語標註英文
+
+---
+
+## 附錄 B：高優先級頁面清單
+
+根據搜尋量和重要性，建議優先優化以下頁面：
+
+### Tier 1（立即優化）
+
+| 頁面 | 檔案 | 關鍵詞 |
+|------|------|--------|
+| 比特幣 | `bi-te.md` | 比特幣、Bitcoin、BTC |
+| 以太坊 | `ethereum.md` | 以太坊、Ethereum、ETH |
+| 區塊鏈 | `chain.md` | 區塊鏈、Blockchain |
+| 智能合約 | `smart-contract/README.md` | 智能合約、Smart Contract |
+| NFT | `nft-collectibles/README.md` | NFT、非同質化代幣 |
+| DeFi | `defi/README.md` | DeFi、去中心化金融 |
+
+### Tier 2（盡快優化）
+
+| 頁面 | 檔案 | 關鍵詞 |
+|------|------|--------|
+| 電子錢包 | `wallet/README.md` | 加密貨幣錢包、Crypto Wallet |
+| MetaMask | `untitled/metamask.md` | MetaMask、小狐狸錢包 |
+| 挖礦 | `wa/README.md` | 挖礦、Mining |
+| 穩定幣 | `usdt/README.md` | 穩定幣、Stablecoin、USDT |
+| Layer 2 | `layer2/README.md` | Layer 2、L2 |
+
+### Tier 3（逐步優化）
+
+- 其他代幣頁面
+- 技術細節頁面
+- 歷史/背景頁面
+
+---
+
+## 附錄 C：Frontmatter 範例庫
+
+複製貼上並修改：
+
+### 代幣類
+
+```yaml
+---
+description: 比特幣（Bitcoin, BTC）是 2009 年由中本聰創建的全球首個去中心化加密貨幣，總量限定 2100 萬枚。本指南涵蓋比特幣原理、價格歷史與投資風險。
+---
+```
+
+### 技術類
+
+```yaml
+---
+description: 智能合約（Smart Contract）是部署在區塊鏈上的自動執行程式碼，無需中介即可執行合約條款。瞭解智能合約如何運作、應用場景與開發入門。
+---
+```
+
+### 教學類
+
+```yaml
+---
+description: MetaMask 是最受歡迎的以太坊錢包瀏覽器擴充套件，支援 ERC-20 代幣與 DeFi 應用。本教學涵蓋安裝、設定與常見問題。
+---
+```
+
+### 概念類
+
+```yaml
+---
+description: 區塊鏈（Blockchain）是一種分散式帳本技術，透過密碼學確保資料不可竄改。瞭解區塊鏈如何運作、為什麼重要、以及實際應用場景。
+---
+```
+
+---
+
 ## 參考資源
 
 - [GitBook SEO 文件](https://gitbook.com/docs/help-center/published-documentation/publishing/how-does-gitbook-handle-seo)
 - [GitBook GEO 指南](https://gitbook.com/docs/guides/seo-and-llm-optimization/geo-guide-how-to-optimize-your-docs-for-ai-search-and-llm-ingestion)
+- [GitBook SEO 技巧指南](https://gitbook.com/docs/guides/seo-and-llm-optimization/how-to-use-seo-techniques-to-improve-your-documentation)
 - [Princeton GEO 研究](https://arxiv.org/pdf/2311.09735)
 - [LLM SEO 2025 趨勢](https://www.fortismedia.com/en/articles/llm-seo-best-practices/)
 - [Vercel 的 LLM SEO 實踐](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
+- [Backlinko GEO 指南](https://backlinko.com/generative-engine-optimization-geo)
