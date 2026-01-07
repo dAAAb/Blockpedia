@@ -210,8 +210,8 @@
   * [P網（Poloniex）](jiao-yi-suo/zhong-xin-hua-jiao-yi-suo/p.md)
 * [去中心化交易所（DEX）](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/README.md)
   * [0x Protocol](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/0x.md)
-  * [Uniswap](dex/uniswap.md) 🆕
-  * [SushiSwap](dex/sushiswap.md) 🆕
+  * [Uniswap](defi/dex/uniswap.md) 🆕
+  * [Curve Finance](defi/dex/curve.md) 🆕
 * [經銷商](shang/README.md)
   * [Coinbase](shang/coinbase.md)
   * [BitoEx](shang/bitoex.md)
@@ -281,29 +281,26 @@
 ## 第十篇：DeFi 去中心化金融 🆕
 ### 開放式金融新世界
 
-* [DeFi 是什麼](defi/README.md) 🆕
-* [流動性挖礦](defi/yield-farming.md) 🆕
-* [自動造市商（AMM）](defi/amm.md) 🆕
+* [DeFi 總覽](defi/README.md) 🆕
+* [DEX 去中心化交易所](defi/dex/README.md) 🆕
+  * [Uniswap](defi/dex/uniswap.md) 🆕
+  * [Curve Finance](defi/dex/curve.md) 🆕
 * [借貸協議](defi/lending/README.md) 🆕
   * [Aave](defi/lending/aave.md) 🆕
   * [Compound](defi/lending/compound.md) 🆕
-* [去中心化衍生品](defi/derivatives.md) 🆕
-* [DeFi 風險](defi/risks.md) 🆕
-  * [無常損失](defi/impermanent-loss.md) 🆕
-  * [閃電貸攻擊](defi/flash-loan-attack.md) 🆕
+* [流動性挖礦](defi/yield-farming.md) 🆕
 
 ---
 
 ## 第十一篇：Layer 2 擴容方案 🆕
 ### 解決區塊鏈的效能瓶頸
 
-* [為什麼需要 Layer 2](layer2/README.md) 🆕
-* [Rollups](layer2/rollups.md) 🆕
-  * [Optimistic Rollups](layer2/optimistic.md) 🆕
-  * [ZK Rollups](layer2/zk-rollups.md) 🆕
-* [Polygon](layer2/polygon.md) 🆕
-* [Arbitrum](layer2/arbitrum.md) 🆕
+* [Layer 2 總覽](layer2/README.md) 🆕
 * [Optimism](layer2/optimism.md) 🆕
+* [Arbitrum](layer2/arbitrum.md) 🆕
+* [Base](layer2/base.md) 🆕
+* [zkSync](layer2/zksync.md) 🆕
+* [StarkNet](layer2/starknet.md) 🆕
 * [跨鏈交易](cross-chain-swap-telepor-bridge.md)
 
 ---
@@ -328,16 +325,20 @@
 * [BAYC](nft/bayc.md) 🆕
 * [CryptoPunks](nft/cryptopunks.md) 🆕
 
+### NFT 市場 🆕
+* [OpenSea](nft-marketplace/opensea.md) 🆕
+* [Blur](nft-marketplace/blur.md) 🆕
+
 ---
 
 ## 第十三篇：DAO 與 Web3 治理 🆕
 ### 去中心化組織
 
+* [DAO 總覽](dao/README.md) 🆕
+* [Snapshot 投票](dao/snapshot.md) 🆕
+* [ConstitutionDAO](dao/constitution-dao.md) 🆕
 * [自律組織（SRO）](zi-lv-sro.md)
 * [去中心化自組織（DAO）](dao.md)
-* [DAO 治理機制](dao/governance.md) 🆕
-* [投票權代幣](dao/governance-token.md) 🆕
-* [知名 DAO 案例](dao/examples.md) 🆕
 
 ---
 
@@ -349,9 +350,17 @@
 
 ---
 
-## 第十五篇：其他區塊鏈與代幣
-### 數位資產名錄
+## 第十五篇：公鏈與代幣
+### Layer 1 區塊鏈
 
+* [公鏈總覽](chains/README.md) 🆕
+* [Solana](chains/solana.md) 🆕
+* [Avalanche](chains/avalanche.md) 🆕
+* [Sui](chains/sui.md) 🆕
+* [Aptos](chains/aptos.md) 🆕
+* [TON](chains/ton.md) 🆕
+
+### 其他代幣
 * [數位資產名錄](token/README.md)
 * [萊特幣](token/te.md)
 * [比特現金](token/bi-te-jin.md)
@@ -360,12 +369,6 @@
 * [NEO](token/neo.md)
 * [瑞波幣](token/rui-bo.md)
 * [狗狗幣](token/gou-gou.md)
-* [Solana](token/solana.md) 🆕
-* [Avalanche](token/avalanche.md) 🆕
-* [Base](token/base.md) 🆕
-* [Sui](token/sui.md) 🆕
-* [Aptos](token/aptos.md) 🆕
-* [TON](token/ton.md) 🆕
 
 ---
 
