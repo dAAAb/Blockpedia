@@ -10,16 +10,16 @@
 
 | 名人 | 相關章節 | 建議頁面 | 狀態 |
 |------|----------|----------|------|
-| Jack Dorsey | Web3 支付/Block | `ming-ren/jack-dorsey.md` | ⏳ 待撰寫 |
-| 趙長鵬 (CZ) | 交易所/幣安 | `ming-ren/cz.md` | ⏳ 待撰寫 |
-| Brian Armstrong | Coinbase、穩定幣 | `ming-ren/brian-armstrong.md` | ⏳ 待撰寫 |
-| Sam Bankman-Fried | FTX 崩盤（歷史）| `ming-ren/sbf.md` | ⏳ 待撰寫 |
+| Jack Dorsey | Web3 支付/Block | `ming-ren/jack-dorsey.md` | ✅ 已完成 |
+| 趙長鵬 (CZ) | 交易所/幣安 | `ming-ren/cz.md` | ✅ 已完成 |
+| Brian Armstrong | Coinbase、穩定幣 | `ming-ren/brian-armstrong.md` | ✅ 已完成 |
+| Sam Bankman-Fried | FTX 崩盤（歷史）| `ming-ren/sbf.md` | ✅ 已完成 |
 | Vitalik Buterin | 以太坊 | `mi-yin/vitalikv-shen.md` | ✅ 已有 |
-| Casey Rodarmor | Ordinals、Runes | `ming-ren/casey-rodarmor.md` | ⏳ 待撰寫 |
-| Do Kwon | Terra/Luna 崩盤 | `ming-ren/do-kwon.md` | ⏳ 待撰寫 |
-| Michael Saylor | MicroStrategy、比特幣 | `ming-ren/michael-saylor.md` | ⏳ 待撰寫 |
-| Gary Gensler | SEC、監管 | `ming-ren/gary-gensler.md` | ⏳ 待撰寫 |
-| Larry Fink | BlackRock、ETF | `ming-ren/larry-fink.md` | ⏳ 待撰寫 |
+| Casey Rodarmor | Ordinals、Runes | `ming-ren/casey-rodarmor.md` | ✅ 已完成 |
+| Do Kwon | Terra/Luna 崩盤 | `ming-ren/do-kwon.md` | ✅ 已完成 |
+| Michael Saylor | MicroStrategy、比特幣 | `ming-ren/michael-saylor.md` | ✅ 已完成 |
+| Gary Gensler | SEC、監管 | `ming-ren/gary-gensler.md` | ✅ 已完成 |
+| Larry Fink | BlackRock、ETF | `ming-ren/larry-fink.md` | ✅ 已完成 |
 
 ---
 
@@ -136,13 +136,13 @@
 | 類別 | 已完成 | 待辦 |
 |------|--------|------|
 | DEX/DeFi | 4 | 2 |
-| 名人錄 | 1 | 9 |
+| 名人錄 | 10 | 0 |
 | 歷史事件 | 1 | 6 |
 | 安全擴充 | 0 | 4 |
 | 術語表 | 0 | 6 |
 | 條目更新 | 1 | 2 |
 
-**總待辦：29 項**
+**總待辦：20 項**
 
 ---
 

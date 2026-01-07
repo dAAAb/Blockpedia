@@ -399,6 +399,15 @@
 * [鏈圈](quan.md)
 * [幣圈](quan-1.md)
 * [區塊鏈名人錄](ming-ren/README.md)
+  * [趙長鵬（CZ）](ming-ren/cz.md) 🆕
+  * [Jack Dorsey](ming-ren/jack-dorsey.md) 🆕
+  * [Brian Armstrong](ming-ren/brian-armstrong.md) 🆕
+  * [Sam Bankman-Fried](ming-ren/sbf.md) 🆕
+  * [Casey Rodarmor](ming-ren/casey-rodarmor.md) 🆕
+  * [Do Kwon](ming-ren/do-kwon.md) 🆕
+  * [Michael Saylor](ming-ren/michael-saylor.md) 🆕
+  * [Gary Gensler](ming-ren/gary-gensler.md) 🆕
+  * [Larry Fink](ming-ren/larry-fink.md) 🆕
 * [區塊鏈社群](she-qun/README.md)
 * [區塊鏈新聞](xin/README.md)
 * [區塊鏈活動](huo/README.md)
