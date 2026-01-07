@@ -1,5 +1,7 @@
 # NFT 藝廊/賣場
 
+**本頁是 NFT 藝廊與賣場的清單，分為開放式（免審核）與專業賣場（需審核）。**
+
 ### {**開放式賣場}｜免審核**
 
 Rarible [https://rarible.com/](https://rarible.com/)

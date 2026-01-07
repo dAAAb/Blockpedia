@@ -1,5 +1,7 @@
 # NFT 展示場地
 
+**本頁是 NFT 虛擬世界展示場地的清單，包含 Sandbox、Cryptovoxels、Decentraland 等平台。**
+
 ### {虛擬世界}
 
 #### Sandbox.game 
