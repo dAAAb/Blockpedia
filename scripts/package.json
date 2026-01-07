@@ -1,0 +1,14 @@
+{
+  "name": "blockpedia-seo-tools",
+  "version": "1.0.0",
+  "description": "Blockpedia SEO/AISEO 批量優化工具",
+  "scripts": {
+    "audit": "node seo-audit.js",
+    "audit:save": "node seo-audit.js --output ../seo-report.md",
+    "optimize:preview": "node seo-optimize.js --dry-run",
+    "optimize:apply": "node seo-optimize.js --apply"
+  },
+  "dependencies": {
+    "glob": "^10.0.0"
+  }
+}
