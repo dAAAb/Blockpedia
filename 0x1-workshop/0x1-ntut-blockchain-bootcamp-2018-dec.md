@@ -4,9 +4,9 @@ description: 12/1-12/2 (2Days-18Hr)
 
 # NTUT 0x1 Blockchain Bootcamp 2018 Winter
 
-![](../.gitbook/assets/44512395\_1984166398273168\_7240695084390285312\_n.jpg)
+![](../.gitbook/assets/44512395_1984166398273168_7240695084390285312_n.jpg)
 
-![](../.gitbook/assets/47396623\_1947280465319900\_4869530368543293440\_o.jpg)
+![](../.gitbook/assets/47396623_1947280465319900_4869530368543293440_o.jpg)
 
 ### 課程討論 Gitter
 
@@ -230,15 +230,15 @@ BlockCerts App 搭配證書使用方法
 
 {% embed url="https://youtu.be/2aFnbww-DSU" %}
 
-![](../.gitbook/assets/img\_4614.jpg)
+![](../.gitbook/assets/img_4614.jpg)
 
-![](../.gitbook/assets/img\_4613.jpg)
+![](../.gitbook/assets/img_4613.jpg)
 
-![](../.gitbook/assets/img\_4612.jpg)
+![](../.gitbook/assets/img_4612.jpg)
 
-![](../.gitbook/assets/img\_4610.jpg)
+![](../.gitbook/assets/img_4610.jpg)
 
-![](../.gitbook/assets/img\_4640.jpg)
+![](../.gitbook/assets/img_4640.jpg)
 
 {% embed url="https://medium.com/@daaab/c5a61f5ee625" %}
 

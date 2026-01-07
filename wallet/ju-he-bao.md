@@ -6,7 +6,7 @@
 
 舉例而言，先前的 Trust Wallet 就只能存放以太坊虛擬貨幣 - 以太幣和 ERC20 幣，但被幣安交易所併購後，就一舉升級成為了多幣錢包，現在裡頭也能存放 Ethereum Classic (ETC) POA Network (POA) Callisto (CLO) GoChain (GO) 等多種鏈上的資產。
 
-![Trust Wallet 現在支援不同鏈上的資產](../.gitbook/assets/img\_0607.PNG)
+![Trust Wallet 現在支援不同鏈上的資產](../.gitbook/assets/img_0607.PNG)
 
 ### imToken
 

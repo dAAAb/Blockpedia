@@ -40,7 +40,7 @@
 
 **Layer 2 成熟**
 
-[Polygon](../layer2/polygon.md)、[Arbitrum](../layer2/arbitrum.md)、Base 等 Layer 2 讓交易變得又快又便宜。
+[Arbitrum](../layer2/arbitrum.md)、[Base](../layer2/base.md)、[Optimism](../layer2/optimism.md) 等 Layer 2 讓交易變得又快又便宜。
 
 **傳統金融入場**
 

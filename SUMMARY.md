@@ -3,7 +3,7 @@
 ## 第零章：導讀
 * [關於 0x1 學院](README.md)
 * [前言：為什麼寫這本書](blockpedia.md)
-* [如何閱讀本書](how-to-read.md) 🆕
+* [如何閱讀本書](how-to-read.md)
 
 ---
 
@@ -182,7 +182,7 @@
 * [空氣幣](tong/kong.md)
 * [垃圾幣](tong/la-ji.md)
 * [傳銷幣](tong/undefined-1.md)
-* [穩定幣](tong/stablecoin-intro.md) → 詳見[第八篇：穩定幣專章](usdt/README.md)
+* [穩定幣](usdt/README.md)
 
 ### 投資相關
 * [數位資產投資](wei/README.md)
@@ -322,8 +322,8 @@
 
 ### NFT 經典案例
 * [加密貓](nft-collectibles/jia-mi-cryptokitties.md)
-* [BAYC](nft/bayc.md) 🆕
-* [CryptoPunks](nft/cryptopunks.md) 🆕
+* [BAYC](nft-collectibles/bayc.md)
+* [CryptoPunks](nft-collectibles/cryptopunks.md)
 
 ### NFT 市場 🆕
 * [OpenSea](nft-marketplace/opensea.md) 🆕
