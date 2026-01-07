@@ -3,6 +3,8 @@ description: http://ipfs.io/ipfs/Qma6eSRNd61UhTbqc7pNPqdksuEjaWgYehdJoeybXqw179
 ---
 
 # DN5｜DNIGHT 大道之夜 #5 寶博 ft. XY Finance Rudolph Charlie
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.loom.com/share/a6d18d7a61bf466789f805a87175a629" %}
 [https://www.loom.com/share/a6d18d7a61bf466789f805a87175a629](https://www.loom.com/share/a6d18d7a61bf466789f805a87175a629)
@@ -70,7 +72,12 @@ Telegram: [https://t.me/xyfinance](https://t.me/xyfinance)&#x20;
 [https://gateway.pinata.cloud/ipfs/QmP3amwr71a2e3p9oYmVqCU5M4bcJHTR8rAP3V8fGQHggr?stream=true](https://gateway.pinata.cloud/ipfs/QmP3amwr71a2e3p9oYmVqCU5M4bcJHTR8rAP3V8fGQHggr?stream=true)
 {% endembed %}
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
 
+#### 參考資料
 
+<!-- TODO: 添加外部參考連結 -->

@@ -1,9 +1,12 @@
 ---
 cover: ../.gitbook/assets/1500x500 (3).jpeg
 coverY: 0
+description: 活動影片
 ---
 
 # DN4｜DNIGHT 大道之夜 #4 寶博 ft. Pluto Lab 品皓 0xRay
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.loom.com/share/ec093ca5e322406088de949d368bb06b" %}
 活動影片
@@ -78,3 +81,13 @@ IG: [https://www.instagram.com/phhdnft/](https://l.facebook.com/l.php?u=https%3A
 FB: [https://www.facebook.com/phhdnft](https://www.facebook.com/phhdnft)
 
 {% embed url="https://plutohiphopdept.com/" %}
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

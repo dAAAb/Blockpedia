@@ -5,6 +5,8 @@ coverY: 0
 ---
 
 # DN6｜DNIGHT 大道之夜 #6 寶博 ft. Verilink Nico Ramirez
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.loom.com/share/ffad4a07919f4d638ea690c38b5423a3" %}
 [https://www.loom.com/share/ffad4a07919f4d638ea690c38b5423a3](https://www.loom.com/share/ffad4a07919f4d638ea690c38b5423a3)
@@ -35,3 +37,13 @@ coverY: 0
 {% embed url="https://twitter.com/pmg/status/1557819259190841345" %}
 
 {% embed url="https://www.verilinkblockchain.com/post/minting-digital-experiences-for-your-physical-nfts" %}
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

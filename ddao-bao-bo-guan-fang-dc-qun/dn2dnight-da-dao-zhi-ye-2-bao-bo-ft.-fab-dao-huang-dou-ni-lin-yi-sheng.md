@@ -3,6 +3,8 @@ description: https://ipfs.io/ipfs/QmPE9iemtntFVGXpQUFWhnqKo9PsvM13oNSsMoHzemujAq
 ---
 
 # DN2｜DNIGHT 大道之夜 #2 寶博 ft. FAB DAO 黃豆泥、林逸晟
+> **最後更新：2026 年 1 月**
+
 
 
 
@@ -144,3 +146,13 @@ FAB DAO，福爾摩沙藝術銀行 DAO，為公益NFT自治組織。 專注於�
    [ ](http://fab.tw)[FAB.tw](http://fab.tw)
 4. 百岳計畫白皮書\
    [ ](https://fab-dao.gitbook.io/fab-dao/)[https://fab-dao.gitbook.io/fab-dao/](https://fab-dao.gitbook.io/fab-dao/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

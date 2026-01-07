@@ -58,3 +58,23 @@ Blockpedia 是由 **0x1 Academy** 維護的開源區塊鏈百科全書，使用 
 2. **目錄可優化** — SUMMARY.md 結構可調整
 3. **遵循寫作風格** — 新內容需符合 dAAAb 的比喻式、循序漸進風格
 4. **使用正體中文** — 台灣用語
+
+---
+
+## 待辦任務：Google Analytics 流量分析
+
+**目標**：分析 0x1 (Blockpedia) 在 2023-2025 年間流量異常問題（瀏覽人數會突然飆升到幾百幾千又歸零）
+
+**已完成**：
+- [x] 安裝 Playwright MCP server
+- [x] 設定 Claude Code MCP 配置
+
+**重啟後待辦**：
+1. 用 Playwright 開啟 Google Cloud Console
+2. 建立專案並啟用 Google Analytics Data API
+3. 建立 Service Account 並下載憑證 JSON
+4. 在 GA4 中授權 Service Account 存取 0x1 資源
+5. 寫 Python/Node.js 腳本連線 GA4 API
+6. 分析 2023-2025 流量異常原因
+
+**用戶會提供**：額外的指令（待貼上）

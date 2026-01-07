@@ -3,6 +3,8 @@ description: 12/1-12/2 (2Days-18Hr)
 ---
 
 # NTUT 0x1 Blockchain Bootcamp 2018 Winter
+> **最後更新：2026 年 1 月**
+
 
 ![](../.gitbook/assets/44512395_1984166398273168_7240695084390285312_n.jpg)
 
@@ -242,3 +244,12 @@ BlockCerts App 搭配證書使用方法
 
 {% embed url="https://medium.com/@daaab/c5a61f5ee625" %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -3,6 +3,8 @@ description: 5/18-5/19 (2Days-18Hr)
 ---
 
 # NTUT 0x1 Blockchain Bootcamp 2019 Spring
+> **最後更新：2026 年 1 月**
+
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -45,3 +47,12 @@ Feihu: [https://www.facebook.com/feihu.tang](https://www.facebook.com/feihu.tang
 
 詳請見「[區塊鏈證書](../blockchain-apps/blockcerts.md)」
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

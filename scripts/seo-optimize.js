@@ -22,7 +22,7 @@ const glob = require('glob');
 // ============ 配置區 ============
 
 const CONFIG = {
-  // 要處理的目錄（相對於專案根目錄）
+  // 要處理的目錄（相對於專案根目錄）- 包含所有內容目錄
   includeDirs: [
     'token',
     'wallet',
@@ -49,6 +49,27 @@ const CONFIG = {
     'stablecoin',
     'scams',
     'ming-ren',
+    // 新增的目錄
+    'wei',
+    'wei-1',
+    'xin',
+    'usdt',
+    'undefined-1-1',
+    'undefined-2',
+    'tou-bang',
+    'tong',
+    'mi-yin',
+    'fork',
+    'ddao',
+    'nft-artists',
+    'nft-gallery',
+    'nft-marketplace',
+    'nft-trading',
+    'cryptoart',
+    'gamefi',
+    'play-to-earn',
+    'socialfi',
+    'creatoreconomy',
   ],
 
   // 排除的檔案
@@ -325,16 +346,19 @@ function processFile(filePath, dryRun = true) {
  * 取得所有要處理的檔案
  */
 function getFilesToProcess(rootDir) {
-  const files = [];
-
-  CONFIG.includeDirs.forEach(dir => {
-    const pattern = path.join(rootDir, dir, '**/*.md');
-    const matches = glob.sync(pattern);
-    files.push(...matches);
+  // 掃描所有 md 檔案（排除特定目錄）
+  const pattern = path.join(rootDir, '**/*.md');
+  const allFiles = glob.sync(pattern, {
+    ignore: [
+      '**/node_modules/**',
+      '**/.git/**',
+      '**/.claude/**',
+      '**/scripts/**',
+    ]
   });
 
   // 過濾排除的檔案
-  return files.filter(f => {
+  return allFiles.filter(f => {
     const basename = path.basename(f);
     return !CONFIG.excludeFiles.includes(basename);
   });

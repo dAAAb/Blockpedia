@@ -1,4 +1,10 @@
+---
+description: 貨幣是人類社會之間「彼此共同約定，記錄工作所得，並可以之交換工作所得的依據」，只要能夠滿足上述條件的東西，都可能被約定作為貨幣。
+---
+
 # 幣
+> **最後更新：2026 年 1 月**
+
 
 ## 幣（Money），即是一種共同約定的工作證明與交易記錄。
 
@@ -27,3 +33,13 @@ TED Talk 上廣為流傳 由全世界最多天才的地方之一：[麻省理工
 {% embed url="https://www.ted.com/talks/neha_narula_the_future_of_money?language=zh-TW&utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" %}
 其中有提到 Yap 石幣的故事，值得一看
 {% endembed %}
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

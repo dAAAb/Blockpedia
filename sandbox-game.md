@@ -1,4 +1,10 @@
+---
+description: 本頁是 NFT 虛擬世界展示場地的清單，包含 Sandbox、Cryptovoxels、Decentraland 等平台。
+---
+
 # NFT 展示場地
+> **最後更新：2026 年 1 月**
+
 
 **本頁是 NFT 虛擬世界展示場地的清單，包含 Sandbox、Cryptovoxels、Decentraland 等平台。**
 
@@ -52,3 +58,12 @@
 * [https://cluster.mu/w/6ab71392-7617-4dc4-87ae-0c7d4e91543e](https://cluster.mu/w/6ab71392-7617-4dc4-87ae-0c7d4e91543e) 
 * [https://cluster.mu/w/79347fb9-05f5-429e-ab5f-8951ee8cd966](https://cluster.mu/w/79347fb9-05f5-429e-ab5f-8951ee8cd966)
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

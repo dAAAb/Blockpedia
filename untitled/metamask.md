@@ -1,4 +1,10 @@
+---
+description: MetaMask，簡稱「小狐狸」的瀏覽器熱錢包外掛，目前支援 Chrome 和 Firefox。
+---
+
 # MetaMask
+> **最後更新：2026 年 1 月**
+
 
 [MetaMask](https://metamask.io/)，簡稱「小狐狸」的瀏覽器熱錢包外掛，目前支援 Chrome 和 Firefox。
 
@@ -8,3 +14,12 @@
 
 {% embed url="https://brave.com/xac187" %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

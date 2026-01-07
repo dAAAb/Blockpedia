@@ -1,4 +1,10 @@
+---
+description: "DAO是「去中心自治組織（Decentralized Autonomous Organization）」的縮寫，可解釋成開放式的創投基金，由「以太坊（Ethereum）」區塊鏈技術搭建，將投資使用區塊鏈技術的共享經濟項目。和其它組織最大的不同，在於The DAO並非由人力管理運作，而是從公司...
+---
+
 # 去中心化自組織（DAO）
+> **最後更新：2026 年 1 月**
+
 
 "DAO是「去中心自治組織（Decentralized Autonomous Organization）」的縮寫，可解釋成開放式的創投基金，由「以太坊（Ethereum）」區塊鏈技術搭建，將投資使用區塊鏈技術的共享經濟項目。和其它組織最大的不同，在於The DAO並非由人力管理運作，而是從公司治理、日常運作到付款時程等組織營運，皆透過程式碼自動執行，因此也像是大型綜合的智慧合約。"
 
@@ -8,5 +14,12 @@
 
 {% embed url="https://www.blocktempo.com/daos-and-ownerless-organizations/" %}
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

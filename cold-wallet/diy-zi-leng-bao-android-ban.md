@@ -1,4 +1,10 @@
+---
+description: MEWConnect 是一組可以透過極高的加密技術讓智慧型手機轉化為硬體冷錢包的 APP，在 2019 年由 MEW (MyEtherWallet）團隊製作推出。
+---
+
 # MEW Connect（iOS, Android）
+> **最後更新：2026 年 1 月**
+
 
 [MEWConnect](https://mewconnect.myetherwallet.com/#/) 是一組可以透過極高的加密技術讓智慧型手機轉化為硬體冷錢包的 APP，在 2019 年由 MEW (MyEtherWallet）團隊製作推出。
 
@@ -20,3 +26,12 @@ iOS 版下載
 Android 版下載
 {% endembed %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -3,6 +3,8 @@ description: 一般碩 / 2014 入學 2016 畢業
 ---
 
 # 2014｜羅盛嘉 Mandy Luo
+> **最後更新：2026 年 1 月**
+
 
 ## 個人介紹
 
@@ -68,3 +70,12 @@ I am an Interaction Designer with over 3+ years of experience in virtual reality
 
 mandy4545165 \[at\] gmail.com
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

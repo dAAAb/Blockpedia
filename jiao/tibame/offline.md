@@ -1,4 +1,10 @@
+---
+description: 課程快速連結：BlockChain區塊鏈實作班-零基礎區塊鏈智能合約專題實戰班
+---
+
 # BlockChain區塊鏈實作班
+> **最後更新：2026 年 1 月**
+
 
 課程快速連結：[BlockChain區塊鏈實作班-零基礎區塊鏈智能合約專題實戰班](https://www.tibame.com/offline/smart-contract)
 
@@ -21,3 +27,12 @@
 * [0x1 NTUT Blockchain Bootcamp​ ](../../0x1-workshop/0x1-ntut-blockchain-bootcamp-2018-dec.md)
 * [地表最強！智能合約開發超級入門](online.md)
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

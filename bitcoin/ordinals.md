@@ -1,4 +1,10 @@
+---
+description: 2023 年初，比特幣社群發生了一件大事。
+---
+
 # Bitcoin Ordinals
+> **最後更新：2026 年 1 月**
+
 
 ## Ordinals 協議讓比特幣可以承載 NFT 和其他數位資產，為「數位黃金」帶來全新的應用場景，同時引發社群激烈爭論。
 
@@ -251,3 +257,13 @@ Ordinals 是比特幣的「意外創新」。它不是比特幣設計的初衷�
 - [Ordinals 官方文檔](https://docs.ordinals.com/)
 - [ordinals.com](https://ordinals.com/)
 - [Casey Rodarmor 的部落格](https://rodarmor.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

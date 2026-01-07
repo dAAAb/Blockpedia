@@ -1,4 +1,10 @@
+---
+description: 2021 年，NFT 爆發。
+---
+
 # OpenSea
+> **最後更新：2026 年 1 月**
+
 
 ## OpenSea 是最老牌的 NFT 市場，曾經統治整個 NFT 交易，見證了 NFT 從小眾到爆發再到冷卻的完整週期。
 
@@ -265,3 +271,13 @@ OpenSea 是 NFT 歷史的重要一頁。它見證了 NFT 的爆發和冷卻。�
 - [OpenSea](https://opensea.io/)
 - [OpenSea Pro](https://pro.opensea.io/)
 - [OpenSea 幫助中心](https://support.opensea.io/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

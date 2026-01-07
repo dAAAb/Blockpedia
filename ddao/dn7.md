@@ -3,9 +3,12 @@ cover: >-
   ../.gitbook/assets/2022
   PANGCAH生活節，野營、音樂舞台、市集、工作坊四大主題，來一場最在地的花蓮之旅，體驗部落文化魅力！.jpg
 coverY: 0
+description: https://www.loom.com/share/ac0f1a71f20f456894ead1d45655d728
 ---
 
 # DN7｜DNIGHT 大道之夜 #7 寶博 ft. Capsule Vault Kevin, 0xSLW 綁炸 Pangcah 生活節
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.loom.com/share/ac0f1a71f20f456894ead1d45655d728" %}
 [https://www.loom.com/share/ac0f1a71f20f456894ead1d45655d728](https://www.loom.com/share/ac0f1a71f20f456894ead1d45655d728)
@@ -35,3 +38,13 @@ coverY: 0
 **免費索票｜**[**https://pse.is/4g4dps**](https://pse.is/4g4dps)\
 **野營、VIP、NFT、工作坊等更多體驗｜**[**https://pse.is/4fzwe3**](https://pse.is/4fzwe3)\
 **活動官網｜Coming Soon**
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

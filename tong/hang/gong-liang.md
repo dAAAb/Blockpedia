@@ -3,6 +3,8 @@ description: Total Supply
 ---
 
 # 總供給量
+> **最後更新：2026 年 1 月**
+
 
 通證發行時，在智能合約裡限制其歷史流通的最高數量，稱作總供給量。
 
@@ -18,4 +20,12 @@ description: Total Supply
 
 [https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21#code](https://etherscan.io/address/0x67ab11058ef23d0a19178f61a050d3c38f81ae21#code)\
 
+---
 
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

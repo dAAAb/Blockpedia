@@ -1,4 +1,10 @@
+---
+description: https://www.youtube.com/watch?v=qWT7w\_BhJLg
+---
+
 # EP145｜Noah Yeh 葉向林: NFT.NYC 見聞、Crypto OG 心得
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.youtube.com/watch?v=qWT7w_BhJLg" %}
 [https://www.youtube.com/watch?v=qWT7w\_BhJLg](https://www.youtube.com/watch?v=qWT7w\_BhJLg)
@@ -13,3 +19,13 @@
 {% embed url="https://docs.google.com/spreadsheets/d/1H1KVejBqZyvQjvWSRfvsNJ80N6sXWb-cVn81nEYQNEM/edit#gid=1245923412" %}
 字幕共編： https://docs.google.com/spreadsheets/d/1H1KVejBqZyvQjvWSRfvsNJ80N6sXWb-cVn81nEYQNEM/edit#gid=1245923412&#x20;
 {% endembed %}
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

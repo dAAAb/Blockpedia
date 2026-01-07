@@ -1,0 +1,281 @@
+{
+  "propertyId": "385104224",
+  "dateRange": {
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-31"
+  },
+  "dimension": "monthly",
+  "trafficData": [
+    {
+      "period": "202306",
+      "activeUsers": 446,
+      "sessions": 538,
+      "pageViews": 538,
+      "bounceRate": 0.570631970260223,
+      "avgSessionDuration": 93.16733258364313
+    },
+    {
+      "period": "202307",
+      "activeUsers": 937,
+      "sessions": 1154,
+      "pageViews": 1190,
+      "bounceRate": 0.5311958405545927,
+      "avgSessionDuration": 112.46137583015599
+    },
+    {
+      "period": "202308",
+      "activeUsers": 783,
+      "sessions": 940,
+      "pageViews": 949,
+      "bounceRate": 0.526595744680851,
+      "avgSessionDuration": 109.07827566595745
+    },
+    {
+      "period": "202309",
+      "activeUsers": 975,
+      "sessions": 1194,
+      "pageViews": 1236,
+      "bounceRate": 0.5217755443886097,
+      "avgSessionDuration": 116.07555129815745
+    },
+    {
+      "period": "202310",
+      "activeUsers": 985,
+      "sessions": 1172,
+      "pageViews": 1193,
+      "bounceRate": 0.49573378839590443,
+      "avgSessionDuration": 122.00983372610922
+    },
+    {
+      "period": "202311",
+      "activeUsers": 456,
+      "sessions": 550,
+      "pageViews": 538,
+      "bounceRate": 0.5327272727272727,
+      "avgSessionDuration": 107.53033055454546
+    },
+    {
+      "period": "202404",
+      "activeUsers": 1,
+      "sessions": 1,
+      "pageViews": 2,
+      "bounceRate": 0,
+      "avgSessionDuration": 48.676128
+    },
+    {
+      "period": "202405",
+      "activeUsers": 1,
+      "sessions": 1,
+      "pageViews": 1,
+      "bounceRate": 1,
+      "avgSessionDuration": 0
+    },
+    {
+      "period": "202407",
+      "activeUsers": 392,
+      "sessions": 473,
+      "pageViews": 548,
+      "bounceRate": 0.5243128964059197,
+      "avgSessionDuration": 149.24620559408035
+    },
+    {
+      "period": "202408",
+      "activeUsers": 504,
+      "sessions": 607,
+      "pageViews": 640,
+      "bounceRate": 0.5420098846787479,
+      "avgSessionDuration": 93.46192876935748
+    },
+    {
+      "period": "202409",
+      "activeUsers": 582,
+      "sessions": 676,
+      "pageViews": 734,
+      "bounceRate": 0.5739644970414202,
+      "avgSessionDuration": 82.43114727514795
+    },
+    {
+      "period": "202410",
+      "activeUsers": 472,
+      "sessions": 573,
+      "pageViews": 627,
+      "bounceRate": 0.5724258289703316,
+      "avgSessionDuration": 94.24327846596857
+    },
+    {
+      "period": "202411",
+      "activeUsers": 656,
+      "sessions": 743,
+      "pageViews": 819,
+      "bounceRate": 0.5477792732166891,
+      "avgSessionDuration": 65.77193788021536
+    },
+    {
+      "period": "202412",
+      "activeUsers": 644,
+      "sessions": 728,
+      "pageViews": 816,
+      "bounceRate": 0.554945054945055,
+      "avgSessionDuration": 90.57226336950549
+    },
+    {
+      "period": "202501",
+      "activeUsers": 479,
+      "sessions": 553,
+      "pageViews": 593,
+      "bounceRate": 0.5406871609403255,
+      "avgSessionDuration": 85.5645352477396
+    },
+    {
+      "period": "202502",
+      "activeUsers": 360,
+      "sessions": 440,
+      "pageViews": 529,
+      "bounceRate": 0.5318181818181819,
+      "avgSessionDuration": 89.07949543636364
+    },
+    {
+      "period": "202503",
+      "activeUsers": 487,
+      "sessions": 616,
+      "pageViews": 869,
+      "bounceRate": 0.551948051948052,
+      "avgSessionDuration": 125.02895444480522
+    },
+    {
+      "period": "202504",
+      "activeUsers": 262,
+      "sessions": 353,
+      "pageViews": 486,
+      "bounceRate": 0.5155807365439093,
+      "avgSessionDuration": 136.5717770651558
+    },
+    {
+      "period": "202505",
+      "activeUsers": 259,
+      "sessions": 334,
+      "pageViews": 385,
+      "bounceRate": 0.5209580838323353,
+      "avgSessionDuration": 118.8037736526946
+    },
+    {
+      "period": "202506",
+      "activeUsers": 149,
+      "sessions": 204,
+      "pageViews": 241,
+      "bounceRate": 0.6715686274509803,
+      "avgSessionDuration": 70.81083859803921
+    },
+    {
+      "period": "202507",
+      "activeUsers": 3,
+      "sessions": 34,
+      "pageViews": 28,
+      "bounceRate": 1,
+      "avgSessionDuration": 0
+    },
+    {
+      "period": "202508",
+      "activeUsers": 2,
+      "sessions": 6,
+      "pageViews": 5,
+      "bounceRate": 0.8333333333333334,
+      "avgSessionDuration": 88.37932366666666
+    },
+    {
+      "period": "202509",
+      "activeUsers": 2,
+      "sessions": 3,
+      "pageViews": 0,
+      "bounceRate": 0.6666666666666666,
+      "avgSessionDuration": 75.0299
+    },
+    {
+      "period": "202510",
+      "activeUsers": 2,
+      "sessions": 4,
+      "pageViews": 0,
+      "bounceRate": 0.5,
+      "avgSessionDuration": 538.6964815
+    },
+    {
+      "period": "202511",
+      "activeUsers": 1,
+      "sessions": 3,
+      "pageViews": 0,
+      "bounceRate": 1,
+      "avgSessionDuration": 0
+    },
+    {
+      "period": "202512",
+      "activeUsers": 2,
+      "sessions": 2,
+      "pageViews": 0,
+      "bounceRate": 1,
+      "avgSessionDuration": 0
+    }
+  ],
+  "anomalies": [
+    {
+      "period": "202407",
+      "previousPeriod": "202405",
+      "users": 392,
+      "previousUsers": 1,
+      "changePercent": "39100.0",
+      "zScore": "0.04",
+      "type": "SPIKE"
+    }
+  ],
+  "topSources": [
+    {
+      "source": "google",
+      "medium": "organic",
+      "sessions": 9973
+    },
+    {
+      "source": "(direct)",
+      "medium": "(none)",
+      "sessions": 1690
+    },
+    {
+      "source": "bing",
+      "medium": "organic",
+      "sessions": 158
+    },
+    {
+      "source": "tw.search.yahoo.com",
+      "medium": "referral",
+      "sessions": 113
+    },
+    {
+      "source": "m.baidu.com",
+      "medium": "referral",
+      "sessions": 23
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 16
+    },
+    {
+      "source": "hk.search.yahoo.com",
+      "medium": "referral",
+      "sessions": 13
+    },
+    {
+      "source": "nogle.atlassian.net",
+      "medium": "referral",
+      "sessions": 7
+    },
+    {
+      "source": "yahoo",
+      "medium": "organic",
+      "sessions": 7
+    },
+    {
+      "source": "yuque.com",
+      "medium": "referral",
+      "sessions": 7
+    }
+  ]
+}

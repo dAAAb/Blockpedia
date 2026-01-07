@@ -1,4 +1,10 @@
+---
+description: 比特幣有一個問題：太慢、太貴。
+---
+
 # Lightning Network
+> **最後更新：2026 年 1 月**
+
 
 ## Lightning Network 是比特幣的「第二層」，讓比特幣交易變得即時、便宜，終於可以用來「買咖啡」。
 
@@ -282,3 +288,13 @@ Lightning Network 讓比特幣「真正可用」於日常支付。它不是完�
 - [Lightning Labs](https://lightning.engineering/)
 - [1ML - Lightning 統計](https://1ml.com/)
 - [ACINQ](https://acinq.co/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

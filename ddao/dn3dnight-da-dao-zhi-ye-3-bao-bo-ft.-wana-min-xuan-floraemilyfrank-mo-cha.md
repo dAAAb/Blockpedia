@@ -5,6 +5,8 @@ coverY: 0
 ---
 
 # DN3｜DNIGHT 大道之夜 #3 寶博 ft. WANA 玟瑄 Flora、Emily、Frank、抹茶
+> **最後更新：2026 年 1 月**
+
 
 {% embed url="https://www.loom.com/share/b3bb5da77c62423488d99e9d5d907e33" %}
 活動影片
@@ -277,3 +279,13 @@ Flora：我們之後發文的大家都可以加入，但當初有買大頭像的
 
 
 寶博士：我是這樣想但我不知道這樣會不會很Low，那底下有人講你可以參考Matters加Like coin，對，但是Like coin現在滿快的。
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

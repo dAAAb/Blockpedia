@@ -1,4 +1,10 @@
+---
+description: 十年的等待。
+---
+
 # Bitcoin ETF
+> **最後更新：2026 年 1 月**
+
 
 ## 2024 年 1 月，美國批准了比特幣現貨 ETF，這是加密貨幣史上的里程碑，讓傳統投資者可以輕鬆參與比特幣投資。
 
@@ -274,3 +280,13 @@ Bitcoin ETF 的批准是加密貨幣走向主流的重要里程碑。它不會�
 - [SEC: Bitcoin ETF Approvals](https://www.sec.gov/news/press-release/2024-10)
 - [BlackRock IBIT](https://www.ishares.com/us/products/333011/ishares-bitcoin-trust)
 - [Fidelity FBTC](https://www.fidelity.com/crypto/bitcoin-etf)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

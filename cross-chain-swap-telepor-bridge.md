@@ -3,6 +3,8 @@ description: Cross Chain Exchange / Atom Swap
 ---
 
 # 跨鏈交易
+> **最後更新：2026 年 1 月**
+
 
 **跨鏈交易（Chain Bridge）是讓不同區塊鏈之間的資產能夠互相轉換的技術，又稱跨鏈轉換（Chain Swap）或原子交換（Atom Swap）。**
 
@@ -16,5 +18,12 @@ description: Cross Chain Exchange / Atom Swap
 
 ![https://swap.blocto.app/\#/teleport](.gitbook/assets/jie-tu-20210822-xia-wu-2.39.37.png)
 
+---
 
+#### 相關條目
 
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

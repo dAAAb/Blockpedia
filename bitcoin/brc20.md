@@ -1,4 +1,10 @@
+---
+description: 以太坊有 ERC-20。
+---
+
 # BRC-20 代幣
+> **最後更新：2026 年 1 月**
+
 
 ## BRC-20 是建立在 Ordinals 協議上的比特幣代幣標準，讓人們可以在比特幣上發行和交易代幣，引爆了比特幣生態的 meme coin 熱潮。
 
@@ -273,3 +279,13 @@ BRC-20 是一個「實驗」，它證明了在比特幣上可以做代幣，但�
 - [BRC-20 文檔](https://domo-2.gitbook.io/brc-20-experiment/)
 - [Unisat BRC-20](https://unisat.io/brc20)
 - [@domodata Twitter](https://twitter.com/dolodata)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -1,6 +1,21 @@
+---
+description: Cipher 瀏覽器是個功能完整的錢包 APP 應用程式，和 TrustWallet 一樣是第一批提供 Dapp 瀏覽功能的軟體錢包。2014 年創辦於加州，後於 2018 年被全球最大區塊鏈/數位資產公司 Coinbase 併購，協議金額未透露。
+---
+
 # Cipher
+> **最後更新：2026 年 1 月**
+
 
 [Cipher](https://www.cipherbrowser.com/) 瀏覽器是個功能完整的錢包 APP 應用程式，和 TrustWallet 一樣是第一批提供 Dapp 瀏覽功能的軟體錢包。2014 年創辦於加州，後於 2018 年被全球最大區塊鏈/數位資產公司 [Coinbase](../shang/coinbase.md) 併購，協議金額未透露。
 
 {% embed url="https://www.cipherbrowser.com/" %}
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

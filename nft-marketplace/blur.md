@@ -1,4 +1,10 @@
+---
+description: 2022 年底，NFT 市場冷卻。
+---
+
 # Blur
+> **最後更新：2026 年 1 月**
+
 
 ## Blur 是新一代 NFT 市場，用零手續費和代幣激勵顛覆了 OpenSea 的統治，成為專業 NFT 交易者的首選。
 
@@ -260,3 +266,13 @@ Blur 用激進的策略顛覆了 NFT 市場格局。它代表了 Web3 的「閃�
 - [Blur](https://blur.io/)
 - [BLUR 代幣](https://www.coingecko.com/en/coins/blur)
 - [Blend 借貸](https://blur.io/blend)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->
