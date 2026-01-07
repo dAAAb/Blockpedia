@@ -30,7 +30,8 @@ Android 版下載
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Ledger Nano S/X](ledger-nano.md)
+* [CoolWallet S](coolbitx.md)
 
 #### 參考資料
 

@@ -257,7 +257,7 @@ ConstitutionDAO 是 DAO 歷史上最激動人心的故事之一。它失敗了�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Snapshot 投票](snapshot.md)
 
 #### 參考資料
 

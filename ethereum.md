@@ -76,7 +76,11 @@ description: 以太坊（英文：Ethereum）是一種區塊鏈技術，於 2013
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [智能合約](smart-contract/README.md)
+* [Solidity](smart-contract/solidity.md)
+* [智能合約工程師](smart-contract/smart-contract-developer/README.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

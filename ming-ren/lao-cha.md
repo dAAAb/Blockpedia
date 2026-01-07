@@ -12,7 +12,8 @@ Charles Hoskinson（老查）
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [趙長鵬（CZ）](cz.md)
+* [Jack Dorsey](jack-dorsey.md)
 
 #### 參考資料
 

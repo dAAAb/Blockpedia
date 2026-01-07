@@ -264,7 +264,8 @@ Maple Finance 一度有超過 5000 萬美元的壞帳。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [代幣化國債](treasuries.md)
+* [BlackRock BUIDL](buidl.md)
 
 #### 參考資料
 

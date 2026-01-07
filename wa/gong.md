@@ -9,7 +9,9 @@ description: 礦工的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [礦工費用](../wallet/bi-te-bao/gong-yong.md)
+* [算力](suan-li.md)
+* [哈希值](ha-xi-zhi.md)
 
 #### 參考資料
 

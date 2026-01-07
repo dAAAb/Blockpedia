@@ -255,7 +255,8 @@ TON 的獨特優勢是 Telegram 的 9 億用戶。這可能是區塊鏈大規模
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Solana](solana.md)
+* [Avalanche](avalanche.md)
 
 #### 參考資料
 

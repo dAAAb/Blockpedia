@@ -76,7 +76,8 @@ Telegram: [https://t.me/xyfinance](https://t.me/xyfinance)&#x20;
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Curve Finance](../defi/dex/curve.md)
+* [DDAO 寶博官方 DC 群](README.md)
 
 #### 參考資料
 

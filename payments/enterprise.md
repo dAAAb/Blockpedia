@@ -428,7 +428,8 @@ T+2 會變成歷史。即時結算會成為預期。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Stripe + Bridge](stripe-bridge.md)
+* [Block Bitcoin 支付](block-btc.md)
 
 #### 參考資料
 

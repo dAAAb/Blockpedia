@@ -9,7 +9,8 @@ description: 又稱以太貓（CryptoKitties）
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [同質 vs 非同質](tong-nfts.md)
+* [ERC721](erc721.md)
 
 #### 參考資料
 

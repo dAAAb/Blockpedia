@@ -46,7 +46,8 @@ description: 助記詞（Backup Phrase）是私鑰的另一種表現形式，其
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [錢包地址](address.md)
+* [公鑰](gong.md)
 
 #### 參考資料
 

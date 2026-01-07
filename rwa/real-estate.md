@@ -254,7 +254,8 @@ RealT 代幣可以在 DeFi 中使用，比如作為抵押品借款。這是傳�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [代幣化國債](treasuries.md)
+* [BlackRock BUIDL](buidl.md)
 
 #### 參考資料
 

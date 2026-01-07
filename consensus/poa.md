@@ -14,7 +14,8 @@ description: 權威證明\(Proof of Authority或PoA\)是一種完全中心化的
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [工作量證明（PoW）](pos-1.md)
+* [權益證明（PoS）](pos.md)
 
 #### 參考資料
 

@@ -12,7 +12,7 @@ description: MEW Connect（iOS, Android）的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [MEW Connect](../cold-wallet/diy-zi-leng-bao-android-ban.md)
 
 #### 參考資料
 

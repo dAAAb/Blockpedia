@@ -9,7 +9,10 @@ description: Portal.Network的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Lightning Network](../bitcoin/lightning.md)
+* [Render Network](../depin/render.md)
+* [IPFS](ipfs.md)
+* [ENS](ens.md)
 
 #### 參考資料
 

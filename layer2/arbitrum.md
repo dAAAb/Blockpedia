@@ -277,7 +277,8 @@ Arbitrum 是目前最成功的以太坊 L2。它有最大的 TVL、最豐富的 
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Optimism](optimism.md)
+* [Base](base.md)
 
 #### 參考資料
 

@@ -9,7 +9,8 @@ description: 藍寶堅尼的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [V神](vitalikv-shen.md)
+* [韭菜](jiu-cai.md)
 
 #### 參考資料
 

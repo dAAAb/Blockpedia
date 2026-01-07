@@ -12,7 +12,8 @@ description: SOTD的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Web3](web3.md)
+* [DApp 瀏覽器](dapp-qi.md)
 
 #### 參考資料
 

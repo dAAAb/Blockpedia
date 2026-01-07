@@ -9,7 +9,11 @@ description: 資產的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [數位資產](../digital-assets.md)
+* [數位資產發行](../tong/README.md)
+* [數位資產投資](../wei/README.md)
+* [場外交易（OTC）](wai-jiao-yi.md)
+* [撮合](cuo-he-jiao-yi.md)
 
 #### 參考資料
 

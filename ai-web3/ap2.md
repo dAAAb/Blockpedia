@@ -145,7 +145,10 @@ Google 推 AP2 的策略很清楚：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Runes Protocol](../bitcoin/runes.md)
+* [0x Protocol](../jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/0x.md)
+* [x402 Protocol](x402.md)
+* [AI Agent 支付](ai-agent-payments.md)
 
 #### 參考資料
 

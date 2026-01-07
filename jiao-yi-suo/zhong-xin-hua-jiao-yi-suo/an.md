@@ -9,7 +9,8 @@ description: 幣安的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [B網（Bittrex）](b.md)
+* [P網（Poloniex）](p.md)
 
 #### 參考資料
 

@@ -288,7 +288,11 @@ Base 是傳統金融擁抱區塊鏈的代表。有 Coinbase 的用戶基礎和�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Coinbase Wallet](../untitled/coinbase-wallet.md)
+* [Coinbase](../shang/coinbase.md)
+* [Base64](../blockchain-dev/cryptography/base64.md)
+* [Optimism](optimism.md)
+* [Arbitrum](arbitrum.md)
 
 #### 參考資料
 

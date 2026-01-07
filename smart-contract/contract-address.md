@@ -20,7 +20,7 @@ description: Contract Address
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Solidity](solidity.md)
 
 #### 參考資料
 

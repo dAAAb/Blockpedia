@@ -16,7 +16,11 @@ description: 數位資產（英文：Digital Assets）又稱區塊鏈資產（�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [數位資產發行](tong/README.md)
+* [數位資產投資](wei/README.md)
+* [數位資產名錄](token/README.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

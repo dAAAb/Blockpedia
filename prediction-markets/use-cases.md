@@ -233,7 +233,8 @@ Futarchy 方式：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Polymarket](polymarket.md)
+* [預測市場機制](how-it-works.md)
 
 #### 參考資料
 

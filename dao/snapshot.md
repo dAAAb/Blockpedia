@@ -266,7 +266,7 @@ Snapshot 是 DAO 治理的基礎設施。它解決了鏈上投票的成本問題
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [ConstitutionDAO](constitution-dao.md)
 
 #### 參考資料
 

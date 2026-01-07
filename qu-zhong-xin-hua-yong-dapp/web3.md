@@ -9,7 +9,10 @@ description: Web3的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [AI x Web3 總覽](../ai-web3/README.md)
+* [Web3 支付總覽](../payments/README.md)
+* [DApp 瀏覽器](dapp-qi.md)
+* [DApp Radar](dapp-radar.md)
 
 #### 參考資料
 

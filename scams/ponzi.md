@@ -263,7 +263,8 @@ description: 「保證每月 10% 收益。」
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [假錢包 APP](fake-wallet.md)
+* [釣魚網站](phishing.md)
 
 #### 參考資料
 

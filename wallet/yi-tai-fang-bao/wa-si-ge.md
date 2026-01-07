@@ -70,7 +70,8 @@ description: 燃料價格（英文：Gas Price）就是交易發起者願為燃�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [燃料（Gas）](wa-si.md)
+* [燃料上限](wa-si-shang-xian.md)
 
 #### 參考資料
 

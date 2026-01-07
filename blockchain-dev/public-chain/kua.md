@@ -9,7 +9,9 @@ description: 跨鏈的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [跨鏈交易](../../cross-chain-swap-telepor-bridge.md)
+* [創世區塊](genesis-block.md)
+* [分片](fen-pian.md)
 
 #### 參考資料
 

@@ -16,7 +16,8 @@ description: 零知識證明\(Zero-knowledge Proof或ZK Proof\)用在許多需�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [哈希算法](hash.md)
+* [SHA256](sha256.md)
 
 #### 參考資料
 

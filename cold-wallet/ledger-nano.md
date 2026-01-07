@@ -20,7 +20,8 @@ description: \\\\Ledger Nano 是法國公司 Ledger 推出一系列受到好評�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [CoolWallet S](coolbitx.md)
+* [Trezor](trezor.md)
 
 #### 參考資料
 

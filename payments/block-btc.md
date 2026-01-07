@@ -256,7 +256,11 @@ Stripe 和 Block 的競爭變得更有趣：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Bitcoin ETF](../bitcoin/etf.md)
+* [Bitcoin Ordinals](../bitcoin/ordinals.md)
+* [BlockCerts](../blockchain-apps/blockcerts.md)
+* [Stripe + Bridge](stripe-bridge.md)
+* [穩定幣支付](stablecoin-payments.md)
 
 #### 參考資料
 

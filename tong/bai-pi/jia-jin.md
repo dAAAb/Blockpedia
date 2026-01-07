@@ -18,7 +18,8 @@ description: Bounty Bonus
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [基石輪](ji-shi.md)
+* [私募輪](si-mu.md)
 
 #### 參考資料
 

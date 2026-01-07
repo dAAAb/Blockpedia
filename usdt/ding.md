@@ -9,7 +9,8 @@ description: 錨定的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [USDT](usdt.md)
+* [MakerDAO](makerdao.md)
 
 #### 參考資料
 

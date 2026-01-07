@@ -45,7 +45,8 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [分片](fen-pian.md)
+* [隔離見證](ge.md)
 
 #### 參考資料
 

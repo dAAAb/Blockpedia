@@ -256,7 +256,11 @@ Runes 是他的「解決方案」——不是因為他想要比特幣上有代�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [0x Protocol](../jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/0x.md)
+* [x402 Protocol](../ai-web3/x402.md)
+* [AP2 Protocol（Google）](../ai-web3/ap2.md)
+* [Bitcoin ETF](etf.md)
+* [Bitcoin Ordinals](ordinals.md)
 
 #### 參考資料
 

@@ -12,7 +12,7 @@ description: 輕量節點（英文：Lightweight-node）就是一個區塊鏈帳
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [全節點](quan.md)
 
 #### 參考資料
 

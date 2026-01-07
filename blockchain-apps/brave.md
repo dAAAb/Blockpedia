@@ -24,7 +24,8 @@ Brave 是個由[Mozilla專案](https://zh.wikipedia.org/wiki/Mozilla)的聯合�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [IPFS](ipfs.md)
+* [ENS](ens.md)
 
 #### 參考資料
 

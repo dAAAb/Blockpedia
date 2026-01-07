@@ -255,7 +255,9 @@ Render Network 代表了「去中心化算力」的願景。在 AI 時代，算�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Lightning Network](../bitcoin/lightning.md)
+* [Helium](helium.md)
+* [Hivemapper](hivemapper.md)
 
 #### 參考資料
 

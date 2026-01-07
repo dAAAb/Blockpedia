@@ -14,7 +14,9 @@ ERC是將開發規則統一為標準的提案，而EIP是任何對以太坊區�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [ERC20：代幣標準](../../erc20-1.md)
+* [ERC721](../../nft-collectibles/erc721.md)
+* [ERC1155](../../nft-collectibles/erc1155.md)
 
 #### 參考資料
 

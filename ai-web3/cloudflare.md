@@ -180,7 +180,10 @@ Cloudflare 處理全球約 20% 的網路流量。當這麼大的平台支援 AI 
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [AI Agent 支付](ai-agent-payments.md)
+* [Web3 支付總覽](../payments/README.md)
+* [Block Bitcoin 支付](../payments/block-btc.md)
+* [x402 Protocol](x402.md)
 
 #### 參考資料
 

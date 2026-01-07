@@ -207,7 +207,8 @@ Polymarket 使用 **UMA Protocol** 的樂觀預言機（Optimistic Oracle）：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Polymarket](polymarket.md)
+* [預測市場應用](use-cases.md)
 
 #### 參考資料
 

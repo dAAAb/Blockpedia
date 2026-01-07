@@ -24,7 +24,8 @@ description: Total Supply
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [通證名稱](tong-ming.md)
+* [通證代號](tong-dai.md)
 
 #### 參考資料
 

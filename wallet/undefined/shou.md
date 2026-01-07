@@ -41,7 +41,8 @@ description: 交易手續費（英文：Transaction Fee）為付給礦工 - 也�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [送出交易](song-chu.md)
+* [交易哈希](ha-xi.md)
 
 #### 參考資料
 

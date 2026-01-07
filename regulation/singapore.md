@@ -280,7 +280,9 @@ Project Guardian 可能擴展到更多資產類別。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [MetaMask](../untitled/metamask.md)
+* [歐盟 MiCA](mica.md)
+* [美國 GENIUS Act](genius-act.md)
 
 #### 參考資料
 

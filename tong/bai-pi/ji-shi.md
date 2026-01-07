@@ -16,7 +16,8 @@ description: Corner stone
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [私募輪](si-mu.md)
+* [公募輪](gong-mu.md)
 
 #### 參考資料
 

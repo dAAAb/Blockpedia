@@ -12,7 +12,9 @@ SHA3是Secure Hash Algorithm 3的簡寫，相較於先前的SHA0、SHA1和SHA2�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [SHA256](sha256.md)
+* [NFT 懶人包 - WhaleShark](../../nft-for-dummies/README.md)
+* [哈希算法](hash.md)
 
 #### 參考資料
 

@@ -9,7 +9,8 @@ description: Parity的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Parity Signer](../../cold-wallet/parity-signer-ios-android.md)
+* [Geth](geth.md)
 
 #### 參考資料
 

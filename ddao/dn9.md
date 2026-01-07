@@ -26,7 +26,9 @@ description: https://www.loom.com/share/df5efd77c6b04616a22b2066d0213308
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Web3](../qu-zhong-xin-hua-yong-dapp/web3.md)
+* [AI x Web3 總覽](../ai-web3/README.md)
+* [Web3 支付總覽](../payments/README.md)
 
 #### 參考資料
 

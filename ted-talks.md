@@ -48,7 +48,11 @@ description: 本頁是與區塊鏈相關的精選 TED 演講集，涵蓋加密�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [區塊鏈：魔法帳本](chain.md)
+* [區塊鏈風險總覽](blockchain-security/README.md)
+* [區塊鏈名人錄](ming-ren/README.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

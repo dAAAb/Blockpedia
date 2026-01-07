@@ -293,7 +293,9 @@ Lightning Network 讓比特幣「真正可用」於日常支付。它不是完�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Render Network](../depin/render.md)
+* [Bitcoin ETF](etf.md)
+* [Bitcoin Ordinals](ordinals.md)
 
 #### 參考資料
 

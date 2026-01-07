@@ -210,7 +210,8 @@ Aptos 有 Meta 的技術積累和頂級 VC 背書。Block-STM 是其技術亮點
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Solana](solana.md)
+* [Avalanche](avalanche.md)
 
 #### 參考資料
 

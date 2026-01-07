@@ -184,7 +184,9 @@ NFT 不只能夠翻轉數位資產的擁有權，它同時也能改變世界。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [NFT 藝術家 Top50](../nft-artist-top50/README.md)
+* [NFT 懶人包 - WhaleShark](README.md)
+* [NFT 是什麼](../nft-collectibles/README.md)
 
 #### 參考資料
 

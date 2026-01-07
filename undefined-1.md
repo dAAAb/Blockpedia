@@ -18,7 +18,11 @@ description: 鏈（英語：Chain）是將事物連結在一起的東西。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [區塊鏈：魔法帳本](chain.md)
+* [多鏈錢包](wallet/ju-he-bao.md)
+* [最長鏈原則](wa/bo/zui-yuan.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

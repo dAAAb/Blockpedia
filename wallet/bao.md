@@ -34,7 +34,8 @@ description: 遊戲錢包（Cryptogame Wallet），又稱作遊戲內加密錢�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [錢包地址](address.md)
+* [公鑰](gong.md)
 
 #### 參考資料
 

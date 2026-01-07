@@ -61,7 +61,8 @@ description: 區塊鏈證書
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [IPFS](ipfs.md)
+* [ENS](ens.md)
 
 #### 參考資料
 

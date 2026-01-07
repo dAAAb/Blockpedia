@@ -284,7 +284,11 @@ BRC-20 是一個「實驗」，它證明了在比特幣上可以做代幣，但�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [ERC20：代幣標準](../erc20-1.md)
+* [RWA 代幣化總覽](../rwa/README.md)
+* [代幣化國債](../rwa/treasuries.md)
+* [Bitcoin ETF](etf.md)
+* [Bitcoin Ordinals](ordinals.md)
 
 #### 參考資料
 

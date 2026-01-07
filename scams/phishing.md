@@ -283,7 +283,8 @@ description: 你收到一封 Email，看起來是 Coinbase 發的。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [假錢包 APP](fake-wallet.md)
+* [空投詐騙](airdrop-scam.md)
 
 #### 參考資料
 

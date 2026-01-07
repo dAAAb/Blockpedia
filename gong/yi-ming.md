@@ -9,7 +9,8 @@ description: 權益證明的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [權益證明（PoS）](../consensus/pos.md)
+* [委託權益證明（DPoS）](../consensus/dpos.md)
 
 #### 參考資料
 

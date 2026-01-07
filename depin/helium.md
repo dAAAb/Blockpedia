@@ -276,7 +276,8 @@ Helium 是 DePIN 的先驅和試驗場。無論成敗，它都為這個領域提
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Render Network](render.md)
+* [Hivemapper](hivemapper.md)
 
 #### 參考資料
 

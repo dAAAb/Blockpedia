@@ -20,7 +20,8 @@ description: 許多區塊鏈使用者發現Proof of Work並不如想像中的完
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [委託權益證明（DPoS）](dpos.md)
+* [工作量證明（PoW）](pos-1.md)
 
 #### 參考資料
 

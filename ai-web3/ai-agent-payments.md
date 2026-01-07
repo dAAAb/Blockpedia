@@ -152,7 +152,11 @@ AI 自主花錢帶來一些新問題：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Cloudflare AI 支付](cloudflare.md)
+* [Web3 支付總覽](../payments/README.md)
+* [Block Bitcoin 支付](../payments/block-btc.md)
+* [x402 Protocol](x402.md)
+* [去中心化 AI](decentralized-ai.md)
 
 #### 參考資料
 

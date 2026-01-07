@@ -194,7 +194,10 @@ USD1 是政治進入穩定幣市場的象徵。無論你的政治立場如何，
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [USDT](../usdt/usdt.md)
+* [USDC](usdc.md)
+* [USDe（Ethena）](usde.md)
+* [DAI](dai.md)
 
 #### 參考資料
 

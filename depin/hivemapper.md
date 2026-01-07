@@ -265,7 +265,8 @@ Hivemapper 代表了一個有趣的嘗試：
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Helium](helium.md)
+* [Render Network](render.md)
 
 #### 參考資料
 

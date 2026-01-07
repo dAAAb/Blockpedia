@@ -29,7 +29,7 @@ echo 'You got to trust me on this, I saved the world'
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Ledger Nano S/X](../cold-wallet/ledger-nano.md)
 
 #### 參考資料
 

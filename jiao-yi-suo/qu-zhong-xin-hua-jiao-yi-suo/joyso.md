@@ -9,7 +9,7 @@ description: Joyso的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [0x Protocol](0x.md)
 
 #### 參考資料
 

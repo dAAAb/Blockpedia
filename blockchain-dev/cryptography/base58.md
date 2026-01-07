@@ -22,7 +22,11 @@ description: 類似於Base64，由比特幣創辦人Satoshi Nakamoto所提出，
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Coinbase Wallet](../../untitled/coinbase-wallet.md)
+* [Coinbase](../../shang/coinbase.md)
+* [Base64](base64.md)
+* [哈希算法](hash.md)
+* [SHA256](sha256.md)
 
 #### 參考資料
 

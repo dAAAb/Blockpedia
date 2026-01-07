@@ -59,7 +59,8 @@ GZHZPZKXSDSQCJUHJOXHRTODMKATRZBZUTBYSYTHRKEDYEYVNQCR9FJVIVXTDISZYOVWMFZEYEHNMGHQ
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [公鑰](gong.md)
+* [助記詞](seed.md)
 
 #### 參考資料
 

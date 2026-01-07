@@ -290,7 +290,8 @@ Mt. Gox 事件震驚了日本政府。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [歐盟 MiCA](mica.md)
+* [美國 GENIUS Act](genius-act.md)
 
 #### 參考資料
 

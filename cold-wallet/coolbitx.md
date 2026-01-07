@@ -20,7 +20,8 @@ CoolWallet S 是一張由台灣製造，薄如卡片的硬體冷錢包。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Ledger Nano S/X](ledger-nano.md)
+* [Trezor](trezor.md)
 
 #### 參考資料
 

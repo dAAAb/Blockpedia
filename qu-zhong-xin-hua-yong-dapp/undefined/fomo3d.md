@@ -9,7 +9,7 @@ description: Fomo3D的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [FOMO](../../mi-yin/fomo.md)
 
 #### 參考資料
 

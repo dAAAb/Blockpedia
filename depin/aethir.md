@@ -289,7 +289,8 @@ GPU 短缺是真實的問題，去中心化網路提供了一種解決方案。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Helium](helium.md)
+* [Render Network](render.md)
 
 #### 參考資料
 

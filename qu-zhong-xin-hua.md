@@ -31,7 +31,11 @@ description: 去中心化（英語：Decentralize）是中心化的相反，也�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [去中心化交易所（DEX）](jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/README.md)
+* [DEX 去中心化交易所](defi/dex/README.md)
+* [去中心化自組織（DAO）](dao.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

@@ -12,7 +12,8 @@ description: 2010 年，佛州程序員 Laszlo Hanyecz 用 10000 個比特幣成
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [V神](vitalikv-shen.md)
+* [韭菜](jiu-cai.md)
 
 #### 參考資料
 

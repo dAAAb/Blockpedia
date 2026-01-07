@@ -166,7 +166,11 @@ AI 的能力來自訓練資料。如果訓練資料是開放的、可驗證的�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [去中心化：沒有村長的世界](../qu-zhong-xin-hua.md)
+* [去中心化交易所（DEX）](../jiao-yi-suo/qu-zhong-xin-hua-jiao-yi-suo/README.md)
+* [DEX 去中心化交易所](../defi/dex/README.md)
+* [x402 Protocol](x402.md)
+* [AI Agent 支付](ai-agent-payments.md)
 
 #### 參考資料
 

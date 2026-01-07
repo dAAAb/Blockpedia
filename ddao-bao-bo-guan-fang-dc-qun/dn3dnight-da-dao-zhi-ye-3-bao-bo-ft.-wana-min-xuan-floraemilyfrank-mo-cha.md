@@ -16,7 +16,8 @@ description: https://ipfs.io/ipfs/QmPNUxe2XhJNRczNZtr6e2pZJRTUrgAtsexwca3DkcmUDG
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [DDAO 寶博官方 DC 群](../ddao/README.md)
+* [寶博朋友說](../dAAAb-in-Tech/README.md)
 
 #### 參考資料
 

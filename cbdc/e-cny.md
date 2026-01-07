@@ -215,7 +215,8 @@ description: 在「CBDC 總覽」中，我們提到各國央行都在研究數�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [印度 e-rupee](e-rupee.md)
+* [數位歐元](digital-euro.md)
 
 #### 參考資料
 

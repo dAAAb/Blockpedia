@@ -88,7 +88,7 @@ Let’s Geddit
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [NFT 懶人包 - WhaleShark](README.md)
 
 #### 參考資料
 

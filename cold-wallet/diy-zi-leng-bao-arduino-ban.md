@@ -24,7 +24,10 @@ description: 只要是能運行錢包且又無法匯出私鑰的安全硬體，�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [冷錢包](README.md)
+* [CoinMarketCap](../jiao-yi-suo/undefined-2/cmc.md)
+* [Ledger Nano S/X](ledger-nano.md)
+* [CoolWallet S](coolbitx.md)
 
 #### 參考資料
 

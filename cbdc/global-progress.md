@@ -264,7 +264,10 @@ G20 國家全部都在研究 CBDC，顯示這是全球性趨勢。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [CBDC 總覽](README.md)
+* [mBridge 跨境 CBDC](mbridge.md)
+* [數位人民幣（e-CNY）](e-cny.md)
+* [印度 e-rupee](e-rupee.md)
 
 #### 參考資料
 

@@ -9,7 +9,7 @@ description: Trezor的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Trezor](../cold-wallet/trezor.md)
 
 #### 參考資料
 

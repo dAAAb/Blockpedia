@@ -42,7 +42,8 @@ description: 中心化帳本（Decentralize Ledger）指得是將信用、貨幣
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

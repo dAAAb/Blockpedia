@@ -16,7 +16,8 @@ description: 工作量證明(Proof-of-Work或是PoW)是讓比特幣開拓加密�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [權益證明（PoS）](pos.md)
+* [委託權益證明（DPoS）](dpos.md)
 
 #### 參考資料
 

@@ -9,7 +9,8 @@ description: 炒幣的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [瞭解你的用戶（KYC）](liao-jie-ni-de-yong-kyc.md)
+* [領投](tou.md)
 
 #### 參考資料
 

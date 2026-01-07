@@ -14,7 +14,8 @@ description: Project Owner
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [山寨幣](shan-zhai.md)
+* [分岔幣](fen-cha.md)
 
 #### 參考資料
 

@@ -18,7 +18,8 @@ description: 授權證明\(Delegate Proof of Stake或DPoS\)的出現是為了解
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [工作量證明（PoW）](pos-1.md)
+* [權益證明（PoS）](pos.md)
 
 #### 參考資料
 

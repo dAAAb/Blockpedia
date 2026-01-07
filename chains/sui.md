@@ -213,7 +213,8 @@ Sui 代表了區塊鏈的新思維：物件導向、並行處理、Move 語言�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Solana](solana.md)
+* [Avalanche](avalanche.md)
 
 #### 參考資料
 

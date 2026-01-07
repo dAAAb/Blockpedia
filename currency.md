@@ -38,7 +38,11 @@ TED Talk 上廣為流傳 由全世界最多天才的地方之一：[麻省理工
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [聰：比特幣的最小單位](Satoshi-Nakamoto/undefined-5.md)
+* [比特幣：數位黃金](bi-te.md)
+* [比特幣錢包](wallet/bi-te-bao/README.md)
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 

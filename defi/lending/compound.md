@@ -332,7 +332,7 @@ Compound 是 DeFi 借貸的先驅。雖然現在 Aave 的 TVL 更大，但 Compo
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [Aave](aave.md)
 
 #### 參考資料
 

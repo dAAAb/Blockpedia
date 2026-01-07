@@ -14,7 +14,9 @@ description: DIY 冷錢包（FireFly, HITCON etc.）的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [DIY 冷錢包](../cold-wallet/diy-zi-leng-bao-arduino-ban.md)
+* [冷錢包](../cold-wallet/README.md)
+* [CoinMarketCap](../jiao-yi-suo/undefined-2/cmc.md)
 
 #### 參考資料
 

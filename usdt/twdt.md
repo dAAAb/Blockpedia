@@ -9,7 +9,8 @@ description: TWDT的完整介紹與說明。
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [錨定](ding.md)
+* [USDT](usdt.md)
 
 #### 參考資料
 

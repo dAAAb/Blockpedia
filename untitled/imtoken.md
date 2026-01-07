@@ -16,7 +16,8 @@ description: imToken 是中國最多人使用的 App 熱錢包，分為國內版
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [MetaMask](metamask.md)
+* [Trust Wallet](trust-wallet.md)
 
 #### 參考資料
 

@@ -16,7 +16,8 @@ description: 不可竄改（Immutability）指得是多數人所說區塊鏈系�
 
 #### 相關條目
 
-<!-- TODO: 添加 3-5 個相關頁面連結 -->
+* [前言：為什麼寫這本書](blockpedia.md)
+* [如何閱讀本書](how-to-read.md)
 
 #### 參考資料
 
