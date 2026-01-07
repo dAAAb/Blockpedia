@@ -2,6 +2,255 @@
 
 ## 2026 專業規劃
 
+> **資料來源**：Hacker News、Reddit、Semrush、Princeton GEO 研究、llmstxt.org、Search Engine Journal、Digital Bloom AI Visibility Report
+
+---
+
+## 零、2026 前沿策略總覽（必讀）
+
+### 關鍵數據
+
+| 指標 | 數據 | 來源 |
+|------|------|------|
+| AI 流量年增長 | **527%**（2024-2025）| Previsible |
+| 傳統搜尋增長 | < 4% | 同上 |
+| 無點擊搜尋比例 | **70%+** | 業界共識 |
+| ChatGPT 週活用戶 | 4 億+ | OpenAI |
+| ChatGPT 引用 Wikipedia 佔比 | **47.9%** | Digital Bloom |
+| 跨 4+ 平台品牌被引用機率 | **2.8 倍** | Semrush |
+| 預計 2028 年 Google 流量流失 | 50%+ | 業界預測 |
+
+### 核心洞察
+
+> **「品牌搜尋量是 AI 引用的最強預測指標（0.334 相關性），不是反向連結。」**
+> — [Wellows LLM Citation Trends](https://wellows.com/blog/llm-citation-trends-for-ai-search/)
+
+> **「只有 11% 的網域同時被 ChatGPT 和 Perplexity 引用。」**
+> — [Digital Bloom 2025 AI Visibility Report](https://thedigitalbloom.com/learn/2025-ai-citation-llm-visibility-report/)
+
+> **「傳統 SEO 訊號無法預測 AI 能見度——Google 前 20 名與 ChatGPT 引用來源只有 8-12% 重疊。」**
+> — [Amsive AEO Guide](https://www.amsive.com/insights/seo/answer-engine-optimization-aeo-evolving-your-seo-strategy-in-the-age-of-ai-search/)
+
+---
+
+## 零-A、Wikipedia 策略（P0 最高優先）
+
+### 為什麼 Wikipedia 如此重要？
+
+| AI 平台 | Wikipedia 依賴程度 |
+|---------|-------------------|
+| ChatGPT | **47.9%** 引用來自 Wikipedia |
+| Gemini | 大量依賴 Wikipedia 訓練資料 |
+| Claude | Wikipedia 是核心訓練語料 |
+| Perplexity | 較少，偏好即時來源 |
+
+**所有主流 LLM 都用 Wikipedia 訓練**，Wikipedia 是 AI 眼中的「事實來源」。
+
+### Blockpedia 的 Wikipedia 策略
+
+#### 1. 建立/完善中文維基百科條目
+
+優先處理的條目：
+
+| 條目 | 狀態 | 動作 |
+|------|------|------|
+| 區塊鏈 | 已存在 | 檢查是否可補充 |
+| 去中心化金融 (DeFi) | 可能不完整 | 完善並引用 |
+| NFT | 已存在 | 檢查引用 |
+| 智能合約 | 已存在 | 檢查引用 |
+| 以太坊 | 已存在 | 檢查引用 |
+
+#### 2. 在 Wikipedia 引用 Blockpedia
+
+Wikipedia 的黃金規則：**「可查證性，而非真理」**
+
+要讓 Blockpedia 被 Wikipedia 引用，需要：
+- Blockpedia 內容具有原創研究價值
+- 或被其他可靠來源（媒體）引用後，間接進入 Wikipedia
+
+#### 3. 建立 Wikidata 實體
+
+為 Blockpedia/0x1 學院建立 Wikidata 項目，包含：
+- 官方網站
+- 創辦人
+- 成立日期
+- 主題領域
+
+---
+
+## 零-B、Reddit/社群策略（P0 最高優先）
+
+### 各 AI 平台的引用來源偏好
+
+| AI 平台 | 主要引用來源 | 次要來源 |
+|---------|-------------|----------|
+| **ChatGPT** | Wikipedia (47.9%) | Forbes, G2, Amazon |
+| **Perplexity** | Reddit (3.2M 提及) | YouTube, LinkedIn |
+| **Google AI** | 多元跨平台 | 現有高排名內容 |
+
+### Blockpedia 的社群策略
+
+#### Reddit（針對 Perplexity）
+
+| Subreddit | 動作 |
+|-----------|------|
+| r/CryptoCurrency | 分享深度內容、回答問題 |
+| r/ethereum | 以太坊相關討論 |
+| r/defi | DeFi 教學分享 |
+| r/Bitcoin | 比特幣知識 |
+
+**策略**：不是硬推連結，而是提供有價值的回答，自然提及 Blockpedia。
+
+#### PTT（台灣在地）
+
+| 看板 | 動作 |
+|------|------|
+| DigiCurrency | 數位貨幣討論 |
+| Tech_Job | 區塊鏈職涯 |
+
+#### 其他平台
+
+- **Quora**：回答區塊鏈問題
+- **Medium / 方格子**：發布精選文章
+- **知乎**（如果要觸及中國用戶）
+
+---
+
+## 零-C、llms.txt 優化
+
+### 什麼是 llms.txt？
+
+> **llms.txt 是給 LLM 爬蟲的 sitemap**
+> — [llmstxt.org](https://llmstxt.org/)
+
+GitBook **自動生成** `/llms.txt` 和 `/llms-full.txt`，但應該檢查內容。
+
+### llms.txt 規格
+
+```markdown
+# 網站名稱（必填）
+
+> 簡短描述（blockquote）
+
+## 重要頁面
+
+- [頁面名稱](URL): 簡短說明
+- [頁面名稱](URL): 簡短說明
+
+## Optional
+
+- [次要頁面](URL): 說明
+```
+
+### 檢查 Blockpedia 的 llms.txt
+
+訪問 `https://[your-gitbook-url]/llms.txt` 確認：
+1. 網站名稱正確
+2. 重要頁面都有列出
+3. 描述清晰
+
+---
+
+## 零-D、Answer Engineering（答案工程）
+
+### 2026 年的內容策略轉變
+
+| 傳統 SEO | Answer Engineering |
+|----------|-------------------|
+| 優化排名 → 獲得點擊 | 優化引用 → 被 AI 提取 |
+| 長篇完整文章 | 模組化可獨立段落 |
+| 關鍵詞密度 | **事實密度** |
+| 頁面權重 | **段落權重** |
+
+### 實作原則
+
+#### 1. 段落即答案
+
+每個段落應該能獨立回答一個問題：
+
+```markdown
+### 什麼是比特幣減半？
+
+比特幣減半（Bitcoin Halving）是每產出 210,000 個區塊後，
+礦工獎勵減少 50% 的機制。這約每 4 年發生一次。
+最近一次減半在 2024 年 4 月，獎勵從 6.25 BTC 降至 3.125 BTC。
+下次減半預計在 2028 年。
+```
+
+這段話可以被 AI **完整提取**作為答案。
+
+#### 2. 事實密度
+
+每 150-200 字包含具體數據：
+- 數字
+- 日期
+- 百分比
+- 來源
+
+#### 3. 結構化資料
+
+使用表格、列表、清晰的標題層級。
+
+---
+
+## 零-E、跨平台存在感策略
+
+### 為什麼跨平台很重要？
+
+> **「出現在 4+ 平台的品牌，被 AI 引用的機率提高 2.8 倍」**
+
+### Blockpedia 跨平台佈局
+
+| 平台 | 狀態 | 優先級 | 動作 |
+|------|------|--------|------|
+| GitBook（自有網站）| ✅ 已有 | - | 持續優化 |
+| GitHub | ✅ 已有 | P1 | 增加 README、活躍度 |
+| 中文 Wikipedia | ❓ 待確認 | **P0** | 建立/完善條目 |
+| Wikidata | ❌ 無 | P1 | 建立實體 |
+| Reddit | ❌ 無 | **P0** | 開始參與 |
+| Medium/方格子 | ❌ 無 | P2 | 發布精選文章 |
+| YouTube | ❌ 無 | P3 | 如有影片資源 |
+| PTT | ❓ 待確認 | P2 | 參與討論 |
+
+---
+
+## 零-F、MCP Server（2026 新興標準）
+
+### 什麼是 MCP？
+
+Model Context Protocol（MCP）是 Anthropic 推出的標準，讓 AI Agent 可以直接存取外部資料和工具。
+
+> **「Google 推出託管式 MCP 伺服器，讓 AI Agent 直接存取服務」**
+> — [TechCrunch, 2025.12](https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/)
+
+### GitBook 的 MCP 支援
+
+GitBook 已自動為文件生成 MCP Server，讓 AI Agent 可以：
+- 查詢文件內容
+- 搜尋特定主題
+- 獲取結構化資訊
+
+**這是 Blockpedia 的隱藏優勢**——使用 GitBook 自動獲得 AI Agent 相容性。
+
+---
+
+## 零-G、技術 SEO 基礎（仍然重要）
+
+### AI 爬蟲的技術需求
+
+| 需求 | 說明 | GitBook 狀態 |
+|------|------|-------------|
+| Server-Side Rendering | 不依賴 JavaScript | ✅ 自動 |
+| 乾淨的 HTML 結構 | 語意化標籤 | ✅ 自動 |
+| 快速載入 | Core Web Vitals | ✅ CDN |
+| 無登入牆 | 公開可存取 | ✅ |
+| 穩定 URL | 不常變動 | ✅ |
+
+> **「JavaScript-heavy 頁面對 LLM 爬蟲的破壞程度比開發者想像的更嚴重」**
+> — [HN: AI-First Web](https://news.ycombinator.com/item?id=45952639)
+
+GitBook 自動處理這些技術需求。
+
 ---
 
 ## 一、核心概念：SEO vs AISEO/GEO
