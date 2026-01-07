@@ -97,6 +97,25 @@
 
 ---
 
+## 2026-01-07 完成的空白條目補充
+
+| 類別 | 條目 | 路徑 | 狀態 |
+|------|------|------|------|
+| 安全 | 51% 攻擊 | `blockchain-security/51-attack.md` | ✅ 已完成 |
+| 安全 | 雙重支付 | `blockchain-security/double-spending.md` | ✅ 已完成 |
+| 安全 | 女巫攻擊 | `blockchain-security/sybil-attack.md` | ✅ 已完成 |
+| 安全 | DDoS 攻擊 | `blockchain-security/ddos.md` | ✅ 已完成 |
+| 安全 | 區塊鏈安全總覽 | `blockchain-security/README.md` | ✅ 已完成 |
+| 分叉 | 硬分叉 | `fork/hard-fork.md` | ✅ 已完成 |
+| 分叉 | 軟分叉 | `fork/soft-fork.md` | ✅ 已完成 |
+| 迷因 | HODL | `mi-yin/hodl.md` | ✅ 已完成 |
+| 迷因 | DYOR | `mi-yin/dyor.md` | ✅ 已完成 |
+| 迷因 | FUD | `mi-yin/fud.md` | ✅ 已完成 |
+| 共識 | 共識機制總覽 | `consensus/README.md` | ✅ 已完成 |
+| 智能合約 | 智能合約總覽 | `smart-contract/README.md` | ✅ 已完成 |
+
+---
+
 ## 安全章節擴充
 
 撰寫詐騙手法時發現，可以擴充安全相關內容：
