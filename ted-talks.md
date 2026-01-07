@@ -1,5 +1,7 @@
 # 區塊鏈TED演講
 
+**本頁是與區塊鏈相關的精選 TED 演講集，涵蓋加密貨幣、去中心化經濟、信任機制等主題。**
+
 ### [貨幣的未來 (內哈娜魯拉 | TED@BCG Paris)](https://www.ted.com/talks/neha\_narula\_the\_future\_of\_money?language=zh-tw)
 
 {% embed url="https://www.ted.com/talks/neha_narula_the_future_of_money" %}

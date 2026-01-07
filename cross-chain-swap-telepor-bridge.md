@@ -4,7 +4,7 @@ description: Cross Chain Exchange / Atom Swap
 
 # 跨鏈交易
 
-跨鏈交易（Chain Bridge）、跨鏈轉換（Chain Swap）又稱原子交換（Atom Swap）
+**跨鏈交易（Chain Bridge）是讓不同區塊鏈之間的資產能夠互相轉換的技術，又稱跨鏈轉換（Chain Swap）或原子交換（Atom Swap）。**
 
 一個鏈就像一種資料庫，跨鏈交換資產就像「跨資料庫」互轉資料。例如：SQL 跟 MongoDB 只要寫好 I/O Bridge ，資料還是可以互相移轉。鏈跟鏈的資產只要有人寫好跨鏈機制（Atom Swap） 就能互轉。
 

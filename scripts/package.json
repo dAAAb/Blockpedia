@@ -6,7 +6,10 @@
     "audit": "node seo-audit.js",
     "audit:save": "node seo-audit.js --output ../seo-report.md",
     "optimize:preview": "node seo-optimize.js --dry-run",
-    "optimize:apply": "node seo-optimize.js --apply"
+    "optimize:apply": "node seo-optimize.js --apply",
+    "fix-def:preview": "node fix-definition.js --dry-run",
+    "fix-def:apply": "node fix-definition.js --apply",
+    "fix-def:all": "node fix-definition.js --dry-run --show-skipped"
   },
   "dependencies": {
     "glob": "^10.0.0"
