@@ -1,4 +1,10 @@
+---
+description: 比特幣是第一個。
+---
+
 # 公鏈總覽
+> **最後更新：2026 年 1 月**
+
 
 ## 除了比特幣和以太坊，還有很多 Layer 1 公鏈在競爭，它們各有特色，代表了區塊鏈技術的不同方向。
 
@@ -210,3 +216,13 @@
 - [DefiLlama Chains](https://defillama.com/chains) - 公鏈 TVL 排名
 - [L2Beat](https://l2beat.com/) - Layer 2 數據
 - [Electric Capital 開發者報告](https://www.developerreport.com/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

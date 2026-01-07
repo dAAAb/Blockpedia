@@ -1,4 +1,10 @@
+---
+description: 銀行開戶要身分證。
+---
+
 # DeFi 去中心化金融
+> **最後更新：2026 年 1 月**
+
 
 ## DeFi 是建立在區塊鏈上的金融服務，不需要銀行、不需要中介，任何人只要有錢包就能使用。
 
@@ -260,3 +266,13 @@ DeFi 是區塊鏈最重要的應用之一。它不只是技術創新，更是金
 - [DefiLlama](https://defillama.com/) - DeFi 數據追蹤
 - [DeFi Pulse](https://defipulse.com/) - DeFi 指數
 - [Ethereum DeFi](https://ethereum.org/en/defi/) - 以太坊官方 DeFi 介紹
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

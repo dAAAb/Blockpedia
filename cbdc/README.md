@@ -1,4 +1,10 @@
+---
+description: 在「幣」的條目中，我們說貨幣是「共同約定的價值記錄」。從貝殼到金幣，從紙鈔到信用卡，貨幣的形式一直在演變。
+---
+
 # CBDC 央行數位貨幣
+> **最後更新：2026 年 1 月**
+
 
 ## CBDC（Central Bank Digital Currency）是由國家央行發行的數位形式法定貨幣，結合了加密技術與國家信用。
 
@@ -158,3 +164,13 @@ CBDC 是把雙面刃。
 - [Atlantic Council CBDC Tracker](https://www.atlanticcouncil.org/cbdctracker/)
 - [BIS: Central bank digital currencies](https://www.bis.org/about/bisih/topics/cbdc.htm)
 - [IMF: The Rise of Digital Money](https://www.imf.org/en/Publications/fintech-notes/Issues/2019/07/12/The-Rise-of-Digital-Money-47097)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

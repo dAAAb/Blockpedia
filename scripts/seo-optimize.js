@@ -72,11 +72,15 @@ const CONFIG = {
     'creatoreconomy',
   ],
 
-  // 排除的檔案
+  // 排除的檔案（僅排除根目錄的特殊檔案）
   excludeFiles: [
-    'README.md',      // 首頁單獨處理
     'SUMMARY.md',     // 目錄檔
     'CLAUDE.md',      // Claude 設定
+  ],
+
+  // 排除的完整路徑
+  excludePaths: [
+    'README.md',      // 根目錄首頁單獨處理
   ],
 
   // 更新日期
@@ -360,7 +364,15 @@ function getFilesToProcess(rootDir) {
   // 過濾排除的檔案
   return allFiles.filter(f => {
     const basename = path.basename(f);
-    return !CONFIG.excludeFiles.includes(basename);
+    const relativePath = path.relative(rootDir, f);
+
+    // 排除特定檔名
+    if (CONFIG.excludeFiles.includes(basename)) return false;
+
+    // 排除特定路徑（根目錄 README.md）
+    if (CONFIG.excludePaths && CONFIG.excludePaths.includes(relativePath)) return false;
+
+    return true;
   });
 }
 

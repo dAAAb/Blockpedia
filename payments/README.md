@@ -1,4 +1,10 @@
+---
+description: 在「幣」的條目中，我們說貨幣的核心功能是「交換價值」。區塊鏈從誕生那天起，就被寄予「成為新支付方式」的期望。
+---
+
 # Web3 支付
+> **最後更新：2026 年 1 月**
+
 
 ## Web3 支付是指使用區塊鏈和加密貨幣進行的支付，正在從加密原生場景走向主流商業。
 
@@ -187,3 +193,13 @@ Web3 支付正在讓這成為現實。
 - [Stripe Bridge Acquisition](https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition)
 - [Circle: State of USDC](https://www.circle.com/en/usdc)
 - [a16z: Stablecoins and Payments](https://a16z.com/stablecoins-and-the-future-of-payments/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

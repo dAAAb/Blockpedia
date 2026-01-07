@@ -1,4 +1,10 @@
+---
+description: 在「數位資產」條目中，我們討論了區塊鏈原生的資產——比特幣、以太幣、各種代幣。
+---
+
 # RWA 真實世界資產
+> **最後更新：2026 年 1 月**
+
 
 ## RWA（Real World Assets）代幣化是將傳統金融資產轉換為區塊鏈上的數位代幣，被認為是連接 TradFi 和 DeFi 的橋樑。
 
@@ -190,3 +196,13 @@ RWA 的成功與否，將決定區塊鏈能否真正進入主流金融。
 - [RWA.xyz — RWA 數據追蹤](https://app.rwa.xyz/)
 - [McKinsey: Tokenization of Real-World Assets](https://www.mckinsey.com/industries/financial-services/our-insights/tokenization-a-digital-asset-deja-vu)
 - [Boston Consulting Group: Relevance of On-chain Asset Tokenization](https://www.bcg.com/publications/2022/relevance-of-on-chain-asset-tokenization)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

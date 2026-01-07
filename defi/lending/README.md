@@ -1,4 +1,10 @@
+---
+description: 想借錢？
+---
+
 # DeFi 借貸
+> **最後更新：2026 年 1 月**
+
 
 ## DeFi 借貸讓你不需要銀行就能存款賺利息、抵押借款，一切由智能合約自動運作。
 
@@ -278,3 +284,13 @@ DeFi 借貸是「無許可金融」的代表。它讓任何人都能存款賺息
 - [Aave](https://aave.com/)
 - [Compound](https://compound.finance/)
 - [DefiLlama Lending](https://defillama.com/protocols/Lending) - 借貸協議排名
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

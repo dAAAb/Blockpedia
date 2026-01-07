@@ -1,4 +1,10 @@
+---
+description: 還記得我們在「幣」這個條目說過的嗎？貨幣是人類社會「彼此共同約定，記錄工作所得，並可以之交換工作所得的依據」。關鍵字是「人類社會」。
+---
+
 # AI x Web3
+> **最後更新：2026 年 1 月**
+
 
 ## 當人工智慧遇上區塊鏈，機器開始需要錢包。
 
@@ -81,3 +87,13 @@ AI x Web3 是 2025 年最熱門的交叉領域之一。如果說 2020-2021 是 D
 
 - [Coinbase x402 Protocol](https://www.coinbase.com/en-gb/blog/x402-a-new-standard-for-internet-native-payments)
 - [The Rise of AI Agents in Crypto](https://www.coingecko.com/learn/ai-agents-crypto)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

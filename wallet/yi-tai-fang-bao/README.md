@@ -1,4 +1,10 @@
+---
+description: 以太坊錢包（英文：Ethereum Wallet） 是目前市場上較多人會另行安裝的私鑰錢包，顧名思義，是以以太坊區塊鏈的鏈上貨幣為主的錢包。
+---
+
 # 以太坊錢包
+> **最後更新：2026 年 1 月**
+
 
 **以太坊錢包（英文：Ethereum Wallet） 是目前市場上較多人會另行安裝的**[**私鑰錢包**](../si-bao.md)**，顧名思義，是以以太坊區塊鏈的鏈上貨幣為主的錢包。**
 
@@ -8,3 +14,12 @@
 
 桌面電腦目前最多人使用的以太坊錢包是「[MetaMask](../../untitled/metamask.md)」，網路版的則是「[MyEtherWallet](jian-bao/myetherwallet.md)（簡稱：MEW）」和 MEW 分岔出來的「[MyCrypto](https://mycrypto.com/)」。
 
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

@@ -3,6 +3,8 @@ description: Satoshi Nakamoto
 ---
 
 # 中本聰
+> **最後更新：2026 年 1 月**
+
 
 [2008 年 10 月 31 日 星期五，美東時間下午 2 點 10 分](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)，在「metzdowd.com」線上論壇中，一位匿名為「中本聰（英語：Satoshi Nakamoto）」自稱 34 歲日裔美國人的用戶，在該網站的密碼學郵寄清單中發表了一篇沒有人看過的全新論文，題為《比特幣：一種對等式的電子現金系統》。
 
@@ -27,3 +29,13 @@ description: Satoshi Nakamoto
 在 2013 年，Hal Finney 在已經成熟的 BitcoinTalk 論壇上發佈說明，當時他已經確認為漸凍症患者，時日無多。
 
 {% embed url="https://bitcointalk.org/index.php?topic=155054.0" %}
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

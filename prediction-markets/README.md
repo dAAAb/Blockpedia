@@ -1,4 +1,10 @@
+---
+description: 你有沒有想過，誰能最準確地預測未來？
+---
+
 # 預測市場
+> **最後更新：2026 年 1 月**
+
 
 ## 預測市場（Prediction Market）是讓人們用真金白銀對未來事件下注的市場，被稱為「群眾智慧的聚合器」。
 
@@ -125,3 +131,13 @@
 - [Polymarket 官網](https://polymarket.com/)
 - [The Wisdom of Crowds — James Surowiecki](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)
 - [Iowa Electronic Markets](https://iemweb.biz.uiowa.edu/)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

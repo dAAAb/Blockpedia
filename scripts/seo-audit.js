@@ -430,7 +430,14 @@ function main() {
   let files = [];
   CONFIG.includeDirs.forEach(dir => {
     const pattern = path.join(CONFIG.rootDir, dir, '**/*.md');
-    files.push(...glob.sync(pattern));
+    files.push(...glob.sync(pattern, {
+      ignore: [
+        '**/node_modules/**',
+        '**/scripts/**',
+        '**/.git/**',
+        '**/.claude/**',
+      ]
+    }));
   });
 
   // 過濾

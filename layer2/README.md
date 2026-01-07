@@ -1,4 +1,10 @@
+---
+description: 以太坊的問題是什麼？
+---
+
 # Layer 2 擴容方案
+> **最後更新：2026 年 1 月**
+
 
 ## Layer 2 是建立在以太坊之上的擴容網路，讓交易更快、更便宜，同時繼承以太坊的安全性。
 
@@ -289,3 +295,13 @@ Layer 2 是以太坊擴容的關鍵。它讓區塊鏈從「太慢太貴」變成
 - [L2Beat](https://l2beat.com/) - L2 數據和風險分析
 - [Ethereum L2 文檔](https://ethereum.org/en/layer-2/)
 - [Vitalik 的 Rollup 介紹](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

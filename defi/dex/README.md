@@ -1,4 +1,10 @@
+---
+description: 你想交易一個新代幣。
+---
+
 # DEX 去中心化交易所
+> **最後更新：2026 年 1 月**
+
 
 ## DEX 是不需要註冊、不需要 KYC、任何人都能使用的交易所，由智能合約自動運作。
 
@@ -277,3 +283,13 @@ DEX 是 DeFi 的基礎設施。理解 DEX 的運作，是參與 DeFi 的第一�
 - [Curve](https://curve.fi/)
 - [1inch](https://1inch.io/) - DEX 聚合器
 - [DefiLlama DEX](https://defillama.com/protocols/Dexes) - DEX 排名
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->

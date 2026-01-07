@@ -1,4 +1,10 @@
+---
+description: 2017 年，你可以在幾乎任何國家自由地買賣加密貨幣，幾乎沒有法規限制。
+---
+
 # 全球監管框架
+> **最後更新：2026 年 1 月**
+
 
 ## 加密貨幣監管正從「荒野西部」走向「規範化」——各國政府正在建立框架，這將深刻影響產業未來。
 
@@ -276,3 +282,13 @@ SEC、DOJ 等機構的執法行動增加，特別是針對詐騙和未註冊證�
 - [FATF: Virtual Assets](https://www.fatf-gafi.org/en/topics/virtual-assets.html)
 - [BIS: Regulating Crypto](https://www.bis.org/topics/fintech/crypto.htm)
 - [IMF: Crypto Regulation](https://www.imf.org/en/Topics/fintech/crypto-regulation)
+
+---
+
+#### 相關條目
+
+<!-- TODO: 添加 3-5 個相關頁面連結 -->
+
+#### 參考資料
+
+<!-- TODO: 添加外部參考連結 -->
