@@ -5,6 +5,7 @@ description: 區塊鏈（Blockchain）是經過密碼學加持的帳本創建及
 # 區塊鏈
 > **最後更新：2026 年 1 月**
 
+> ✍️ 作者：葛如鈞（寶博士）｜區塊鏈研究者、前立法委員
 
 **區塊鏈（Blockchain）是經過密碼學加持的帳本創建及維護的工具。**
 
@@ -46,6 +47,16 @@ description: 區塊鏈（Blockchain）是經過密碼學加持的帳本創建及
 
 {% hint style="info" %}
 [補充資料](diao-de-pian-duan.md#undefined)
+{% endhint %}
+
+{% hint style="success" %}
+**專家觀點：**
+
+> 「區塊鏈解決的核心問題是信任。在沒有可信第三方的情況下，讓不認識的人可以進行交易。」
+> — Vitalik Buterin，以太坊創辦人
+
+> 「區塊鏈是繼網際網路之後最重要的發明。」
+> — Marc Andreessen，a16z 創投創辦人
 {% endhint %}
 
 ---

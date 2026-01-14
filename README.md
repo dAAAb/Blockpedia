@@ -58,6 +58,43 @@ _**目前 0x1 學院也提供寶博**_ [_**DDAO**_](ddao/)_**（**_ [_**https://
 
 [LINE 社團](http://line.me/ti/g/ia2540UHZd)&#x20;
 
+## 關於作者
+
+### 葛如鈞（寶博士）
+
+**學歷**
+- 國立台灣科技大學 設計學博士
+- 美國奇點大學（Singularity University）畢業
+- 美國 MIT 媒體實驗室 訪問學者
+
+**經歷**
+- 第 11 屆立法委員（2024-）
+- 國立臺北科技大學 互動設計系 專任助理教授
+- FAB DAO 共同發起人
+- 區塊鏈新創顧問與投資人
+
+**區塊鏈資歷**
+- 2013 年開始研究比特幣與區塊鏈技術
+- 2014 年於奇點大學購入首枚比特幣
+- 2017-2018 年參與多個區塊鏈專案（SELF CHAIN、LeadBest 等）
+- 2018 年於北科大開設台灣首批區塊鏈學分課程
+- 2021 年起積極參與 NFT 與 Web3 生態
+
+> 💡 寶博士是台灣區塊鏈領域的先驅者，致力於將複雜的技術概念以淺顯易懂的方式傳達給大眾。本百科全書彙集了他多年來的研究與實務經驗。
+
+---
+
+## 發現錯誤？
+
+如果你發現內容有誤或有任何建議，歡迎透過以下方式回報：
+
+- 📝 [GitHub Issues](https://github.com/dAAAb/Blockpedia/issues) - 提交問題或建議
+- 💬 [DDAO Discord](https://discord.gg/ddao) - 加入社群討論
+
+我們非常感謝社群的貢獻！
+
+---
+
 ## GitHub
 
 [https://github.com/dAAAb/Blockpedia](https://github.com/dAAAb/Blockpedia)&#x20;
