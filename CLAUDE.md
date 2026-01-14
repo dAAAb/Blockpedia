@@ -61,20 +61,43 @@ Blockpedia 是由 **0x1 Academy** 維護的開源區塊鏈百科全書，使用 
 
 ---
 
-## 待辦任務：Google Analytics 流量分析
+## ✅ 已完成：Google Analytics 流量分析（2026-01-08）
 
-**目標**：分析 0x1 (Blockpedia) 在 2023-2025 年間流量異常問題（瀏覽人數會突然飆升到幾百幾千又歸零）
+**目標**：分析 0x1 (Blockpedia) 在 2023-2025 年間流量異常問題
 
-**已完成**：
+### 問題根因
+
+| 問題 | 原因 | 解決方案 |
+|------|------|----------|
+| 流量中斷 (2024/7) | GitBook 使用舊版 Universal Analytics (`UA-29307708-2`)，已於 2024/7/1 停止運作 | 更新為 GA4 Measurement ID `G-SF0T5W3BSH` |
+| URL 設定錯誤 | GA4 資料串流 URL 設為 `blockpedia.gitbook.io/p/` | 更正為 `0x1.academy` |
+
+### 已完成項目
+
 - [x] 安裝 Playwright MCP server
 - [x] 設定 Claude Code MCP 配置
+- [x] 建立 Google Cloud 專案並啟用 GA4 Data API
+- [x] 建立 Service Account 並下載憑證
+- [x] 在 GA4 中授權 Service Account（Viewer 權限）
+- [x] 撰寫 Node.js 分析腳本 (`scripts/ga4-traffic-analysis.js`)
+- [x] 分析 2023-2025 流量數據並產出報告
+- [x] 修正 GitBook GA4 追蹤設定
+- [x] 修正 GA4 資料串流 URL
+- [x] 驗證追蹤碼正常運作
+- [x] 設定 GA4 流量異常警報（5 個自訂深入分析）
 
-**重啟後待辦**：
-1. 用 Playwright 開啟 Google Cloud Console
-2. 建立專案並啟用 Google Analytics Data API
-3. 建立 Service Account 並下載憑證 JSON
-4. 在 GA4 中授權 Service Account 存取 0x1 資源
-5. 寫 Python/Node.js 腳本連線 GA4 API
-6. 分析 2023-2025 流量異常原因
+### 相關檔案
 
-**用戶會提供**：額外的指令（待貼上）
+| 檔案 | 說明 |
+|------|------|
+| `scripts/ga4-credentials.json` | Service Account 憑證 |
+| `scripts/ga4-traffic-analysis.js` | GA4 API 分析腳本 |
+| `scripts/ga4-analysis-result.json` | 分析結果 (JSON) |
+| `scripts/traffic-anomaly-report.md` | 完整流量異常分析報告 |
+
+### GA4 設定資訊
+
+- **Property ID**: 385104224
+- **Measurement ID**: G-SF0T5W3BSH
+- **網站 URL**: https://0x1.academy
+- **Service Account**: `ga4-analytics@rosy-solstice-268017.iam.gserviceaccount.com`

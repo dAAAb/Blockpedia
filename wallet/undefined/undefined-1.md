@@ -6,7 +6,7 @@ description: Confirmation
 > **最後更新：2026 年 1 月**
 
 
-**交易確認（英文：Transaction Confirmation）表示一筆交易已經過區塊鏈礦工驗證，登錄在區塊裡並被記錄在帳本之中，是交易完成的絕對信號。**
+**交易確認（英文：Transaction Confirmation）是指一筆交易已經過區塊鏈礦工驗證，登錄在區塊裡並被記錄在帳本之中，是交易完成的絕對信號。**
 
 如果一筆交易在鏈上或錢包裡顯示確認，基本上就已經沒有竄改的可能，除非發生[雙花交易](../../blockchain-security/double-spending.md)或[帳本不同步](../../fork/)，否則這筆交易已經永久記錄在鏈上了。
 

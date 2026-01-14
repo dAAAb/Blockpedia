@@ -6,7 +6,7 @@ description: 全球最大區塊鏈/數位資產公司 Coinbase 在併購熱錢�
 > **最後更新：2026 年 1 月**
 
 
-全球最大區塊鏈/數位資產公司 [Coinbase](../shang/coinbase.md) 在併購熱錢包新創 Cipher 以後，自行推出 Coinbase Wallet，App 名稱僅有「Wallet」，目前佔有率不高，但功能完整，介面流暢。
+**Coinbase Wallet 是全球最大區塊鏈公司 [Coinbase](../shang/coinbase.md) 推出的熱錢包應用程式。**Coinbase 在併購熱錢包新創 Cipher 以後推出此產品，App 名稱僅有「Wallet」，目前佔有率不高，但功能完整，介面流暢。
 
 {% embed url="https://wallet.coinbase.com/" %}
 
