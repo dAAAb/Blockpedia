@@ -16,6 +16,45 @@ MakerDAO 是一個基於以太坊區塊鏈的去中心化自治組織，是運�
 * [錨定](ding.md)
 * [USDT](usdt.md)
 
+---
+
+## 重要更新：MakerDAO 更名為 Sky（2024）
+
+{% hint style="info" %}
+**品牌重塑**
+
+2024 年 8 月，MakerDAO 宣布進行重大品牌重塑，更名為 **Sky**。這是 MakerDAO 「Endgame」計劃的一部分，旨在使協議更加去中心化和易於使用。
+{% endhint %}
+
+### 主要變化
+
+| 舊名稱 | 新名稱 | 說明 |
+|--------|--------|------|
+| MakerDAO | Sky | 品牌名稱 |
+| DAI | USDS | 新版穩定幣（可 1:1 兌換） |
+| MKR | SKY | 治理代幣（1 MKR = 24,000 SKY） |
+
+### DAI 會消失嗎？
+
+不會。DAI 仍然可以正常使用，用戶可以選擇：
+- 繼續使用 DAI
+- 將 DAI 升級為 USDS（1:1 兌換）
+
+### 為什麼要改名？
+
+MakerDAO 創辦人 Rune Christensen 表示：
+- 讓品牌更加現代化、更易接近
+- 吸引更多主流用戶
+- 為 Endgame 願景做準備
+
+### 延伸閱讀
+
+- [DAI](../stablecoin/dai.md) — 去中心化穩定幣
+- [DAO](../dao/) — 去中心化自治組織
+
+---
+
 #### 參考資料
 
-<!-- TODO: 添加外部參考連結 -->
+- [Sky 官網](https://sky.money/)
+- [Sky Protocol 文件](https://docs.sky.money/)
