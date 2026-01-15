@@ -1,5 +1,5 @@
 ---
-description: *KeepKey 是一間美國公司，製作非常具有設計感的同名硬體錢包「KeepKey」，後在 2017 年 8 月被瑞士的一間數位資產交換公司 ShapeShift 併購。*
+description: KeepKey 是一間美國公司，製作非常具有設計感的同名硬體錢包，後被 ShapeShift 併購。
 ---
 
 # KeepKey
