@@ -1,5 +1,5 @@
 ---
-description: ![](<../.gitbook/assets/image (13).png>)
+description: 0x1 區塊鏈課程記錄，包含北科大、台大等學校的區塊鏈工作坊與學分課。
 ---
 
 # 0x1區塊鏈課程

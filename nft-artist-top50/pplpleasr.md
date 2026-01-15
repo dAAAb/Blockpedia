@@ -1,5 +1,5 @@
 ---
-description: 如果你對 DeFi 或 NFT 有那麼一點點認識，那肯定不會不知道「pplpleasr」。她爲 Uniswap v3 做的前導動畫《x\*y=k》，在拍賣平台 Foundation 上的公益 NFT 拍出 310 ETH 的高價 \(截稿前價值近 88 萬美元\)。此前她已經為 Aave、Su...
+description: pplpleasr 是知名 NFT 動畫藝術家，為 Uniswap、Aave 等 DeFi 協議創作動畫作品。
 ---
 
 # pplpleasr
