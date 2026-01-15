@@ -1,5 +1,5 @@
 ---
-description: "DAO是「去中心自治組織（Decentralized Autonomous Organization）」的縮寫，可解釋成開放式的創投基金，由「以太坊（Ethereum）」區塊鏈技術搭建，將投資使用區塊鏈技術的共享經濟項目。和其它組織最大的不同，在於The DAO並非由人力管理運作，而是從公司...
+description: DAO 是去中心自治組織的縮寫，透過智能合約實現組織自動化運作，無需人力管理。
 ---
 
 # 去中心化自組織（DAO）
